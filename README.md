@@ -1,10 +1,12 @@
 # 📘 README.md for Fluoroquinolone Cardiac Risk Study (UAE, 2018–2025)
 
----
+# 🧬 Fluoroquinolone-Associated Cardiotoxicity in the UAE: NLP-Based Real-World Risk Analysis (2018–2025)
 
-## 📖 Introduction
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15271591.svg)](https://doi.org/10.5281/zenodo.15271591)
 
-This study investigates the cardiovascular risks associated with fluoroquinolone antibiotics in the UAE using a multi-modal AI framework. By combining natural language processing (NLP), pharmacovigilance reports, physician notes, and machine learning (ML), the study aims to:
+## 🧠 Introduction
+
+This repository contains a reproducible analysis pipeline that investigates the cardiovascular risks associated with fluoroquinolone antibiotics in the UAE using a multi-modal AI framework. By combining natural language processing (NLP), pharmacovigilance reports, physician notes, and machine learning (ML), the study aims to:
 
 - Assess adverse cardiac outcomes (QT prolongation, arrhythmias, sudden cardiac death)
 - Analyze prescribing trends (2018–2025) using real-world and simulated UAE data
