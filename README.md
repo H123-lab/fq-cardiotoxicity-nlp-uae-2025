@@ -72,3 +72,18 @@ This bar chart compares the predicted probabilities of arrhythmia for each fluor
     ├── 03_risk_prediction_model_training.ipynb
     ├── 04_kaplan_meier_and_logistic_regression.ipynb
     └── 05_dashboard_visualization_powerbi.ipynb
+
+## 📊 Interactive Dashboard
+
+This interactive Power BI dashboard provides a real-time summary of fluoroquinolone prescribing patterns, risk signals, and ADRs across the UAE (2018–2023). It includes:
+- Drug-specific arrhythmia risks
+- High-risk co-prescription alerts
+- Timeline-based prescribing trends
+
+🔗 [Open Dashboard in Power BI](https://yourpowerbi-public-url.com)
+
+### 📷 Static Preview
+
+![Dashboard Overview](figures/dashboard_overview.png)
+
+
