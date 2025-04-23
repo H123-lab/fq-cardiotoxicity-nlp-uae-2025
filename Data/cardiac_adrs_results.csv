@@ -1,0 +1,474 @@
+Case ID,Patient Age,Patient Gender,Fluoroquinolone Used,Dosage (mg/day),Duration (days),Co-Medications,Pre-existing Conditions,Adverse Event Reported,Time to Onset (days),Outcome,Region,Data Source
+UAE-ADR-0002,92,Female,Moxifloxacin,250,5,,Hypertension,Arrhythmia,2,Recovered,Dubai,WHO
+UAE-ADR-0006,20,Male,Ciprofloxacin,250,2,,Cardiac Disease,QT prolongation,7,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-0009,74,Female,Levofloxacin,750,2,Beta-blocker,Hypertension,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-0026,57,Female,Levofloxacin,500,8,,Hypertension,Arrhythmia,7,Recovered,Dubai,WHO
+UAE-ADR-0031,58,Male,Ciprofloxacin,250,12,Diuretic,Diabetes,QT prolongation,1,Recovered,Dubai,WHO
+UAE-ADR-0032,41,Female,Levofloxacin,500,2,Beta-blocker,Hypertension,Arrhythmia,5,Recovered,Dubai,MOHAP
+UAE-ADR-0040,61,Male,Moxifloxacin,250,9,Diuretic,Hypertension,Arrhythmia,2,Recovered,Dubai,FAERS
+UAE-ADR-0055,8,Female,Levofloxacin,750,2,Anticoagulant,Diabetes,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0072,1,Male,Ciprofloxacin,500,7,Diuretic,Diabetes,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0091,61,Male,Ciprofloxacin,500,7,Beta-blocker,,QT prolongation,4,Recovered,Abu Dhabi,EMA
+UAE-ADR-0107,70,Female,Moxifloxacin,500,13,,Diabetes,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-0113,62,Female,Levofloxacin,750,13,Beta-blocker,Hypertension,QT prolongation,3,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0122,27,Male,Moxifloxacin,500,10,,Cardiac Disease,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-0149,14,Female,Ciprofloxacin,500,12,,Hypertension,Arrhythmia,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0153,50,Male,Ciprofloxacin,500,7,Beta-blocker,,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-0160,42,Male,Ciprofloxacin,750,4,,,QT prolongation,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0168,27,Female,Levofloxacin,500,10,,Cardiac Disease,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0174,5,Male,Ciprofloxacin,500,14,Beta-blocker,,QT prolongation,7,Hospitalized,Abu Dhabi,WHO
+UAE-ADR-0185,0,Female,Levofloxacin,500,4,,Hypertension,Arrhythmia,2,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-0186,26,Female,Moxifloxacin,500,13,Diuretic,,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0187,61,Female,Levofloxacin,250,13,Anticoagulant,Cardiac Disease,Arrhythmia,2,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-0256,32,Female,Levofloxacin,500,3,Diuretic,Cardiac Disease,Arrhythmia,1,Recovered,Dubai,MOHAP
+UAE-ADR-0270,6,Female,Levofloxacin,750,7,Beta-blocker,Cardiac Disease,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-0273,59,Female,Ciprofloxacin,750,9,,Cardiac Disease,Arrhythmia,6,Death,Abu Dhabi,EMA
+UAE-ADR-0288,53,Male,Ciprofloxacin,750,6,,Hypertension,Arrhythmia,6,Recovered,Dubai,FAERS
+UAE-ADR-0299,17,Male,Ciprofloxacin,500,10,,Diabetes,QT prolongation,7,Recovered,Dubai,MOHAP
+UAE-ADR-0315,6,Male,Ciprofloxacin,500,7,Diuretic,Hypertension,Arrhythmia,6,Recovered,Dubai,EMA
+UAE-ADR-0336,60,Male,Ciprofloxacin,500,11,,Diabetes,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0339,3,Male,Levofloxacin,500,9,,,QT prolongation,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0342,48,Female,Ciprofloxacin,500,7,Diuretic,Diabetes,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-0348,45,Male,Levofloxacin,750,4,,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0363,24,Male,Levofloxacin,500,13,,Hypertension,Arrhythmia,4,Recovered,Dubai,MOHAP
+UAE-ADR-0382,38,Male,Moxifloxacin,750,4,Beta-blocker,Cardiac Disease,QT prolongation,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0390,59,Male,Ciprofloxacin,500,10,Beta-blocker,,Arrhythmia,5,Recovered,Abu Dhabi,WHO
+UAE-ADR-0397,7,Female,Moxifloxacin,750,14,Anticoagulant,,Arrhythmia,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0400,75,Female,Levofloxacin,500,4,,Hypertension,QT prolongation,3,Hospitalized,Dubai,MOHAP
+UAE-ADR-0414,21,Male,Moxifloxacin,500,2,Diuretic,Cardiac Disease,QT prolongation,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0431,93,Male,Levofloxacin,500,13,,Diabetes,Arrhythmia,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0432,46,Male,Moxifloxacin,500,5,,Hypertension,Arrhythmia,3,Recovered,Abu Dhabi,EMA
+UAE-ADR-0437,12,Male,Ciprofloxacin,750,14,Diuretic,Hypertension,Arrhythmia,1,Recovered,Dubai,MOHAP
+UAE-ADR-0442,18,Female,Moxifloxacin,250,2,,Cardiac Disease,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-0454,0,Male,Ciprofloxacin,250,12,,Hypertension,Arrhythmia,3,Recovered,Abu Dhabi,WHO
+UAE-ADR-0462,62,Female,Moxifloxacin,500,6,Diuretic,Diabetes,QT prolongation,1,Recovered,Dubai,EMA
+UAE-ADR-0475,91,Male,Ciprofloxacin,500,3,Beta-blocker,Hypertension,Arrhythmia,2,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-0478,93,Male,Levofloxacin,500,5,,Hypertension,Arrhythmia,2,Hospitalized,Dubai,MOHAP
+UAE-ADR-0516,50,Male,Moxifloxacin,750,9,,Cardiac Disease,QT prolongation,2,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-0519,66,Female,Levofloxacin,750,6,Beta-blocker,,Arrhythmia,3,Hospitalized,Abu Dhabi,EMA
+UAE-ADR-0523,73,Male,Levofloxacin,500,14,,Hypertension,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0526,28,Female,Levofloxacin,250,8,,Cardiac Disease,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0539,89,Female,Moxifloxacin,500,13,,Diabetes,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0545,28,Female,Ciprofloxacin,500,1,Beta-blocker,,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0557,23,Female,Moxifloxacin,500,1,,Hypertension,Arrhythmia,7,Recovered,Abu Dhabi,WHO
+UAE-ADR-0570,88,Male,Levofloxacin,500,7,,Hypertension,Arrhythmia,6,Recovered,Abu Dhabi,WHO
+UAE-ADR-0594,15,Female,Levofloxacin,250,8,Beta-blocker,Hypertension,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0597,52,Female,Ciprofloxacin,250,12,,Cardiac Disease,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-0608,75,Female,Ciprofloxacin,500,11,Beta-blocker,Diabetes,QT prolongation,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0614,45,Male,Ciprofloxacin,750,2,,Cardiac Disease,QT prolongation,6,Hospitalized,Dubai,WHO
+UAE-ADR-0632,88,Female,Levofloxacin,500,7,,Diabetes,Arrhythmia,5,Recovered,Dubai,MOHAP
+UAE-ADR-0635,35,Male,Moxifloxacin,750,9,,Hypertension,QT prolongation,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0643,73,Female,Levofloxacin,750,13,,Hypertension,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-0659,76,Male,Ciprofloxacin,250,4,,,QT prolongation,3,Recovered,Abu Dhabi,EMA
+UAE-ADR-0661,61,Female,Levofloxacin,500,4,Beta-blocker,Cardiac Disease,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0672,44,Female,Moxifloxacin,500,6,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0693,86,Male,Levofloxacin,500,7,,Hypertension,QT prolongation,4,Recovered,Dubai,FAERS
+UAE-ADR-0721,76,Male,Ciprofloxacin,500,11,Diuretic,Diabetes,QT prolongation,6,Recovered,Northern Emirates,FAERS
+UAE-ADR-0722,91,Female,Ciprofloxacin,750,3,Beta-blocker,Hypertension,Arrhythmia,3,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0727,5,Female,Ciprofloxacin,500,14,,Hypertension,QT prolongation,3,Hospitalized,Northern Emirates,FAERS
+UAE-ADR-0728,81,Female,Ciprofloxacin,750,7,Diuretic,Diabetes,QT prolongation,1,Recovered,Dubai,MOHAP
+UAE-ADR-0729,68,Male,Moxifloxacin,500,7,Diuretic,Cardiac Disease,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0735,29,Female,Ciprofloxacin,250,12,,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0741,10,Male,Ciprofloxacin,500,8,Beta-blocker,Diabetes,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0746,85,Female,Ciprofloxacin,750,3,Beta-blocker,Diabetes,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-0752,0,Female,Moxifloxacin,500,12,,Hypertension,QT prolongation,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0759,4,Female,Ciprofloxacin,750,3,,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0774,44,Female,Levofloxacin,250,4,,,QT prolongation,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-0787,2,Male,Ciprofloxacin,500,2,Beta-blocker,Cardiac Disease,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0797,46,Female,Ciprofloxacin,750,10,Diuretic,,QT prolongation,2,Recovered,Abu Dhabi,FAERS
+UAE-ADR-0799,78,Male,Ciprofloxacin,250,7,Diuretic,Cardiac Disease,QT prolongation,2,Recovered,Abu Dhabi,WHO
+UAE-ADR-0821,80,Male,Ciprofloxacin,250,13,Beta-blocker,,Arrhythmia,5,Recovered,Abu Dhabi,WHO
+UAE-ADR-0846,3,Female,Ciprofloxacin,250,11,,Hypertension,QT prolongation,5,Recovered,Northern Emirates,WHO
+UAE-ADR-0863,41,Female,Ciprofloxacin,250,6,Beta-blocker,Hypertension,Arrhythmia,2,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-0867,69,Female,Moxifloxacin,500,8,,Cardiac Disease,Arrhythmia,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0889,25,Female,Ciprofloxacin,500,2,,Diabetes,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0901,86,Male,Ciprofloxacin,500,4,,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0912,17,Female,Ciprofloxacin,500,13,,Hypertension,Arrhythmia,2,Recovered,Dubai,MOHAP
+UAE-ADR-0917,27,Female,Moxifloxacin,500,7,Beta-blocker,Diabetes,Arrhythmia,2,Recovered,Northern Emirates,FAERS
+UAE-ADR-0920,56,Female,Ciprofloxacin,500,1,,Cardiac Disease,QT prolongation,1,Recovered,Northern Emirates,FAERS
+UAE-ADR-0937,39,Female,Levofloxacin,500,11,Beta-blocker,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-0940,40,Female,Levofloxacin,750,9,Beta-blocker,Cardiac Disease,Arrhythmia,7,Recovered,Abu Dhabi,WHO
+UAE-ADR-0948,69,Female,Ciprofloxacin,500,13,Diuretic,Hypertension,Arrhythmia,2,Recovered,Northern Emirates,WHO
+UAE-ADR-0950,52,Female,Moxifloxacin,250,5,,,QT prolongation,6,Recovered,Abu Dhabi,WHO
+UAE-ADR-0979,61,Female,Ciprofloxacin,500,13,,Hypertension,Arrhythmia,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1002,37,Female,Ciprofloxacin,750,3,Diuretic,Diabetes,Arrhythmia,4,Recovered,Abu Dhabi,EMA
+UAE-ADR-1011,4,Male,Ciprofloxacin,500,7,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Dubai,MOHAP
+UAE-ADR-1023,16,Female,Ciprofloxacin,500,13,,,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-1030,93,Male,Ciprofloxacin,500,3,Diuretic,Hypertension,Arrhythmia,3,Hospitalized,Dubai,MOHAP
+UAE-ADR-1040,75,Female,Moxifloxacin,750,14,Beta-blocker,Cardiac Disease,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1042,0,Female,Levofloxacin,500,7,Beta-blocker,Hypertension,QT prolongation,2,Hospitalized,Abu Dhabi,EMA
+UAE-ADR-1047,63,Male,Moxifloxacin,750,6,Anticoagulant,Diabetes,QT prolongation,5,Recovered,Northern Emirates,WHO
+UAE-ADR-1056,36,Male,Ciprofloxacin,500,5,,Diabetes,Arrhythmia,1,Recovered,Northern Emirates,WHO
+UAE-ADR-1092,63,Female,Moxifloxacin,250,13,Beta-blocker,Hypertension,QT prolongation,4,Recovered,Dubai,MOHAP
+UAE-ADR-1106,85,Male,Moxifloxacin,500,14,Anticoagulant,,QT prolongation,3,Recovered,Northern Emirates,MOHAP
+UAE-ADR-1122,28,Male,Ciprofloxacin,750,13,Diuretic,,Arrhythmia,6,Recovered,Dubai,FAERS
+UAE-ADR-1132,42,Male,Levofloxacin,750,6,Beta-blocker,Diabetes,QT prolongation,1,Recovered,Dubai,MOHAP
+UAE-ADR-1138,37,Female,Ciprofloxacin,750,7,Beta-blocker,Cardiac Disease,QT prolongation,4,Recovered,Dubai,MOHAP
+UAE-ADR-1145,11,Male,Levofloxacin,500,1,Anticoagulant,,QT prolongation,4,Recovered,Abu Dhabi,EMA
+UAE-ADR-1168,22,Male,Ciprofloxacin,500,4,,Diabetes,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-1172,89,Female,Ciprofloxacin,500,4,,Hypertension,QT prolongation,4,Recovered,Dubai,EMA
+UAE-ADR-1187,8,Female,Moxifloxacin,500,4,Beta-blocker,,Arrhythmia,1,Recovered,Dubai,WHO
+UAE-ADR-1216,32,Female,Ciprofloxacin,500,14,Diuretic,Hypertension,Arrhythmia,1,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-1221,25,Male,Ciprofloxacin,250,1,Diuretic,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1227,83,Female,Ciprofloxacin,250,11,Diuretic,Diabetes,QT prolongation,5,Recovered,Abu Dhabi,EMA
+UAE-ADR-1231,91,Female,Ciprofloxacin,750,13,Beta-blocker,,QT prolongation,6,Recovered,Northern Emirates,WHO
+UAE-ADR-1234,48,Male,Levofloxacin,250,13,,Cardiac Disease,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1255,0,Female,Ciprofloxacin,500,14,,Hypertension,QT prolongation,3,Recovered,Dubai,FAERS
+UAE-ADR-1301,15,Female,Ciprofloxacin,500,13,Beta-blocker,Cardiac Disease,QT prolongation,3,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-1304,53,Male,Levofloxacin,500,7,Beta-blocker,Hypertension,Arrhythmia,6,Hospitalized,Northern Emirates,MOHAP
+UAE-ADR-1315,84,Female,Ciprofloxacin,250,14,Beta-blocker,,Arrhythmia,7,Recovered,Dubai,MOHAP
+UAE-ADR-1336,93,Male,Levofloxacin,250,13,,Diabetes,Arrhythmia,1,Recovered,Dubai,MOHAP
+UAE-ADR-1351,39,Male,Moxifloxacin,500,8,,Diabetes,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-1354,72,Female,Ciprofloxacin,750,5,Diuretic,,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1367,40,Male,Ciprofloxacin,750,10,Beta-blocker,Diabetes,QT prolongation,4,Recovered,Northern Emirates,FAERS
+UAE-ADR-1389,25,Male,Levofloxacin,500,2,,Hypertension,QT prolongation,5,Recovered,Dubai,WHO
+UAE-ADR-1409,38,Female,Levofloxacin,250,2,,Hypertension,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1422,72,Male,Moxifloxacin,250,4,,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,FAERS
+UAE-ADR-1431,60,Female,Levofloxacin,750,10,Anticoagulant,Hypertension,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-1438,43,Female,Moxifloxacin,250,14,,Diabetes,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1443,43,Female,Ciprofloxacin,500,3,Anticoagulant,,QT prolongation,1,Recovered,Dubai,FAERS
+UAE-ADR-1454,79,Male,Moxifloxacin,500,6,Beta-blocker,Cardiac Disease,QT prolongation,5,Recovered,Northern Emirates,WHO
+UAE-ADR-1472,46,Female,Levofloxacin,500,9,,,QT prolongation,7,Hospitalized,Dubai,MOHAP
+UAE-ADR-1473,31,Male,Levofloxacin,500,7,Beta-blocker,Hypertension,QT prolongation,6,Recovered,Northern Emirates,FAERS
+UAE-ADR-1474,9,Female,Ciprofloxacin,250,1,,Cardiac Disease,Arrhythmia,7,Recovered,Dubai,MOHAP
+UAE-ADR-1515,24,Male,Ciprofloxacin,500,8,Anticoagulant,Diabetes,Arrhythmia,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1519,15,Female,Ciprofloxacin,750,8,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Abu Dhabi,EMA
+UAE-ADR-1549,13,Female,Ciprofloxacin,500,3,Beta-blocker,Hypertension,QT prolongation,4,Hospitalized,Abu Dhabi,WHO
+UAE-ADR-1561,14,Female,Levofloxacin,500,12,,Diabetes,QT prolongation,5,Recovered,Dubai,FAERS
+UAE-ADR-1576,10,Male,Ciprofloxacin,500,13,,,Arrhythmia,3,Recovered,Abu Dhabi,EMA
+UAE-ADR-1618,55,Female,Moxifloxacin,500,14,,Cardiac Disease,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1623,66,Female,Ciprofloxacin,500,5,,Hypertension,Arrhythmia,7,Recovered,Dubai,MOHAP
+UAE-ADR-1675,88,Female,Levofloxacin,500,13,Beta-blocker,Diabetes,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1718,59,Male,Levofloxacin,500,7,Beta-blocker,Diabetes,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-1721,36,Male,Ciprofloxacin,500,9,Diuretic,Hypertension,Arrhythmia,6,Recovered,Dubai,MOHAP
+UAE-ADR-1738,49,Male,Moxifloxacin,500,14,Beta-blocker,Hypertension,Arrhythmia,5,Recovered,Abu Dhabi,FAERS
+UAE-ADR-1751,5,Female,Levofloxacin,500,4,Diuretic,Diabetes,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-1756,57,Male,Ciprofloxacin,500,8,Diuretic,Diabetes,Arrhythmia,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1783,46,Female,Moxifloxacin,250,14,,Diabetes,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-1791,2,Male,Moxifloxacin,750,6,Beta-blocker,,Arrhythmia,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-1807,71,Female,Ciprofloxacin,500,10,Beta-blocker,Cardiac Disease,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-1818,49,Male,Moxifloxacin,750,9,Anticoagulant,Diabetes,Arrhythmia,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-1834,70,Male,Levofloxacin,250,3,,,QT prolongation,1,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-1838,37,Male,Ciprofloxacin,500,8,Beta-blocker,Diabetes,QT prolongation,3,Recovered,Northern Emirates,WHO
+UAE-ADR-1839,47,Female,Ciprofloxacin,500,12,,Cardiac Disease,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1842,85,Female,Ciprofloxacin,500,8,Beta-blocker,,Arrhythmia,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1863,7,Female,Levofloxacin,500,8,Beta-blocker,,Arrhythmia,2,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-1872,31,Female,Moxifloxacin,750,13,Diuretic,Diabetes,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1877,91,Male,Ciprofloxacin,250,3,Beta-blocker,Hypertension,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1888,76,Female,Levofloxacin,750,13,Beta-blocker,,Arrhythmia,1,Recovered,Dubai,WHO
+UAE-ADR-1895,14,Female,Ciprofloxacin,500,10,Diuretic,Diabetes,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-1926,59,Male,Ciprofloxacin,500,2,,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,FAERS
+UAE-ADR-1928,74,Female,Ciprofloxacin,250,1,,Hypertension,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-1943,31,Female,Levofloxacin,250,4,Diuretic,,QT prolongation,6,Death,Dubai,FAERS
+UAE-ADR-1954,2,Female,Ciprofloxacin,250,8,Diuretic,Hypertension,Arrhythmia,6,Death,Abu Dhabi,MOHAP
+UAE-ADR-1966,93,Male,Levofloxacin,500,7,,Diabetes,Arrhythmia,3,Recovered,Dubai,EMA
+UAE-ADR-2012,13,Female,Moxifloxacin,500,4,,Hypertension,Arrhythmia,4,Recovered,Abu Dhabi,EMA
+UAE-ADR-2021,34,Female,Ciprofloxacin,500,2,,Diabetes,QT prolongation,3,Recovered,Northern Emirates,EMA
+UAE-ADR-2050,63,Female,Ciprofloxacin,500,12,Anticoagulant,Cardiac Disease,QT prolongation,7,Recovered,Abu Dhabi,EMA
+UAE-ADR-2053,36,Male,Moxifloxacin,750,6,,Hypertension,Arrhythmia,2,Recovered,Dubai,MOHAP
+UAE-ADR-2068,36,Female,Levofloxacin,500,7,Anticoagulant,Hypertension,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2094,43,Male,Ciprofloxacin,500,8,,Diabetes,QT prolongation,3,Recovered,Abu Dhabi,EMA
+UAE-ADR-2119,25,Female,Moxifloxacin,500,8,,Hypertension,QT prolongation,1,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-2130,18,Female,Levofloxacin,500,1,Diuretic,Cardiac Disease,QT prolongation,1,Recovered,Abu Dhabi,EMA
+UAE-ADR-2136,68,Female,Ciprofloxacin,250,8,Beta-blocker,Hypertension,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-2144,72,Female,Moxifloxacin,750,11,Beta-blocker,Diabetes,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-2158,81,Female,Moxifloxacin,500,3,Beta-blocker,Cardiac Disease,QT prolongation,6,Recovered,Abu Dhabi,EMA
+UAE-ADR-2160,22,Male,Ciprofloxacin,500,5,,Cardiac Disease,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-2171,75,Male,Ciprofloxacin,500,8,Beta-blocker,Cardiac Disease,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2175,18,Female,Ciprofloxacin,250,13,,Diabetes,Arrhythmia,1,Hospitalized,Northern Emirates,MOHAP
+UAE-ADR-2177,92,Female,Ciprofloxacin,750,11,Beta-blocker,Cardiac Disease,Arrhythmia,7,Recovered,Dubai,FAERS
+UAE-ADR-2178,88,Male,Moxifloxacin,500,3,Diuretic,,Arrhythmia,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2184,10,Female,Levofloxacin,750,8,,Hypertension,QT prolongation,3,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2188,65,Female,Levofloxacin,500,1,Diuretic,Diabetes,Arrhythmia,2,Recovered,Dubai,WHO
+UAE-ADR-2199,92,Female,Levofloxacin,250,9,Beta-blocker,,Arrhythmia,4,Recovered,Abu Dhabi,WHO
+UAE-ADR-2200,25,Male,Moxifloxacin,250,14,Beta-blocker,Diabetes,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2204,47,Female,Ciprofloxacin,250,5,Beta-blocker,Diabetes,QT prolongation,2,Recovered,Abu Dhabi,FAERS
+UAE-ADR-2220,24,Male,Ciprofloxacin,250,6,Diuretic,Diabetes,Arrhythmia,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2227,12,Female,Ciprofloxacin,500,14,Diuretic,Cardiac Disease,Arrhythmia,7,Recovered,Dubai,MOHAP
+UAE-ADR-2244,48,Female,Ciprofloxacin,500,11,,Cardiac Disease,QT prolongation,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2250,74,Male,Ciprofloxacin,250,12,,Hypertension,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-2252,73,Male,Levofloxacin,500,11,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2254,12,Female,Moxifloxacin,500,12,Beta-blocker,Cardiac Disease,Arrhythmia,2,Recovered,Dubai,WHO
+UAE-ADR-2273,21,Female,Ciprofloxacin,250,10,Anticoagulant,Cardiac Disease,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2302,73,Female,Ciprofloxacin,500,2,,Hypertension,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2304,68,Male,Levofloxacin,250,10,,,Arrhythmia,4,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-2319,9,Male,Ciprofloxacin,500,1,Beta-blocker,Hypertension,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2324,24,Female,Ciprofloxacin,500,7,Diuretic,,Arrhythmia,3,Recovered,Dubai,WHO
+UAE-ADR-2360,26,Female,Levofloxacin,750,14,Diuretic,Diabetes,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-2363,7,Male,Ciprofloxacin,500,9,,Diabetes,Arrhythmia,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2376,80,Male,Moxifloxacin,750,5,,Hypertension,Arrhythmia,7,Recovered,Dubai,MOHAP
+UAE-ADR-2386,76,Female,Levofloxacin,500,8,,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2391,79,Female,Ciprofloxacin,500,8,,Diabetes,Arrhythmia,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2397,16,Female,Levofloxacin,500,9,Anticoagulant,,Arrhythmia,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2419,15,Male,Moxifloxacin,750,13,,Hypertension,QT prolongation,3,Death,Dubai,MOHAP
+UAE-ADR-2420,75,Female,Moxifloxacin,500,6,Diuretic,Hypertension,Arrhythmia,3,Recovered,Dubai,EMA
+UAE-ADR-2436,25,Male,Ciprofloxacin,500,13,,Cardiac Disease,QT prolongation,5,Recovered,Northern Emirates,FAERS
+UAE-ADR-2455,87,Male,Ciprofloxacin,500,5,,Hypertension,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2475,81,Male,Levofloxacin,500,13,,Hypertension,QT prolongation,4,Hospitalized,Abu Dhabi,EMA
+UAE-ADR-2477,24,Female,Ciprofloxacin,250,2,,,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2482,35,Female,Levofloxacin,250,10,Anticoagulant,Hypertension,QT prolongation,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2493,7,Male,Levofloxacin,500,3,,,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2502,31,Male,Ciprofloxacin,500,13,Beta-blocker,Hypertension,QT prolongation,1,Recovered,Abu Dhabi,FAERS
+UAE-ADR-2503,91,Female,Ciprofloxacin,500,12,,Cardiac Disease,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2505,30,Female,Levofloxacin,250,12,,Hypertension,Arrhythmia,1,Death,Northern Emirates,MOHAP
+UAE-ADR-2512,5,Male,Ciprofloxacin,500,2,Beta-blocker,Cardiac Disease,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2562,85,Male,Ciprofloxacin,500,8,Diuretic,Hypertension,Arrhythmia,4,Recovered,Northern Emirates,EMA
+UAE-ADR-2566,61,Female,Levofloxacin,500,11,Diuretic,Hypertension,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2594,67,Male,Moxifloxacin,500,14,Diuretic,Hypertension,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2606,63,Female,Moxifloxacin,500,13,Beta-blocker,Hypertension,Arrhythmia,3,Recovered,Abu Dhabi,FAERS
+UAE-ADR-2611,1,Female,Levofloxacin,500,3,,Diabetes,Arrhythmia,1,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-2620,74,Female,Moxifloxacin,500,7,Beta-blocker,Hypertension,Arrhythmia,6,Recovered,Abu Dhabi,EMA
+UAE-ADR-2627,78,Female,Levofloxacin,750,6,Diuretic,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2634,68,Female,Levofloxacin,750,5,Diuretic,Diabetes,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2640,76,Female,Ciprofloxacin,500,6,,Diabetes,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2643,42,Female,Ciprofloxacin,500,2,,,QT prolongation,5,Recovered,Dubai,WHO
+UAE-ADR-2662,4,Male,Moxifloxacin,500,5,Beta-blocker,Hypertension,QT prolongation,5,Recovered,Abu Dhabi,WHO
+UAE-ADR-2668,37,Female,Ciprofloxacin,500,1,Diuretic,Hypertension,QT prolongation,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2677,66,Male,Ciprofloxacin,500,13,Anticoagulant,Hypertension,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2698,9,Male,Ciprofloxacin,500,8,,Cardiac Disease,QT prolongation,7,Recovered,Abu Dhabi,WHO
+UAE-ADR-2701,39,Male,Moxifloxacin,500,2,Diuretic,Cardiac Disease,Arrhythmia,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2707,77,Male,Levofloxacin,250,3,Beta-blocker,Hypertension,Arrhythmia,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2710,29,Female,Levofloxacin,500,4,Anticoagulant,Hypertension,Arrhythmia,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2721,11,Female,Levofloxacin,500,5,,Cardiac Disease,Arrhythmia,1,Recovered,Dubai,MOHAP
+UAE-ADR-2738,12,Male,Ciprofloxacin,500,7,,Cardiac Disease,QT prolongation,3,Recovered,Abu Dhabi,FAERS
+UAE-ADR-2789,53,Female,Ciprofloxacin,750,9,,Hypertension,Arrhythmia,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2794,33,Female,Ciprofloxacin,750,13,Diuretic,Hypertension,QT prolongation,4,Death,Abu Dhabi,MOHAP
+UAE-ADR-2804,3,Male,Moxifloxacin,750,12,,Diabetes,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2805,19,Female,Levofloxacin,500,12,Anticoagulant,Cardiac Disease,Arrhythmia,2,Recovered,Northern Emirates,FAERS
+UAE-ADR-2819,44,Female,Levofloxacin,250,2,Beta-blocker,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,FAERS
+UAE-ADR-2823,3,Female,Levofloxacin,500,7,,,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2840,18,Female,Levofloxacin,250,10,Beta-blocker,Hypertension,Arrhythmia,7,Recovered,Northern Emirates,EMA
+UAE-ADR-2859,91,Male,Levofloxacin,750,2,Beta-blocker,Cardiac Disease,QT prolongation,1,Recovered,Dubai,MOHAP
+UAE-ADR-2871,14,Male,Ciprofloxacin,750,8,,Diabetes,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2874,77,Male,Ciprofloxacin,250,4,Beta-blocker,Hypertension,Arrhythmia,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2891,34,Male,Ciprofloxacin,500,12,,Diabetes,Arrhythmia,5,Recovered,Dubai,MOHAP
+UAE-ADR-2894,68,Female,Ciprofloxacin,500,1,,,Arrhythmia,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2903,4,Female,Levofloxacin,500,12,,Cardiac Disease,Arrhythmia,4,Recovered,Dubai,FAERS
+UAE-ADR-2915,45,Male,Ciprofloxacin,250,9,Anticoagulant,,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-2916,59,Male,Ciprofloxacin,750,1,,,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2937,15,Male,Levofloxacin,500,8,Beta-blocker,,Arrhythmia,1,Recovered,Northern Emirates,EMA
+UAE-ADR-2940,76,Male,Levofloxacin,750,10,Beta-blocker,Hypertension,QT prolongation,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-2941,69,Female,Ciprofloxacin,500,10,Diuretic,Hypertension,QT prolongation,2,Recovered,Northern Emirates,MOHAP
+UAE-ADR-2951,49,Male,Levofloxacin,750,14,Beta-blocker,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,EMA
+UAE-ADR-2959,74,Female,Ciprofloxacin,500,11,Beta-blocker,Hypertension,QT prolongation,4,Recovered,Dubai,EMA
+UAE-ADR-2994,23,Female,Ciprofloxacin,500,12,Anticoagulant,Hypertension,QT prolongation,1,Recovered,Dubai,MOHAP
+UAE-ADR-2999,42,Female,Levofloxacin,250,4,,Hypertension,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3005,69,Female,Ciprofloxacin,750,12,,Diabetes,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3007,64,Female,Moxifloxacin,250,1,,Diabetes,QT prolongation,1,Recovered,Dubai,EMA
+UAE-ADR-3017,50,Female,Ciprofloxacin,250,8,Beta-blocker,,Arrhythmia,2,Death,Abu Dhabi,MOHAP
+UAE-ADR-3053,71,Male,Moxifloxacin,500,8,,Hypertension,QT prolongation,2,Recovered,Northern Emirates,FAERS
+UAE-ADR-3054,43,Female,Levofloxacin,500,6,Beta-blocker,Hypertension,Arrhythmia,4,Recovered,Dubai,MOHAP
+UAE-ADR-3077,8,Female,Levofloxacin,500,12,Beta-blocker,Cardiac Disease,Arrhythmia,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3078,46,Male,Moxifloxacin,500,9,,Hypertension,QT prolongation,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3150,20,Female,Moxifloxacin,500,6,,Hypertension,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3198,14,Female,Moxifloxacin,750,14,Beta-blocker,Diabetes,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3208,8,Female,Ciprofloxacin,500,2,,Hypertension,QT prolongation,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3233,21,Male,Ciprofloxacin,250,2,,Hypertension,Arrhythmia,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3238,41,Female,Ciprofloxacin,500,7,,Cardiac Disease,QT prolongation,2,Recovered,Northern Emirates,EMA
+UAE-ADR-3240,72,Male,Moxifloxacin,500,9,Diuretic,Diabetes,Arrhythmia,4,Recovered,Northern Emirates,FAERS
+UAE-ADR-3241,27,Female,Moxifloxacin,500,3,Beta-blocker,Cardiac Disease,Arrhythmia,5,Hospitalized,Northern Emirates,WHO
+UAE-ADR-3248,18,Female,Ciprofloxacin,250,6,,Cardiac Disease,QT prolongation,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3254,35,Male,Ciprofloxacin,500,7,Beta-blocker,Cardiac Disease,QT prolongation,2,Recovered,Abu Dhabi,FAERS
+UAE-ADR-3259,63,Female,Ciprofloxacin,500,5,,,Arrhythmia,7,Recovered,Dubai,EMA
+UAE-ADR-3295,32,Female,Ciprofloxacin,250,7,,Hypertension,QT prolongation,2,Recovered,Dubai,MOHAP
+UAE-ADR-3297,60,Male,Moxifloxacin,500,2,,Diabetes,QT prolongation,3,Recovered,Northern Emirates,WHO
+UAE-ADR-3305,44,Female,Ciprofloxacin,750,11,Diuretic,Diabetes,Arrhythmia,2,Recovered,Abu Dhabi,EMA
+UAE-ADR-3311,75,Female,Levofloxacin,500,3,,,Arrhythmia,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3322,37,Male,Ciprofloxacin,500,4,Beta-blocker,Cardiac Disease,Arrhythmia,3,Recovered,Abu Dhabi,EMA
+UAE-ADR-3340,90,Female,Ciprofloxacin,250,4,,Diabetes,Arrhythmia,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3350,16,Male,Ciprofloxacin,250,12,Diuretic,Cardiac Disease,Arrhythmia,1,Recovered,Abu Dhabi,FAERS
+UAE-ADR-3352,11,Female,Ciprofloxacin,500,6,Diuretic,Hypertension,QT prolongation,3,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3367,48,Female,Levofloxacin,750,4,,Cardiac Disease,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-3386,48,Female,Levofloxacin,500,12,,Cardiac Disease,QT prolongation,3,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3398,63,Female,Ciprofloxacin,500,6,Diuretic,Cardiac Disease,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-3402,76,Male,Moxifloxacin,500,2,,Hypertension,Arrhythmia,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3407,18,Female,Ciprofloxacin,500,2,Beta-blocker,,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3416,89,Male,Moxifloxacin,750,5,,Hypertension,Arrhythmia,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3444,40,Female,Ciprofloxacin,500,9,Beta-blocker,,QT prolongation,7,Recovered,Dubai,EMA
+UAE-ADR-3447,62,Female,Levofloxacin,500,3,Beta-blocker,Hypertension,QT prolongation,7,Recovered,Abu Dhabi,EMA
+UAE-ADR-3454,9,Male,Ciprofloxacin,500,6,Diuretic,,Arrhythmia,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3460,27,Male,Ciprofloxacin,250,11,,Diabetes,QT prolongation,1,Death,Northern Emirates,MOHAP
+UAE-ADR-3466,92,Female,Levofloxacin,500,2,Beta-blocker,,QT prolongation,2,Recovered,Dubai,MOHAP
+UAE-ADR-3467,37,Male,Levofloxacin,500,4,Beta-blocker,Hypertension,Arrhythmia,5,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-3484,48,Male,Levofloxacin,500,9,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Dubai,MOHAP
+UAE-ADR-3487,23,Male,Ciprofloxacin,250,10,Diuretic,Cardiac Disease,Arrhythmia,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3490,20,Female,Moxifloxacin,500,13,Beta-blocker,Hypertension,QT prolongation,4,Death,Abu Dhabi,MOHAP
+UAE-ADR-3520,67,Male,Levofloxacin,500,1,,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,EMA
+UAE-ADR-3522,55,Female,Ciprofloxacin,750,1,,Hypertension,QT prolongation,1,Recovered,Dubai,FAERS
+UAE-ADR-3558,25,Female,Levofloxacin,250,4,Beta-blocker,,QT prolongation,4,Recovered,Dubai,EMA
+UAE-ADR-3571,41,Female,Levofloxacin,750,5,Beta-blocker,Hypertension,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3587,48,Female,Ciprofloxacin,500,5,,Hypertension,Arrhythmia,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3606,62,Female,Ciprofloxacin,250,2,Anticoagulant,Cardiac Disease,QT prolongation,7,Recovered,Northern Emirates,FAERS
+UAE-ADR-3628,44,Male,Ciprofloxacin,250,13,,Hypertension,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3633,91,Male,Ciprofloxacin,500,11,,Hypertension,Arrhythmia,6,Hospitalized,Dubai,MOHAP
+UAE-ADR-3641,69,Male,Moxifloxacin,750,14,Diuretic,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,FAERS
+UAE-ADR-3642,16,Male,Ciprofloxacin,750,3,Beta-blocker,Hypertension,QT prolongation,1,Recovered,Northern Emirates,FAERS
+UAE-ADR-3643,18,Female,Ciprofloxacin,250,2,Beta-blocker,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,EMA
+UAE-ADR-3646,51,Male,Moxifloxacin,500,2,,,QT prolongation,6,Recovered,Dubai,FAERS
+UAE-ADR-3648,54,Male,Ciprofloxacin,750,6,,,QT prolongation,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3667,3,Male,Ciprofloxacin,500,9,,Diabetes,Arrhythmia,7,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-3675,80,Male,Ciprofloxacin,250,11,Anticoagulant,Hypertension,QT prolongation,1,Recovered,Dubai,MOHAP
+UAE-ADR-3684,46,Female,Ciprofloxacin,750,12,Diuretic,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,WHO
+UAE-ADR-3712,25,Female,Moxifloxacin,250,2,,Diabetes,Arrhythmia,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3718,35,Female,Levofloxacin,500,8,,Diabetes,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3720,36,Male,Ciprofloxacin,500,1,Beta-blocker,Hypertension,Arrhythmia,5,Recovered,Dubai,EMA
+UAE-ADR-3729,0,Female,Ciprofloxacin,500,6,Diuretic,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3739,3,Female,Moxifloxacin,500,5,,,QT prolongation,1,Recovered,Dubai,MOHAP
+UAE-ADR-3751,82,Male,Ciprofloxacin,500,6,Diuretic,Diabetes,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3760,65,Female,Moxifloxacin,500,10,Anticoagulant,,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3794,73,Female,Ciprofloxacin,750,9,Beta-blocker,Diabetes,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3805,23,Female,Ciprofloxacin,250,3,,,QT prolongation,3,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3809,62,Female,Ciprofloxacin,750,13,Diuretic,,QT prolongation,1,Recovered,Abu Dhabi,EMA
+UAE-ADR-3845,18,Male,Ciprofloxacin,250,7,Diuretic,,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-3891,11,Female,Moxifloxacin,500,7,Beta-blocker,Cardiac Disease,Arrhythmia,3,Recovered,Northern Emirates,EMA
+UAE-ADR-3915,86,Female,Ciprofloxacin,500,9,,Hypertension,QT prolongation,6,Recovered,Northern Emirates,WHO
+UAE-ADR-3921,6,Female,Ciprofloxacin,500,3,,Hypertension,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3924,2,Male,Ciprofloxacin,500,7,,Diabetes,Arrhythmia,4,Recovered,Dubai,MOHAP
+UAE-ADR-3938,9,Male,Moxifloxacin,750,4,Beta-blocker,Hypertension,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3942,52,Female,Levofloxacin,500,8,Beta-blocker,Hypertension,QT prolongation,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3946,36,Female,Moxifloxacin,500,3,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3950,80,Female,Ciprofloxacin,750,10,Beta-blocker,Diabetes,Arrhythmia,6,Hospitalized,Dubai,FAERS
+UAE-ADR-3961,42,Female,Moxifloxacin,500,13,Beta-blocker,Hypertension,Arrhythmia,6,Recovered,Abu Dhabi,WHO
+UAE-ADR-3962,24,Female,Ciprofloxacin,500,12,,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-3972,57,Female,Ciprofloxacin,750,11,Beta-blocker,,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-3993,42,Female,Moxifloxacin,500,14,,Diabetes,QT prolongation,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-4034,25,Male,Ciprofloxacin,750,7,,Diabetes,QT prolongation,6,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-4041,52,Male,Moxifloxacin,500,13,Beta-blocker,Diabetes,QT prolongation,5,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-4046,64,Female,Ciprofloxacin,500,13,Diuretic,Hypertension,QT prolongation,1,Recovered,Dubai,MOHAP
+UAE-ADR-4047,48,Female,Ciprofloxacin,500,12,Anticoagulant,Diabetes,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4048,46,Male,Ciprofloxacin,500,13,Beta-blocker,,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4064,49,Female,Ciprofloxacin,250,11,,Cardiac Disease,QT prolongation,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4069,20,Male,Ciprofloxacin,750,4,,Hypertension,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4072,5,Female,Ciprofloxacin,500,13,,,QT prolongation,7,Recovered,Dubai,WHO
+UAE-ADR-4085,5,Female,Ciprofloxacin,500,14,,Diabetes,Arrhythmia,4,Recovered,Dubai,MOHAP
+UAE-ADR-4098,15,Male,Levofloxacin,500,5,Anticoagulant,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,EMA
+UAE-ADR-4106,75,Female,Ciprofloxacin,250,3,,Hypertension,Arrhythmia,4,Recovered,Abu Dhabi,EMA
+UAE-ADR-4112,54,Male,Ciprofloxacin,500,9,Beta-blocker,Cardiac Disease,Arrhythmia,1,Death,Abu Dhabi,MOHAP
+UAE-ADR-4117,28,Male,Ciprofloxacin,750,10,,,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4129,64,Male,Ciprofloxacin,500,7,Diuretic,Hypertension,QT prolongation,4,Recovered,Dubai,WHO
+UAE-ADR-4166,33,Female,Ciprofloxacin,250,1,,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4175,93,Female,Ciprofloxacin,500,9,Beta-blocker,Cardiac Disease,QT prolongation,7,Recovered,Northern Emirates,FAERS
+UAE-ADR-4180,16,Female,Ciprofloxacin,250,10,,Hypertension,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-4190,0,Female,Moxifloxacin,500,10,,Diabetes,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4206,68,Female,Ciprofloxacin,250,4,,Hypertension,Arrhythmia,4,Recovered,Dubai,MOHAP
+UAE-ADR-4252,48,Male,Levofloxacin,250,12,Anticoagulant,,Arrhythmia,2,Recovered,Abu Dhabi,WHO
+UAE-ADR-4257,52,Male,Ciprofloxacin,500,7,Beta-blocker,Hypertension,QT prolongation,7,Recovered,Abu Dhabi,EMA
+UAE-ADR-4269,84,Male,Ciprofloxacin,500,2,,Hypertension,QT prolongation,1,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-4303,58,Male,Moxifloxacin,250,1,Beta-blocker,Hypertension,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-4305,41,Female,Levofloxacin,500,5,Anticoagulant,Hypertension,Arrhythmia,5,Death,Northern Emirates,WHO
+UAE-ADR-4316,67,Female,Ciprofloxacin,500,6,Diuretic,Diabetes,Arrhythmia,5,Recovered,Dubai,MOHAP
+UAE-ADR-4327,87,Female,Moxifloxacin,500,11,Beta-blocker,Hypertension,Arrhythmia,3,Recovered,Dubai,WHO
+UAE-ADR-4366,57,Female,Moxifloxacin,250,8,Anticoagulant,,QT prolongation,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-4376,5,Female,Levofloxacin,500,10,Beta-blocker,,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4388,18,Female,Ciprofloxacin,750,12,,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4397,22,Female,Ciprofloxacin,500,7,Diuretic,Diabetes,QT prolongation,5,Death,Abu Dhabi,FAERS
+UAE-ADR-4398,1,Male,Moxifloxacin,500,1,Beta-blocker,Hypertension,QT prolongation,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-4405,66,Male,Ciprofloxacin,250,6,,Diabetes,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4412,11,Male,Ciprofloxacin,750,14,Beta-blocker,Diabetes,QT prolongation,2,Hospitalized,Dubai,MOHAP
+UAE-ADR-4419,5,Female,Levofloxacin,750,9,,Hypertension,Arrhythmia,1,Recovered,Abu Dhabi,EMA
+UAE-ADR-4423,77,Female,Levofloxacin,500,11,,Cardiac Disease,QT prolongation,7,Recovered,Abu Dhabi,EMA
+UAE-ADR-4438,12,Female,Ciprofloxacin,250,6,Diuretic,Hypertension,QT prolongation,5,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-4452,81,Male,Ciprofloxacin,500,4,Diuretic,Hypertension,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-4473,40,Female,Ciprofloxacin,750,11,Beta-blocker,Hypertension,QT prolongation,2,Recovered,Dubai,MOHAP
+UAE-ADR-4477,75,Male,Levofloxacin,500,11,,Cardiac Disease,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4486,73,Male,Ciprofloxacin,750,14,,Hypertension,QT prolongation,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4490,42,Male,Moxifloxacin,750,12,Beta-blocker,Hypertension,QT prolongation,4,Recovered,Northern Emirates,EMA
+UAE-ADR-4500,18,Male,Ciprofloxacin,500,6,Anticoagulant,Diabetes,Arrhythmia,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4527,58,Female,Ciprofloxacin,750,11,Diuretic,,QT prolongation,3,Recovered,Dubai,WHO
+UAE-ADR-4542,35,Female,Ciprofloxacin,500,13,,Cardiac Disease,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4554,16,Female,Ciprofloxacin,500,12,Anticoagulant,Cardiac Disease,QT prolongation,7,Recovered,Dubai,MOHAP
+UAE-ADR-4561,24,Male,Ciprofloxacin,500,14,Beta-blocker,Hypertension,QT prolongation,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4580,51,Male,Ciprofloxacin,750,4,Beta-blocker,Hypertension,QT prolongation,4,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-4633,39,Female,Moxifloxacin,250,12,,Hypertension,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-4648,60,Female,Ciprofloxacin,500,4,Diuretic,Diabetes,QT prolongation,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4649,53,Female,Ciprofloxacin,500,10,Beta-blocker,Diabetes,Arrhythmia,4,Recovered,Abu Dhabi,EMA
+UAE-ADR-4678,59,Male,Ciprofloxacin,750,8,,Diabetes,Arrhythmia,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-4681,22,Female,Levofloxacin,500,8,Diuretic,Hypertension,Arrhythmia,1,Recovered,Dubai,WHO
+UAE-ADR-4710,80,Female,Levofloxacin,500,1,,Cardiac Disease,Arrhythmia,1,Recovered,Northern Emirates,WHO
+UAE-ADR-4714,66,Female,Levofloxacin,500,11,,,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-4722,12,Male,Ciprofloxacin,500,5,Beta-blocker,Diabetes,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-4749,18,Male,Moxifloxacin,750,2,Beta-blocker,Cardiac Disease,Arrhythmia,4,Recovered,Northern Emirates,EMA
+UAE-ADR-4759,66,Female,Ciprofloxacin,500,5,Diuretic,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4765,49,Male,Ciprofloxacin,500,13,,Diabetes,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4812,50,Female,Ciprofloxacin,750,10,Beta-blocker,Hypertension,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-4827,56,Female,Ciprofloxacin,500,10,Beta-blocker,Diabetes,QT prolongation,2,Hospitalized,Dubai,MOHAP
+UAE-ADR-4830,47,Female,Ciprofloxacin,750,5,,Diabetes,QT prolongation,2,Recovered,Northern Emirates,MOHAP
+UAE-ADR-4839,91,Female,Ciprofloxacin,500,2,,Diabetes,QT prolongation,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-4856,77,Female,Moxifloxacin,500,11,,Diabetes,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4897,57,Female,Levofloxacin,500,8,Diuretic,Hypertension,QT prolongation,2,Recovered,Dubai,MOHAP
+UAE-ADR-4905,35,Male,Levofloxacin,500,11,Diuretic,Hypertension,QT prolongation,3,Recovered,Dubai,WHO
+UAE-ADR-4908,41,Female,Levofloxacin,500,6,Beta-blocker,,Arrhythmia,3,Hospitalized,Northern Emirates,MOHAP
+UAE-ADR-4914,53,Female,Levofloxacin,500,9,Diuretic,Diabetes,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4949,27,Male,Levofloxacin,500,9,,Hypertension,Arrhythmia,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-4956,52,Male,Ciprofloxacin,750,8,,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,EMA
+UAE-ADR-5000,60,Female,Ciprofloxacin,500,2,Diuretic,Cardiac Disease,QT prolongation,5,Recovered,Abu Dhabi,FAERS
+UAE-ADR-5032,68,Female,Ciprofloxacin,500,12,Beta-blocker,Cardiac Disease,QT prolongation,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-5036,24,Male,Ciprofloxacin,500,12,,Diabetes,QT prolongation,2,Recovered,Dubai,MOHAP
+UAE-ADR-5054,27,Female,Levofloxacin,500,9,,Hypertension,QT prolongation,4,Recovered,Northern Emirates,EMA
+UAE-ADR-5060,20,Male,Moxifloxacin,500,4,Beta-blocker,Diabetes,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5062,49,Female,Levofloxacin,250,5,Anticoagulant,Hypertension,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-5063,3,Male,Ciprofloxacin,500,2,,Cardiac Disease,QT prolongation,1,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-5067,24,Female,Levofloxacin,250,10,,,Arrhythmia,6,Recovered,Northern Emirates,MOHAP
+UAE-ADR-5069,74,Male,Levofloxacin,500,14,Beta-blocker,Diabetes,Arrhythmia,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5074,26,Female,Ciprofloxacin,500,10,,Hypertension,QT prolongation,7,Recovered,Northern Emirates,MOHAP
+UAE-ADR-5076,53,Female,Ciprofloxacin,250,6,,,Arrhythmia,2,Recovered,Dubai,MOHAP
+UAE-ADR-5078,86,Female,Levofloxacin,500,5,Beta-blocker,,Arrhythmia,3,Recovered,Abu Dhabi,WHO
+UAE-ADR-5085,58,Female,Levofloxacin,500,3,Beta-blocker,Cardiac Disease,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-5093,70,Male,Moxifloxacin,500,10,Beta-blocker,Hypertension,QT prolongation,7,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5100,46,Female,Levofloxacin,250,5,,Diabetes,QT prolongation,3,Hospitalized,Abu Dhabi,MOHAP
+UAE-ADR-5102,92,Female,Moxifloxacin,250,8,Beta-blocker,Diabetes,QT prolongation,1,Recovered,Northern Emirates,MOHAP
+UAE-ADR-5111,78,Female,Levofloxacin,250,9,Diuretic,Hypertension,Arrhythmia,7,Recovered,Dubai,MOHAP
+UAE-ADR-5116,37,Female,Moxifloxacin,750,3,,,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5118,27,Male,Moxifloxacin,500,14,Diuretic,Diabetes,Arrhythmia,3,Recovered,Dubai,FAERS
+UAE-ADR-5119,55,Female,Levofloxacin,750,7,,,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5135,21,Female,Moxifloxacin,750,12,Beta-blocker,Hypertension,QT prolongation,6,Recovered,Northern Emirates,WHO
+UAE-ADR-5147,61,Male,Ciprofloxacin,750,7,,Hypertension,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5156,86,Female,Moxifloxacin,500,5,,Hypertension,Arrhythmia,2,Recovered,Northern Emirates,MOHAP
+UAE-ADR-5160,50,Female,Ciprofloxacin,500,2,,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5188,51,Female,Ciprofloxacin,750,5,Diuretic,,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5193,39,Female,Ciprofloxacin,250,1,Anticoagulant,Hypertension,Arrhythmia,3,Hospitalized,Northern Emirates,EMA
+UAE-ADR-5200,7,Female,Ciprofloxacin,250,7,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5249,39,Male,Ciprofloxacin,250,12,Beta-blocker,,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5253,78,Female,Levofloxacin,500,5,,Hypertension,Arrhythmia,7,Recovered,Dubai,MOHAP
+UAE-ADR-5276,47,Female,Levofloxacin,500,8,Diuretic,Hypertension,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5292,13,Female,Levofloxacin,750,5,Beta-blocker,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5332,30,Male,Ciprofloxacin,250,12,,Hypertension,Arrhythmia,2,Recovered,Dubai,WHO
+UAE-ADR-5342,76,Female,Levofloxacin,250,5,Anticoagulant,Hypertension,Arrhythmia,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5359,89,Female,Ciprofloxacin,500,5,Anticoagulant,Cardiac Disease,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5360,58,Female,Moxifloxacin,500,2,,Cardiac Disease,Arrhythmia,4,Recovered,Dubai,MOHAP
+UAE-ADR-5372,92,Male,Moxifloxacin,750,3,Beta-blocker,Cardiac Disease,QT prolongation,2,Recovered,Dubai,MOHAP
+UAE-ADR-5373,93,Female,Ciprofloxacin,500,9,Anticoagulant,Hypertension,QT prolongation,1,Hospitalized,Dubai,FAERS
+UAE-ADR-5379,20,Female,Levofloxacin,500,10,Beta-blocker,Hypertension,Arrhythmia,3,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5385,72,Male,Levofloxacin,500,13,,Hypertension,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5416,42,Male,Levofloxacin,500,10,,Diabetes,QT prolongation,3,Hospitalized,Dubai,MOHAP
+UAE-ADR-5433,10,Male,Levofloxacin,250,9,,Diabetes,QT prolongation,7,Hospitalized,Dubai,MOHAP
+UAE-ADR-5438,62,Female,Levofloxacin,250,2,Diuretic,,QT prolongation,5,Recovered,Dubai,MOHAP
+UAE-ADR-5439,82,Male,Ciprofloxacin,500,5,Diuretic,Hypertension,Arrhythmia,7,Hospitalized,Dubai,MOHAP
+UAE-ADR-5445,27,Female,Moxifloxacin,750,12,Beta-blocker,Hypertension,Arrhythmia,3,Recovered,Dubai,MOHAP
+UAE-ADR-5463,57,Female,Levofloxacin,500,8,Diuretic,,Arrhythmia,5,Death,Abu Dhabi,MOHAP
+UAE-ADR-5465,27,Female,Ciprofloxacin,750,4,Anticoagulant,Hypertension,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-5472,75,Male,Moxifloxacin,500,6,Diuretic,,Arrhythmia,5,Recovered,Northern Emirates,MOHAP
+UAE-ADR-5474,87,Male,Levofloxacin,500,7,Beta-blocker,Hypertension,QT prolongation,7,Recovered,Dubai,MOHAP
+UAE-ADR-5497,23,Male,Ciprofloxacin,500,2,,Hypertension,QT prolongation,3,Recovered,Abu Dhabi,WHO
+UAE-ADR-5507,43,Female,Levofloxacin,500,10,,Diabetes,QT prolongation,7,Recovered,Dubai,EMA
+UAE-ADR-5530,84,Female,Levofloxacin,750,14,,Hypertension,Arrhythmia,2,Recovered,Abu Dhabi,EMA
+UAE-ADR-5545,90,Male,Levofloxacin,250,2,,Hypertension,QT prolongation,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5553,39,Female,Ciprofloxacin,500,9,,Hypertension,Arrhythmia,6,Recovered,Dubai,MOHAP
+UAE-ADR-5558,74,Female,Ciprofloxacin,500,9,,Hypertension,QT prolongation,2,Recovered,Dubai,MOHAP
+UAE-ADR-5566,58,Female,Ciprofloxacin,500,1,,Hypertension,QT prolongation,2,Recovered,Dubai,FAERS
+UAE-ADR-5571,1,Female,Ciprofloxacin,250,5,Beta-blocker,Hypertension,QT prolongation,6,Recovered,Abu Dhabi,EMA
+UAE-ADR-5617,16,Female,Levofloxacin,500,10,,,Arrhythmia,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5642,22,Female,Ciprofloxacin,500,1,Beta-blocker,,Arrhythmia,2,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5644,33,Female,Ciprofloxacin,500,9,Diuretic,Cardiac Disease,QT prolongation,6,Recovered,Dubai,MOHAP
+UAE-ADR-5712,56,Female,Levofloxacin,500,4,Beta-blocker,Diabetes,Arrhythmia,6,Recovered,Dubai,MOHAP
+UAE-ADR-5742,10,Female,Ciprofloxacin,250,14,Diuretic,,QT prolongation,4,Hospitalized,Northern Emirates,MOHAP
+UAE-ADR-5753,85,Female,Levofloxacin,500,3,,Hypertension,QT prolongation,4,Recovered,Northern Emirates,MOHAP
+UAE-ADR-5769,72,Male,Moxifloxacin,500,12,,Cardiac Disease,QT prolongation,1,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5800,1,Female,Moxifloxacin,500,10,Beta-blocker,,QT prolongation,7,Recovered,Northern Emirates,EMA
+UAE-ADR-5804,53,Male,Moxifloxacin,250,10,Beta-blocker,Cardiac Disease,Arrhythmia,4,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5805,74,Female,Moxifloxacin,750,9,,Diabetes,Arrhythmia,1,Recovered,Dubai,MOHAP
+UAE-ADR-5808,58,Male,Ciprofloxacin,750,9,Beta-blocker,Diabetes,QT prolongation,5,Recovered,Abu Dhabi,MOHAP
+UAE-ADR-5813,46,Male,Levofloxacin,500,11,Beta-blocker,Hypertension,QT prolongation,3,Recovered,Dubai,MOHAP
+UAE-ADR-5822,58,Female,Ciprofloxacin,500,3,Beta-blocker,Hypertension,Arrhythmia,2,Recovered,Dubai,FAERS
+UAE-ADR-5831,11,Female,Moxifloxacin,500,7,Anticoagulant,,QT prolongation,2,Hospitalized,Abu Dhabi,FAERS
+UAE-ADR-5836,80,Female,Levofloxacin,750,10,,Cardiac Disease,QT prolongation,4,Recovered,Northern Emirates,MOHAP

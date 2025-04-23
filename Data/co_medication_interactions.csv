@@ -1,0 +1,201 @@
+Interaction_ID,Fluoroquinolone,Co_Medication,Interaction_Effect,Severity
+5d33b5e3-f60c-4fb6-92da-98737ccd735c,Ciprofloxacin,NSAIDs,Increased toxicity,High
+d5319fb4-627c-40c3-9f1d-836e2abf4ba0,Moxifloxacin,Corticosteroids,Reduced efficacy,High
+bd46db6b-c97d-481d-8033-0e8f0f46ec6d,Levofloxacin,Theophylline,Reduced efficacy,Moderate
+9bf0b9f6-2abf-4ecc-8f3b-15543f0f6d31,Norfloxacin,NSAIDs,Increased toxicity,Low
+78f66793-c1ca-4d47-a22d-6edeb5f385be,Norfloxacin,Corticosteroids,Increased toxicity,Moderate
+c9e21ef8-188e-46a5-b258-06bc5e1145eb,Levofloxacin,Corticosteroids,Reduced efficacy,Low
+7d21fe13-b2f6-4860-99bf-680260c8bd45,Ofloxacin,Theophylline,Reduced efficacy,High
+5b769d90-83d4-436b-9164-13ac6c7ebf43,Moxifloxacin,NSAIDs,Increased toxicity,Moderate
+1646d3b5-7d62-4543-8c18-02538416b6fe,Levofloxacin,Corticosteroids,No significant interaction,Moderate
+a5474e0f-486e-4249-bf14-c488a9966ac3,Ofloxacin,Corticosteroids,No significant interaction,Low
+2ec05266-2b1f-4670-8b27-5306e54b5900,Ciprofloxacin,Corticosteroids,No significant interaction,Low
+25b4a456-66ae-4f25-9eaa-0cce5773aeae,Levofloxacin,Theophylline,Increased toxicity,Low
+e86c376a-7dac-4e4f-b802-68339615c65a,Levofloxacin,Antacids,Increased toxicity,Low
+234bba2a-43cf-441e-9c52-aed9c005c72b,Ofloxacin,Theophylline,No significant interaction,High
+196abc55-40f8-40f6-8925-b286c495496c,Levofloxacin,Theophylline,Reduced efficacy,Moderate
+b62c3deb-27ee-4ac8-9d4b-bce4d4914dcc,Moxifloxacin,Theophylline,Increased toxicity,Moderate
+d72739c8-9004-4f7b-a8b3-cdb4fadbf8d9,Ciprofloxacin,Warfarin,Increased toxicity,Low
+c95ae063-2f8b-4f1e-9bea-99239e770a75,Norfloxacin,NSAIDs,No significant interaction,Moderate
+1d21bcdf-ba27-4665-84f4-286901ba17a1,Ciprofloxacin,Antacids,Reduced efficacy,Low
+13f9f5b2-737f-45ae-a099-f845e245ed0a,Levofloxacin,Corticosteroids,Reduced efficacy,Low
+f81c2176-9bd0-4acf-8b1c-d3ba0cd98052,Moxifloxacin,Warfarin,Increased toxicity,Low
+a90d325b-8574-4aad-a19b-61c4da3eed6b,Moxifloxacin,Antacids,Increased toxicity,High
+359f8b1a-f82c-4844-864d-7b37ec883ae3,Norfloxacin,Warfarin,No significant interaction,High
+696877dd-8444-4063-a823-27c060dbf7e3,Ciprofloxacin,Corticosteroids,Reduced efficacy,Low
+d6526b56-dee9-4d41-b41c-605ab7690ece,Moxifloxacin,Theophylline,Reduced efficacy,Low
+c843365a-44f2-4b15-a560-ac26a4152de8,Levofloxacin,Warfarin,Reduced efficacy,High
+c478c50a-543c-4ae2-bd3b-2b577f7acc93,Ciprofloxacin,Warfarin,No significant interaction,High
+f444b249-4381-4e6a-895f-e3b9d2a7dad7,Ciprofloxacin,Theophylline,Increased toxicity,High
+743e9caa-8ad7-4ea1-be17-1977e3c23625,Norfloxacin,Corticosteroids,Increased toxicity,High
+281d0368-fc83-44ab-962a-46e9da386139,Norfloxacin,Warfarin,Reduced efficacy,Low
+489fa7ca-0917-44d8-80a0-b7c969c87734,Ofloxacin,Antacids,Increased toxicity,Low
+8553b253-dc7d-4271-9cdd-f8ef31c756a0,Ciprofloxacin,Theophylline,Reduced efficacy,High
+1582aa3e-ef0d-45c9-a4f2-62343a18e4df,Norfloxacin,Theophylline,Reduced efficacy,Moderate
+8ca4916e-2f1c-4202-b445-8e02a23ed375,Norfloxacin,NSAIDs,No significant interaction,High
+196f474a-9d16-42f1-a519-cd4ada216247,Moxifloxacin,NSAIDs,Increased toxicity,Moderate
+98d7082a-0183-4f0d-989a-e066e7d5b37a,Ofloxacin,NSAIDs,Increased toxicity,Moderate
+33a2eda4-653a-4984-9749-924265e9989f,Ofloxacin,NSAIDs,No significant interaction,Low
+41ee1f08-987a-4b94-beeb-b7690fdd8402,Ofloxacin,Theophylline,Reduced efficacy,High
+f5819106-a11c-4791-8939-396033aea230,Ofloxacin,NSAIDs,Increased toxicity,Moderate
+d5f9ada3-ad2a-4a34-a5d6-6e07bdedb2b2,Norfloxacin,Corticosteroids,Increased toxicity,Low
+70a18bcb-f447-4595-a61f-3fc7c2d8429c,Ciprofloxacin,Antacids,Reduced efficacy,Moderate
+5f316cc3-4994-4d0f-bf50-9e29cb7adcb6,Moxifloxacin,NSAIDs,Reduced efficacy,Moderate
+eaa7806e-271c-43d5-aade-024cbd626eca,Norfloxacin,Corticosteroids,Reduced efficacy,High
+5ca968bc-459c-44de-ac6a-3b2708f94187,Moxifloxacin,Theophylline,No significant interaction,Moderate
+802a7de5-33d3-4c86-ba17-a80cfbb2b7dd,Ciprofloxacin,Theophylline,Increased toxicity,High
+653563f7-0bee-45ad-9499-114a7712f85a,Levofloxacin,Corticosteroids,No significant interaction,Low
+b1b6577f-eaed-4042-b8d1-6113355e257e,Moxifloxacin,NSAIDs,Reduced efficacy,Moderate
+66e3da7a-d3dc-46b7-8d97-06f45281368a,Ofloxacin,Antacids,Reduced efficacy,Moderate
+76fc7708-8d33-4d1d-913e-f3dfb18c9893,Moxifloxacin,Corticosteroids,Increased toxicity,Moderate
+a43ac43c-69fd-4b80-8247-f745adf35557,Levofloxacin,Warfarin,Reduced efficacy,Low
+6de547c3-ae6b-45e6-a840-e23f7fe42f22,Ciprofloxacin,Theophylline,Reduced efficacy,Moderate
+2ab41485-a0a9-42ac-8c8b-35646a89d53e,Moxifloxacin,Corticosteroids,No significant interaction,Moderate
+3e7c0bcb-17fd-4a58-88ad-072acab3e03d,Moxifloxacin,Warfarin,No significant interaction,Moderate
+59c7205d-2763-4255-8818-d13af4f868be,Ofloxacin,Theophylline,Increased toxicity,Moderate
+28358cd1-de9b-4563-a864-7bcbf79af2dd,Levofloxacin,Antacids,No significant interaction,Low
+4a243289-f842-4b23-979a-4414c38eb1dd,Levofloxacin,Theophylline,Reduced efficacy,Low
+b2f54424-c5b6-4e17-a01d-6e037de1864d,Ofloxacin,Theophylline,Reduced efficacy,High
+951ad375-8dbc-41e6-8af8-a4fb0043551e,Norfloxacin,Corticosteroids,No significant interaction,High
+5ab4aedc-a6d2-47c3-9851-067f36169651,Levofloxacin,Warfarin,Increased toxicity,Low
+47bd42b9-07f1-424b-bff3-95c739fec487,Ofloxacin,NSAIDs,No significant interaction,Low
+59c4e31d-ec5f-4411-a4a2-4be77a37ad25,Levofloxacin,Corticosteroids,Increased toxicity,Moderate
+89e3da7e-701f-409f-a15d-1646fc5cb32f,Ciprofloxacin,NSAIDs,Reduced efficacy,Low
+c326dd06-7470-4ddb-9493-5b8a251996c8,Moxifloxacin,Corticosteroids,No significant interaction,Low
+deb9a48a-b41a-4f74-a236-12d90d00f4b9,Ofloxacin,Corticosteroids,Reduced efficacy,Low
+fff20f3f-26e6-4802-8f12-6f771c40b7c8,Ofloxacin,Warfarin,Increased toxicity,Low
+867341a4-d811-4cee-8042-64f289c7f38f,Norfloxacin,Antacids,Increased toxicity,Moderate
+34350979-78d8-4355-8410-a0ae0d98315e,Ciprofloxacin,NSAIDs,No significant interaction,Moderate
+84f418f4-3400-4f6c-9352-5ef1aa031775,Levofloxacin,Theophylline,Reduced efficacy,High
+a562cd88-85ce-41da-a91f-922bcdcadc1c,Levofloxacin,Warfarin,No significant interaction,Moderate
+2e71c2b4-1649-4895-bb24-c7bd666ce0fe,Norfloxacin,NSAIDs,No significant interaction,Moderate
+9a55fe8d-af31-4ffb-ac9d-df95edbed5a7,Ofloxacin,Theophylline,Increased toxicity,Moderate
+588f1c86-256e-4bd9-b2a7-7753662d32a9,Ciprofloxacin,Theophylline,Increased toxicity,Moderate
+62224ae2-c37a-4bd3-9d3d-829accd8adb2,Ciprofloxacin,Corticosteroids,Increased toxicity,Moderate
+e4640bec-5747-457f-8958-faefa7a9cec5,Norfloxacin,Theophylline,Increased toxicity,High
+d6e3ace6-5610-4a3e-94c8-b9112bef92f3,Levofloxacin,Theophylline,Increased toxicity,Moderate
+e10d5df5-6f63-4c14-8dcc-d6666a88f4d7,Ofloxacin,NSAIDs,No significant interaction,Low
+779bbe6e-070b-43e1-9bbf-822168bafd29,Levofloxacin,Theophylline,Increased toxicity,Moderate
+0a3583ec-cef4-4248-b266-7f79be93fecd,Levofloxacin,NSAIDs,Increased toxicity,Moderate
+b2469009-3268-4d45-bce5-a851b6bf6225,Levofloxacin,Antacids,Increased toxicity,Low
+ca6400dd-bb4a-4db2-a582-e106cf8ede7f,Ciprofloxacin,NSAIDs,Reduced efficacy,Low
+ab1c5518-5a26-48ff-83d5-af842f551153,Levofloxacin,Warfarin,Increased toxicity,Moderate
+7940465d-385b-4991-8448-a6eb2092692c,Levofloxacin,Corticosteroids,Increased toxicity,High
+51bb0ec5-98e3-4954-9a18-71bd13832b7a,Ciprofloxacin,Corticosteroids,Increased toxicity,Moderate
+4a0bb6b7-55b5-4620-b1f8-679be9225108,Norfloxacin,Corticosteroids,Reduced efficacy,Moderate
+e668f851-032f-4f3e-a409-a6cc7683d419,Ofloxacin,Antacids,No significant interaction,Moderate
+bcea0fca-6ca1-4f10-800a-01d981133e46,Moxifloxacin,Antacids,No significant interaction,Moderate
+48c24ec3-318f-4c63-89e8-65884a1a42e6,Moxifloxacin,Theophylline,Reduced efficacy,Low
+c726e9ec-b756-4e37-b12b-359678c9512b,Ofloxacin,NSAIDs,No significant interaction,High
+5f97d8da-238a-4717-9399-4a43c524766e,Moxifloxacin,Antacids,Increased toxicity,High
+248d33eb-875f-4773-94d5-33b1723d4414,Ofloxacin,NSAIDs,No significant interaction,High
+e0d2f5eb-f65b-420e-bec4-58218a876da5,Levofloxacin,Corticosteroids,Increased toxicity,Low
+22882ab2-7c08-4487-abf1-d364a55686f1,Moxifloxacin,Theophylline,Reduced efficacy,Moderate
+c13697ef-62b7-465e-9419-9c14b271924b,Norfloxacin,NSAIDs,No significant interaction,Moderate
+001c8b56-f1bb-4882-b64f-f13ba5f36749,Ciprofloxacin,Warfarin,No significant interaction,Moderate
+f145ed9f-dbe8-4a4e-bf72-474c7f2028e2,Levofloxacin,Antacids,Increased toxicity,Low
+e708d2a0-e68d-4618-aded-7e12fbc4f8ce,Moxifloxacin,NSAIDs,Increased toxicity,Low
+fe2aeac5-5bf2-454f-8a40-fbcf22e52e72,Ofloxacin,NSAIDs,No significant interaction,Low
+ebfcdfce-4cdc-4350-bf60-39f8af6f3a3c,Levofloxacin,Antacids,Reduced efficacy,Moderate
+cce84f7c-a1ef-4597-ab05-863221e763ce,Levofloxacin,NSAIDs,Reduced efficacy,Low
+aeec11c3-a5bd-4cac-9ea3-1de5d4eeff9c,Ciprofloxacin,Theophylline,No significant interaction,Low
+a6d9c835-e9d0-4587-8a1f-2ed23cdd6bd1,Norfloxacin,Warfarin,Increased toxicity,Moderate
+15c0bd42-49c1-40a6-9317-732858464039,Levofloxacin,Antacids,No significant interaction,Low
+b0f30dfd-b8ad-4dd1-b31f-d548c94cc241,Ofloxacin,Theophylline,Reduced efficacy,High
+0d3fca1b-37fc-4bd9-8fd3-a8596c1b8315,Ofloxacin,Corticosteroids,Increased toxicity,High
+d3ca56c5-fd7a-4b99-bc60-05832b54f981,Ciprofloxacin,Theophylline,No significant interaction,Low
+555e71cf-9dce-4e56-8bdf-73afe1bd9ea2,Levofloxacin,Warfarin,Reduced efficacy,Low
+4c405a8f-5422-4dcd-b205-4cf28cd6f6d9,Levofloxacin,Theophylline,Reduced efficacy,Moderate
+6760076c-edc1-439b-8434-47923c71279d,Moxifloxacin,Theophylline,No significant interaction,Moderate
+249c04df-77a3-46ed-ac41-100b799085c2,Ofloxacin,Warfarin,No significant interaction,High
+98b6bb36-5407-4382-a95e-1d13d1e8cbeb,Norfloxacin,NSAIDs,Increased toxicity,Low
+37baa0aa-60c2-4d90-82e0-90f58993da7c,Moxifloxacin,Theophylline,No significant interaction,Low
+a6d1e6a5-1bee-432c-8297-d953ce88b893,Levofloxacin,Antacids,Reduced efficacy,Low
+999b343a-103f-4b25-9571-b12cd3b605d7,Ofloxacin,Corticosteroids,Reduced efficacy,High
+71e94c89-0f84-46f8-9bb4-dc934ee45d0f,Ciprofloxacin,Antacids,Increased toxicity,Moderate
+05c0dcee-f779-465c-a712-517bae624df3,Levofloxacin,Warfarin,Increased toxicity,Moderate
+f1763f08-57a3-439a-9c34-7ba8099ec0c6,Norfloxacin,Theophylline,No significant interaction,High
+ed921d7a-7dbd-41a8-bb4b-d2d9249a0687,Norfloxacin,Antacids,Increased toxicity,Moderate
+c8ec4303-8e14-47f3-bf70-08662f2dd9ab,Ofloxacin,Corticosteroids,No significant interaction,High
+22a2934a-1c9c-40f8-95c4-4c1c7b36f9bb,Moxifloxacin,Warfarin,No significant interaction,Low
+8570146d-3503-4cfe-a1b3-6a6b36da42d9,Ciprofloxacin,NSAIDs,Reduced efficacy,Moderate
+57fc3123-5466-4bf4-95d4-98baa7728c13,Moxifloxacin,Theophylline,No significant interaction,Low
+aeef36f0-0df1-402f-b9ff-89928b575c00,Norfloxacin,Corticosteroids,Increased toxicity,High
+9a1de750-fd83-41d7-9fff-30b784ac255b,Ofloxacin,Warfarin,No significant interaction,Moderate
+6fd5933a-deee-490a-a2d8-c0e74b8a5b1e,Moxifloxacin,Theophylline,Reduced efficacy,High
+43fb225d-f2fb-47c0-84c1-69585b566f7e,Ofloxacin,NSAIDs,Increased toxicity,Low
+ebd638d2-8999-4a4e-ab21-b64456bc5379,Moxifloxacin,Theophylline,No significant interaction,Low
+70ebe0ca-de64-4837-9e0d-b291141e912a,Levofloxacin,Corticosteroids,Reduced efficacy,Moderate
+a23e556a-79ed-44c0-a6d3-3a3e2e5703f1,Norfloxacin,Warfarin,Reduced efficacy,Low
+b4637ccb-9d88-4e14-aa24-72df2202e512,Norfloxacin,NSAIDs,No significant interaction,High
+a48c6a3d-fc55-4e5a-b687-57d426b386e9,Ofloxacin,Antacids,No significant interaction,Moderate
+a1c5927e-6f5c-49eb-b734-54d47ab54c01,Levofloxacin,Antacids,Increased toxicity,Low
+1b618f8a-6829-4aac-8b48-8ac7afc4202e,Ciprofloxacin,Theophylline,No significant interaction,Low
+e5c64a51-3ca7-4c74-8840-eab88b587913,Levofloxacin,Theophylline,Reduced efficacy,Low
+aac8362c-17ff-421d-96b2-724b9b3bcea9,Ofloxacin,Antacids,No significant interaction,High
+06d3d09a-0908-4cb0-92ca-072a61cef75d,Levofloxacin,Corticosteroids,Reduced efficacy,Moderate
+77b04fc5-1609-4298-83d0-315ba9093a9e,Ofloxacin,NSAIDs,Reduced efficacy,Moderate
+05a30bd7-0536-41fa-8566-5c0b48bf0d2c,Ofloxacin,Warfarin,No significant interaction,Low
+fec99a93-4e1b-40e5-94b8-6260da47eca8,Moxifloxacin,Antacids,No significant interaction,High
+7478c842-8d4c-42e6-a630-04d0410e6454,Norfloxacin,NSAIDs,Increased toxicity,High
+7194f27a-cdf6-46f8-aa7f-45814f7bd26d,Moxifloxacin,Corticosteroids,Increased toxicity,Low
+49dcc4d9-c43a-4207-88e0-41e3f0f6456a,Moxifloxacin,NSAIDs,No significant interaction,High
+c2386b05-29fd-4d17-84cf-5d86e9f34510,Norfloxacin,Theophylline,Reduced efficacy,Low
+7661815e-b35e-4506-9497-e1421dd23380,Ofloxacin,Antacids,Increased toxicity,High
+8f08b9de-5fd0-4122-88d9-5f3291c0a3f0,Ciprofloxacin,Theophylline,No significant interaction,Low
+86db69b5-9a19-4c25-bc36-c2ad955a58bf,Levofloxacin,Antacids,No significant interaction,Low
+0d72d448-d953-4bae-947b-a63add14bcd6,Levofloxacin,Theophylline,Reduced efficacy,Moderate
+d43ec6db-87db-4e0a-be12-579c07247dbf,Ciprofloxacin,Warfarin,Increased toxicity,Moderate
+09aeaeb5-2c15-4178-8848-9591eec2b0f3,Ofloxacin,Theophylline,Increased toxicity,High
+c246da87-e315-4a7b-a36e-40c4411bbc87,Norfloxacin,Antacids,No significant interaction,Moderate
+18d31909-39ef-412e-9569-0336607af1d2,Ciprofloxacin,NSAIDs,Increased toxicity,High
+05624605-a12d-4598-bf70-d025344e9336,Levofloxacin,Theophylline,Reduced efficacy,Moderate
+5425d2b8-880b-4587-819c-ae21da4f9c57,Moxifloxacin,Corticosteroids,Increased toxicity,Low
+e25f8b88-6426-4fee-beba-43f62626b210,Ofloxacin,Warfarin,Reduced efficacy,Low
+6ab81b73-e5f1-43ff-9367-b89fd47b5e87,Ofloxacin,Antacids,No significant interaction,Low
+36494011-c135-4746-9011-bef790cfa8a7,Ofloxacin,Antacids,Increased toxicity,High
+155c954e-aab8-4a2a-9c8c-dc9178a72f0b,Levofloxacin,Warfarin,Increased toxicity,Moderate
+65d4699d-9fbc-4500-bf01-5310d24d51fc,Norfloxacin,Theophylline,Increased toxicity,Low
+9cfdbe80-9c57-4fea-83e9-7627bb99f0a7,Norfloxacin,Corticosteroids,Reduced efficacy,Moderate
+2bb8a24c-ff00-4426-bf15-b8b2f4731839,Levofloxacin,Corticosteroids,Increased toxicity,Moderate
+0da7aad2-8b61-4c1c-96bd-09ed7be1a5f3,Ofloxacin,NSAIDs,Reduced efficacy,Low
+a3829e0a-f238-45c4-8601-f935b957e6db,Ciprofloxacin,Warfarin,Reduced efficacy,High
+a7a4a05f-041e-4039-9853-7659710e3b4d,Norfloxacin,Theophylline,Reduced efficacy,Low
+d4d372bf-a23d-4d33-a8bf-116dd28bdb8c,Levofloxacin,NSAIDs,No significant interaction,Low
+04b63e91-26df-4187-a58d-1de9630deb43,Norfloxacin,NSAIDs,Increased toxicity,Low
+d0257335-d765-4c36-b739-a1a1f6bae392,Norfloxacin,Corticosteroids,No significant interaction,Low
+dd06b930-6e7d-4501-aad7-f850a0e01fc5,Levofloxacin,Theophylline,No significant interaction,High
+91cc5d52-4c2e-4232-bde0-87290a3cccec,Ciprofloxacin,Corticosteroids,No significant interaction,High
+e3d717eb-c81e-451e-b9fb-e45074a91c9c,Levofloxacin,Corticosteroids,Reduced efficacy,Moderate
+4fcc91dc-d66e-453b-9e29-03cf52cd3fd5,Levofloxacin,Warfarin,Increased toxicity,Low
+3fa4cd3b-cda2-4448-8fee-82ae33dbbd20,Ciprofloxacin,Theophylline,Increased toxicity,Low
+c000d21f-9b30-4fb1-a0c0-2d4d2b672100,Moxifloxacin,Warfarin,Increased toxicity,High
+39121612-d1d6-49db-8d4a-4d8950f70190,Norfloxacin,Antacids,Reduced efficacy,Low
+368439bd-1a77-4388-9448-8f14bb7e08ff,Ciprofloxacin,NSAIDs,No significant interaction,High
+d219bcc1-c992-4020-9142-c8a0d038e3a9,Ciprofloxacin,Antacids,Increased toxicity,Low
+c4d7ad07-c1a4-4c13-94ac-3c2be50d7753,Moxifloxacin,Corticosteroids,Reduced efficacy,High
+72001e14-f4f0-4a31-bf3a-2da0697f768a,Norfloxacin,NSAIDs,No significant interaction,Moderate
+24eeb806-1568-4393-9402-532a2e879911,Norfloxacin,Antacids,No significant interaction,Low
+c7331fb9-beeb-4623-8255-4ac902fb6920,Norfloxacin,Theophylline,No significant interaction,High
+0156a68f-c402-477c-9711-3939b865f0ef,Levofloxacin,Theophylline,Increased toxicity,High
+d2ac7c94-d1da-42a2-b072-cbdb5954cff9,Ciprofloxacin,Antacids,Increased toxicity,High
+577df742-6189-4a05-b7f4-2af1abd99949,Norfloxacin,Corticosteroids,Increased toxicity,Low
+84a87f1a-c485-446e-aab7-91ce7b8394fe,Moxifloxacin,Antacids,Increased toxicity,Low
+922d8f50-3d40-4734-ba0b-3555cabfed26,Norfloxacin,NSAIDs,Increased toxicity,Low
+10191e48-b5e7-4225-b9ce-5e18ea6336fd,Moxifloxacin,Antacids,Reduced efficacy,Low
+af63a051-ada0-4f1f-b031-0dbd7abb4794,Ciprofloxacin,NSAIDs,Reduced efficacy,High
+310ce425-4d3e-4feb-b584-045b056edd35,Moxifloxacin,NSAIDs,No significant interaction,High
+fee8d43e-364a-4d3a-a47b-a65f8ad76b70,Norfloxacin,Theophylline,Increased toxicity,Low
+26ee4308-9595-4729-9184-3023f8c3198c,Moxifloxacin,Theophylline,No significant interaction,Moderate
+bb817458-4dd8-4d42-a872-507617a3c079,Norfloxacin,Corticosteroids,No significant interaction,High
+3d5a5c96-9a72-4816-bd8d-34d5871e4426,Ofloxacin,Theophylline,Reduced efficacy,Moderate
+53673f70-43f3-48aa-9a5e-2be61b0f8222,Ofloxacin,Warfarin,No significant interaction,High
+c96b6e7d-6ff0-4d54-bf42-bfd466376135,Levofloxacin,Antacids,Increased toxicity,Low
+1acb5242-dbd0-457b-89db-00c0666087ff,Levofloxacin,Corticosteroids,Reduced efficacy,High
+ecc977ef-e11d-4cc8-9366-ef6295dd908c,Moxifloxacin,Warfarin,Reduced efficacy,Moderate
+b2f2c60f-7df5-40a6-a6c2-78b8e6f077ac,Moxifloxacin,Theophylline,Increased toxicity,Moderate
+1fd82299-9483-4952-a40c-9589a3908fc8,Levofloxacin,Warfarin,Reduced efficacy,High
+51f1021f-b584-404f-83d9-0d7870f0e802,Ofloxacin,Warfarin,Increased toxicity,High
+41ae2b4e-1c0f-4dea-a93d-533aa4dab21a,Norfloxacin,Antacids,No significant interaction,Moderate
+d4053920-df3f-45ae-8682-2a08b0464019,Levofloxacin,Corticosteroids,Reduced efficacy,Low
+c9af9d33-735a-4a5b-bba4-39a45f3fd6f6,Norfloxacin,Antacids,No significant interaction,Moderate
