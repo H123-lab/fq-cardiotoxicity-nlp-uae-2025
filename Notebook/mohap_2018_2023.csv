@@ -1,0 +1,1001 @@
+Prescription_ID,Year,Facility,Drug,Dosage_mg,Frequency_per_day,Duration_days,Indication
+c3750f18-1ef1-4ff9-89af-8b81684fe444,2023,Abu Dhabi Hospital,Levofloxacin,750,2,5,RTI
+1c5b7afc-31c8-4fc6-873e-5327883de408,2019,Abu Dhabi Hospital,Norfloxacin,250,2,5,UTI
+abf2e4e9-81b6-4021-9a09-cd66a0003ebf,2018,Dubai Clinic,Ciprofloxacin,750,1,10,RTI
+9f573c71-dbfc-48cc-abb5-e3e2b75b0755,2023,Ajman Health Center,Ciprofloxacin,500,2,5,RTI
+873ce5d9-8b5a-4734-a996-6cc771bdb44e,2023,Ajman Health Center,Moxifloxacin,500,1,5,Skin Infection
+51e5c170-5486-46dc-81f8-406c3f7e7a4d,2018,Abu Dhabi Hospital,Ofloxacin,250,2,7,Sinusitis
+a011ad4a-f334-470d-b53b-9d4b66ca5ac8,2020,Abu Dhabi Hospital,Ofloxacin,750,1,7,UTI
+370e7f48-abef-460e-bd56-1f7efcbbddc1,2022,Sharjah Medical Center,Norfloxacin,500,1,10,UTI
+669613a4-abc4-4434-b0c4-925f8e2f39b4,2018,Dubai Clinic,Moxifloxacin,250,1,5,Prostatitis
+5fbfe590-4989-45a4-b135-bab800426cda,2020,Ajman Health Center,Moxifloxacin,250,2,7,RTI
+7f3588a2-aa05-43a7-83dc-2457ee12de6b,2023,Sharjah Medical Center,Levofloxacin,750,1,10,RTI
+e9a6528c-0e77-4ded-a18b-f6c73756a768,2019,Ajman Health Center,Ofloxacin,500,1,10,Skin Infection
+2b5bf2e1-f3fb-4335-bc9f-1ee76c8281a6,2018,Dubai Clinic,Levofloxacin,500,2,7,UTI
+75cd56e1-d9a8-4e52-ab72-62c8fc3fb6c4,2019,Sharjah Medical Center,Ciprofloxacin,750,2,7,Prostatitis
+3a5936f2-981a-430d-ac31-2877b14f32fc,2019,Sharjah Medical Center,Ciprofloxacin,250,2,10,Sinusitis
+d1089690-aa90-4be6-884f-f70b1670e406,2021,Ajman Health Center,Moxifloxacin,250,1,10,Prostatitis
+45594402-d16e-4221-83f6-2bdc9121a291,2018,Abu Dhabi Hospital,Levofloxacin,250,1,10,Prostatitis
+6fb8e3a8-b854-42ef-9b03-fe7d82d8ab9b,2022,Abu Dhabi Hospital,Ofloxacin,500,2,10,Skin Infection
+325be399-59f5-4072-9537-ccb2ba6316a6,2022,Abu Dhabi Hospital,Levofloxacin,750,2,10,Skin Infection
+ab5c04a6-096d-4e0f-a74c-0598f7f8b3eb,2018,Sharjah Medical Center,Ofloxacin,250,2,5,Skin Infection
+002061fe-876d-43fe-b989-ce6dd9b075a4,2022,Dubai Clinic,Norfloxacin,250,2,10,Sinusitis
+1085b7f5-9e88-41f7-976d-91ddb268fa99,2022,Dubai Clinic,Ciprofloxacin,500,1,10,Sinusitis
+8967de80-be1f-4a4b-9aa2-ad3ff28b4979,2018,Sharjah Medical Center,Ofloxacin,250,1,7,Skin Infection
+43563204-4f6b-4afe-9b0e-69cc29634b5d,2019,Abu Dhabi Hospital,Ciprofloxacin,750,1,5,Prostatitis
+280d2947-6e5f-4874-adde-7d7dba7830b8,2018,Dubai Clinic,Ciprofloxacin,750,2,10,RTI
+5077c12a-9252-4ee5-86a0-0189d55d2d6e,2020,Ajman Health Center,Ciprofloxacin,750,1,10,Skin Infection
+ba4f757c-49b9-46fc-9b22-ba09e4985cef,2021,Sharjah Medical Center,Ofloxacin,750,2,5,RTI
+470aa7d1-d149-4c40-8c9a-36e84a66cab4,2019,Abu Dhabi Hospital,Moxifloxacin,250,1,10,RTI
+8b5de9c4-6cda-4ccd-9138-235a800d1686,2018,Abu Dhabi Hospital,Levofloxacin,250,1,5,Skin Infection
+cf3c79cb-8dfa-47cc-ae43-17b36601466e,2018,Dubai Clinic,Moxifloxacin,750,2,5,Sinusitis
+af37e64d-cd27-4e15-897c-10b96f52b118,2019,Ajman Health Center,Ciprofloxacin,500,2,5,UTI
+d9168ce2-0433-477d-af2e-ea07599f487d,2018,Ajman Health Center,Moxifloxacin,500,2,7,UTI
+239045c3-cdab-4207-b3bf-1f9989df0c8e,2023,Abu Dhabi Hospital,Levofloxacin,500,2,5,RTI
+3ca2d338-a91b-4dc3-8d62-d73f87d5beb3,2019,Dubai Clinic,Norfloxacin,500,1,7,RTI
+dd3d2f27-15ca-4898-b167-d1e13545f77f,2020,Ajman Health Center,Ciprofloxacin,250,2,10,UTI
+e818540d-7771-4719-9b9f-1009ca0321aa,2018,Abu Dhabi Hospital,Levofloxacin,250,1,7,Prostatitis
+5e065f82-286a-4b29-a860-310c739f5621,2021,Dubai Clinic,Ofloxacin,250,1,7,UTI
+8759a543-e457-4ac1-a438-e273e49fc0ec,2021,Sharjah Medical Center,Ofloxacin,500,2,10,Sinusitis
+d21b3cec-fc2e-48f0-9c96-c94a3bf65c3b,2023,Ajman Health Center,Ciprofloxacin,250,2,5,UTI
+05720883-9372-4ddf-9e49-6e3594ebc23b,2022,Abu Dhabi Hospital,Moxifloxacin,250,1,10,Prostatitis
+40bd2f10-e024-4f08-9ee9-23e9c1fe1a94,2022,Dubai Clinic,Levofloxacin,750,1,5,UTI
+01b207a4-1c95-45ed-9203-aab8b4c6149f,2022,Abu Dhabi Hospital,Ciprofloxacin,500,1,10,RTI
+46f9da56-24f0-483a-9684-67bf4ca3246d,2022,Abu Dhabi Hospital,Norfloxacin,250,2,10,Sinusitis
+90d902a8-9e96-4501-8c81-5051fb187315,2022,Sharjah Medical Center,Moxifloxacin,250,2,5,Skin Infection
+46708be5-dd08-498f-80fe-fcff3af36851,2021,Dubai Clinic,Moxifloxacin,500,2,5,UTI
+f701ffc6-3cf8-43bc-9509-b58d8d6be1e4,2021,Abu Dhabi Hospital,Levofloxacin,750,1,10,Skin Infection
+c75fed41-54b9-42b8-b621-c4069e891d58,2019,Sharjah Medical Center,Levofloxacin,250,2,7,RTI
+7d00e418-18ad-484a-bd14-303dfa1aa592,2021,Sharjah Medical Center,Norfloxacin,750,1,10,Sinusitis
+3693464a-4a61-418c-8a00-80e8ef13f3d8,2020,Abu Dhabi Hospital,Ciprofloxacin,500,1,5,Sinusitis
+75cf1471-5883-459b-9688-5e599bdaa0e6,2019,Sharjah Medical Center,Moxifloxacin,750,1,10,Skin Infection
+e65ba072-a612-4b42-be77-214f5060ee6f,2019,Sharjah Medical Center,Norfloxacin,500,2,5,UTI
+c23766ed-2201-4451-8471-a40a834c1675,2023,Ajman Health Center,Moxifloxacin,250,1,7,RTI
+6c137444-a9f2-4ea9-a324-145484a6df39,2023,Sharjah Medical Center,Ciprofloxacin,750,2,10,Prostatitis
+29dc5a09-0bbf-48c5-9c98-86f310cbf8d8,2022,Abu Dhabi Hospital,Levofloxacin,250,1,10,UTI
+5dfadf9b-76f6-462f-bbb5-02cb5414fc37,2020,Dubai Clinic,Ofloxacin,250,1,7,Skin Infection
+78d48f83-11fe-4211-9b65-c061ac07ad48,2018,Sharjah Medical Center,Ciprofloxacin,750,1,10,UTI
+e55ba2b8-bf01-483f-9567-f704e4f7a875,2020,Ajman Health Center,Norfloxacin,750,1,5,RTI
+22a8fe6e-16e3-4c1f-9df5-ec1a7ec38828,2019,Ajman Health Center,Levofloxacin,250,2,7,RTI
+54f90993-826d-4860-8bd1-c39d5fcaa180,2020,Dubai Clinic,Levofloxacin,500,1,7,RTI
+d5380196-19cc-45d0-8faa-950abf758c84,2019,Ajman Health Center,Moxifloxacin,500,1,5,UTI
+b7c4d73d-dc32-4512-b4fe-91fcef3e51a7,2023,Dubai Clinic,Ofloxacin,500,2,5,Skin Infection
+bd850ddf-ec3c-4c7c-8cba-5bd052e9346d,2020,Ajman Health Center,Norfloxacin,500,1,5,Skin Infection
+eba9ac84-287d-4dc6-8b77-cdf8698eadab,2019,Sharjah Medical Center,Levofloxacin,250,2,7,Skin Infection
+04b509e0-57d5-49e1-903b-543ebc99a1ae,2021,Abu Dhabi Hospital,Ofloxacin,750,1,7,UTI
+443076d8-287f-4450-923e-3cb23287a031,2023,Ajman Health Center,Levofloxacin,750,1,7,Prostatitis
+2776d788-5128-459d-8d76-9987ff60b527,2018,Sharjah Medical Center,Norfloxacin,500,1,10,Skin Infection
+032368a9-9f51-4cce-9b53-6d738c75eb64,2022,Sharjah Medical Center,Ofloxacin,500,2,10,Skin Infection
+36b8981f-871c-42d6-88fc-351f18f98820,2022,Dubai Clinic,Ciprofloxacin,500,2,10,RTI
+b5319110-e35e-4541-953d-592240f4a9bb,2022,Sharjah Medical Center,Ofloxacin,750,1,7,Skin Infection
+1d9a9717-fd5e-44cd-bf7a-b7ba190166be,2019,Ajman Health Center,Norfloxacin,750,2,7,Prostatitis
+da0a7034-fdef-40c0-8b72-5d9ca621d0ed,2021,Dubai Clinic,Norfloxacin,500,1,10,UTI
+bfc0d2a2-a1f9-4d9c-ab40-329f89be37f7,2020,Sharjah Medical Center,Levofloxacin,250,2,5,RTI
+865a24d0-c191-48d1-81d3-738761bcea2c,2019,Abu Dhabi Hospital,Levofloxacin,250,2,10,UTI
+9ce88501-781f-498e-9178-d0b5815bbe80,2021,Ajman Health Center,Norfloxacin,250,2,7,Prostatitis
+0107e45a-1136-4a0f-aae9-30365adf89eb,2019,Dubai Clinic,Levofloxacin,250,2,5,RTI
+6e5b89f8-b33a-4e85-8247-d65c17dc7bd9,2023,Ajman Health Center,Levofloxacin,750,1,5,Prostatitis
+66cdde26-b793-462a-bc19-037948e9bcfb,2019,Ajman Health Center,Norfloxacin,750,2,7,Sinusitis
+8fce2dfc-b647-4f56-b28d-39755b7686be,2023,Ajman Health Center,Norfloxacin,500,1,10,Prostatitis
+8dc4a1d9-098b-42ea-aa62-489e3637950f,2021,Sharjah Medical Center,Ciprofloxacin,750,2,10,Prostatitis
+983fe954-e05b-417c-817d-0d0990a260c5,2023,Dubai Clinic,Moxifloxacin,500,1,10,Skin Infection
+aab65613-3966-4154-8521-37237f2cbbc7,2019,Sharjah Medical Center,Moxifloxacin,500,1,5,RTI
+94927070-4069-4d14-bf8b-49c70e6fff1f,2019,Ajman Health Center,Ciprofloxacin,750,1,5,Prostatitis
+6af3da99-0d30-472e-bd1d-7b8c8195f5eb,2021,Sharjah Medical Center,Norfloxacin,500,2,5,RTI
+ba360203-7ee7-4324-a1ab-166a18400544,2021,Ajman Health Center,Norfloxacin,750,1,10,Prostatitis
+8e7ca128-8c8d-43c6-bf42-0fe276c31661,2021,Abu Dhabi Hospital,Moxifloxacin,500,2,7,Sinusitis
+65c632b4-8d7b-4581-9f07-2df18052e8f1,2023,Dubai Clinic,Ofloxacin,250,2,7,Prostatitis
+7112b58a-1f8b-48b4-a77c-3d59456feb6e,2018,Ajman Health Center,Moxifloxacin,750,2,10,RTI
+3c32e507-99c7-4521-9e71-90de2cbdd5f1,2021,Dubai Clinic,Norfloxacin,750,1,7,Sinusitis
+699d4831-2a3b-474f-a6bc-9bdc49a793f4,2022,Abu Dhabi Hospital,Levofloxacin,750,2,5,Prostatitis
+adc5d94a-4f7c-4713-ab40-bd463d847ab2,2019,Abu Dhabi Hospital,Moxifloxacin,500,2,5,Prostatitis
+83e91698-3db6-4104-a923-e49277202a83,2020,Sharjah Medical Center,Ofloxacin,500,2,7,UTI
+17f2eb27-c43a-4ed7-ace2-d9fc5fcb87f8,2021,Abu Dhabi Hospital,Norfloxacin,250,2,5,UTI
+8e67474a-5d5c-43e1-9f69-b07782624340,2023,Abu Dhabi Hospital,Levofloxacin,250,1,5,Sinusitis
+9400bde3-303d-47ef-8d90-704c0beb41ff,2019,Dubai Clinic,Ciprofloxacin,500,1,10,RTI
+ed07b258-071d-4da5-96da-0b821952eb1e,2021,Sharjah Medical Center,Moxifloxacin,250,1,5,Skin Infection
+57849576-60d9-426c-be7c-fc0e87776564,2018,Abu Dhabi Hospital,Moxifloxacin,750,2,7,RTI
+64d430ad-28d3-4bf7-8b43-07480947086a,2018,Dubai Clinic,Levofloxacin,750,2,10,Sinusitis
+9895025b-0966-4d6a-812c-ef2e3f8a8097,2018,Abu Dhabi Hospital,Moxifloxacin,750,2,10,Skin Infection
+8b982ba9-f612-4978-8b91-83cb52317498,2018,Sharjah Medical Center,Levofloxacin,500,2,5,Prostatitis
+c158c3d4-869f-4edd-a8cf-f9d417cba3f3,2020,Ajman Health Center,Ciprofloxacin,500,1,10,Sinusitis
+1cd680cf-3d86-4ef0-84cd-f61e26c28ad7,2023,Sharjah Medical Center,Norfloxacin,750,2,7,Prostatitis
+a8f7bffa-499b-4639-b11a-e3da4ddeb981,2023,Sharjah Medical Center,Moxifloxacin,250,1,7,Prostatitis
+77c1b9d0-27ec-423e-817f-d3a1ac669e78,2019,Ajman Health Center,Norfloxacin,750,2,7,UTI
+b057d10a-88ad-4cf5-b280-bed0f9a0e893,2021,Sharjah Medical Center,Ciprofloxacin,500,1,7,Skin Infection
+cc301cc4-d66f-43ca-a26c-a43f37029e7d,2020,Sharjah Medical Center,Norfloxacin,750,2,10,UTI
+b04790b6-15ab-4d46-9b3c-5db2781761a1,2022,Dubai Clinic,Levofloxacin,250,2,7,Sinusitis
+e46dbadd-0cb7-4813-ac30-c435405278b2,2019,Ajman Health Center,Ofloxacin,500,1,5,Skin Infection
+927f14ce-8ab4-45ff-a9bc-4e7568e2d37c,2019,Ajman Health Center,Ciprofloxacin,500,2,7,Sinusitis
+edd1c253-db24-4e91-a1ce-a7c619beeb97,2022,Sharjah Medical Center,Ofloxacin,750,2,7,Prostatitis
+14de9cd9-3370-45af-ae8a-895e703d218b,2020,Sharjah Medical Center,Moxifloxacin,250,1,10,RTI
+9ea5023e-4216-4f4b-8082-59f5d4247035,2020,Abu Dhabi Hospital,Norfloxacin,750,1,5,RTI
+16b4498a-3182-4959-a663-48050327c00e,2023,Ajman Health Center,Moxifloxacin,750,2,5,RTI
+c3f66cdb-b7cf-488b-b2f3-dcb88aea0d3e,2020,Dubai Clinic,Moxifloxacin,250,2,5,Sinusitis
+0f85434f-4e8a-4708-8aef-2355493706db,2019,Sharjah Medical Center,Levofloxacin,250,2,10,RTI
+e027319a-9826-4bdc-b9f5-da9798808ec3,2023,Ajman Health Center,Levofloxacin,250,2,7,Prostatitis
+27db1d5b-7c49-4064-aac8-43ef02614361,2021,Sharjah Medical Center,Ciprofloxacin,250,2,7,UTI
+1bdf05f3-c6d8-4022-ba95-1b32ed35bf87,2018,Ajman Health Center,Ofloxacin,250,1,5,RTI
+25983773-3a1c-4454-a1eb-7fb342e7df3c,2022,Sharjah Medical Center,Levofloxacin,250,1,10,Prostatitis
+fb4d3db8-afd0-403d-b300-7d9964480cb9,2022,Dubai Clinic,Norfloxacin,500,2,7,Skin Infection
+77145267-1c45-4e36-a460-c076ff7fe5e8,2022,Ajman Health Center,Moxifloxacin,750,1,10,UTI
+0fd3ab4b-7dc4-4e0e-96c6-2b1b1cde80bf,2019,Dubai Clinic,Moxifloxacin,750,1,5,RTI
+97280351-d0ea-4728-a3e1-7de9354bace8,2019,Abu Dhabi Hospital,Ciprofloxacin,250,2,7,Sinusitis
+63004f62-834b-456a-9cca-ce754be1bfec,2021,Sharjah Medical Center,Levofloxacin,250,2,10,Skin Infection
+7b753f2a-c1e5-44a7-8a0f-3c6e9f133b8a,2023,Ajman Health Center,Levofloxacin,750,1,7,Sinusitis
+bd4224f6-9bd4-4617-ab34-06e6a033701c,2023,Dubai Clinic,Ofloxacin,250,1,10,RTI
+72f14fb5-5282-49d2-8114-3bbf57d4c7c8,2020,Dubai Clinic,Levofloxacin,250,1,7,Sinusitis
+eae18a07-a130-4467-8ef5-5810ad782d23,2023,Sharjah Medical Center,Ofloxacin,250,2,10,Skin Infection
+88c4d76f-c9d5-4e98-9c26-dd6d3cc6f643,2023,Ajman Health Center,Moxifloxacin,750,2,7,UTI
+6a2f6c1e-4c3a-4cff-9b7f-7d5ea2293338,2022,Abu Dhabi Hospital,Ofloxacin,750,2,10,Skin Infection
+e02dee8f-5cdf-4fcd-a43e-f9b27c4db67c,2018,Abu Dhabi Hospital,Ciprofloxacin,750,1,10,Skin Infection
+cc26396e-4803-4af3-8a51-c0e40094f8dd,2022,Abu Dhabi Hospital,Ciprofloxacin,500,2,7,RTI
+f7aacbe2-7b54-4bf5-9430-9464568c5c51,2022,Ajman Health Center,Ofloxacin,250,2,7,Prostatitis
+70c350bc-8403-4aa4-b0b2-11ce3305a329,2020,Sharjah Medical Center,Levofloxacin,250,2,7,Prostatitis
+0b5c1bbe-33e9-4277-8bb3-3401374e74eb,2020,Ajman Health Center,Norfloxacin,250,2,5,Skin Infection
+5dd1b09f-1433-4bff-9528-7dd247b970c1,2020,Sharjah Medical Center,Levofloxacin,500,1,10,Sinusitis
+c3f62101-69e2-4d8f-9588-f679475bd872,2021,Ajman Health Center,Levofloxacin,250,2,10,Prostatitis
+18fae44b-2cb4-4568-a415-6331b3d7750e,2023,Ajman Health Center,Levofloxacin,250,2,10,RTI
+71ee21a9-9924-4bc1-afb9-8bbef29033f1,2020,Ajman Health Center,Ofloxacin,250,1,10,Sinusitis
+4f1dc133-f19a-4ba1-a9df-0fe38e710d3c,2019,Dubai Clinic,Moxifloxacin,750,1,10,Prostatitis
+7a83af4b-fd85-4899-8dc4-4641b1e0bd7f,2018,Dubai Clinic,Levofloxacin,500,1,10,RTI
+71cb6f02-2f09-464c-8559-946b2e9e6d6e,2021,Sharjah Medical Center,Norfloxacin,750,2,7,Prostatitis
+8581097e-bb82-4a43-885b-0aad474e3a30,2021,Dubai Clinic,Ofloxacin,750,1,7,RTI
+1debe8ee-fe49-493d-87bc-a54dde76c425,2022,Dubai Clinic,Levofloxacin,500,2,7,Sinusitis
+9c5cd643-261c-4bae-abe6-1a03e533b663,2020,Abu Dhabi Hospital,Moxifloxacin,750,2,10,Sinusitis
+978cae57-8ec8-4b1a-b484-8a6a2d46bd9e,2023,Ajman Health Center,Ciprofloxacin,500,2,7,Skin Infection
+9795af4f-5404-461d-9c44-7fa6bec94e70,2022,Ajman Health Center,Ofloxacin,500,1,10,RTI
+1aa9ab55-78d0-4710-a75f-863692774c72,2022,Ajman Health Center,Ciprofloxacin,500,1,7,Prostatitis
+df83ead3-a51e-411f-9b55-c68be48ad4ec,2023,Ajman Health Center,Ofloxacin,750,1,7,UTI
+b412598d-d08b-4da7-9016-81b080cee0f6,2019,Sharjah Medical Center,Levofloxacin,500,1,10,Prostatitis
+b16e8307-1cd2-4c47-825f-8147e7319030,2018,Dubai Clinic,Ofloxacin,750,1,5,Prostatitis
+9f832662-d04d-41d2-9bd0-d62fcaec81c0,2020,Sharjah Medical Center,Norfloxacin,750,2,10,UTI
+f54c7079-a914-4b91-97e8-c2b7fb9aed5d,2020,Ajman Health Center,Moxifloxacin,750,2,10,UTI
+00bf426d-04d9-4265-808d-a91e7725c276,2022,Abu Dhabi Hospital,Ciprofloxacin,750,2,5,UTI
+b7f8b0e5-d22f-41f1-85ae-83473bb203a4,2021,Abu Dhabi Hospital,Levofloxacin,500,1,10,Skin Infection
+02cded0e-55b3-45ce-b3ea-6d78954bf57a,2018,Abu Dhabi Hospital,Moxifloxacin,250,2,7,Skin Infection
+1f94be46-35ac-491e-bb93-521ed8192c91,2021,Dubai Clinic,Ciprofloxacin,750,2,10,RTI
+cb22a625-06c1-4c90-a243-37c195c27ae2,2019,Dubai Clinic,Levofloxacin,750,2,10,RTI
+4eb3bfc5-de8e-4365-976f-d890bf6d1ccb,2021,Dubai Clinic,Ciprofloxacin,500,2,7,Skin Infection
+bc210fe8-4436-43c9-93f1-59857f1d64a9,2023,Abu Dhabi Hospital,Ofloxacin,500,1,5,Prostatitis
+8d4409fa-2646-4c2a-bacb-9be7cfce4d4a,2020,Sharjah Medical Center,Ofloxacin,750,2,7,Skin Infection
+d759f822-62bc-423b-b5e8-99d5fd3c5ba7,2019,Ajman Health Center,Ofloxacin,250,1,7,Sinusitis
+9a31f15c-42ea-45b6-8289-b24d585b6b72,2020,Sharjah Medical Center,Moxifloxacin,250,2,7,UTI
+7bd69ee4-892e-4dcb-9e2b-6246d1875b17,2022,Abu Dhabi Hospital,Norfloxacin,750,2,7,RTI
+ea225313-b712-4787-8bf7-b2f9c043d7fc,2022,Sharjah Medical Center,Ciprofloxacin,750,1,10,Skin Infection
+f3ea02ae-a1a6-4d78-834d-21a324b51b80,2023,Dubai Clinic,Levofloxacin,750,1,7,Prostatitis
+20ed1e88-ec7c-438e-bb06-c1b38851639b,2018,Sharjah Medical Center,Ciprofloxacin,250,2,7,Prostatitis
+42000da2-7daa-41ba-a2b6-69846e5cb33b,2019,Dubai Clinic,Ciprofloxacin,750,2,10,Sinusitis
+22bda4ab-1652-4878-958b-c194e94360de,2020,Dubai Clinic,Moxifloxacin,500,2,10,Skin Infection
+b5a84382-7469-45af-a6b5-bbb1d9037274,2018,Ajman Health Center,Levofloxacin,250,1,10,Prostatitis
+d27ba69f-73e9-44dc-ad8a-0b4f2cd5da3b,2022,Sharjah Medical Center,Levofloxacin,500,1,7,Sinusitis
+28f4b693-45a2-44f4-83d0-b3520b3c2b15,2018,Ajman Health Center,Moxifloxacin,750,2,10,Prostatitis
+95fdb1aa-6668-40a9-b116-e1b18bf995d1,2023,Sharjah Medical Center,Levofloxacin,750,1,7,UTI
+66fd64ea-95fd-4b31-a8bd-afadef36da09,2022,Sharjah Medical Center,Norfloxacin,250,1,10,Prostatitis
+81197e5c-87e7-4a17-af3b-0dee43142105,2023,Sharjah Medical Center,Ofloxacin,250,1,5,UTI
+3014aead-a8c9-4729-98a7-463dd6302633,2020,Ajman Health Center,Levofloxacin,250,1,10,RTI
+44104f9e-466a-4cc0-a779-013d2f6bb12f,2021,Ajman Health Center,Moxifloxacin,750,2,10,RTI
+4182dc29-6dfe-4cef-9efa-16cbfb52db34,2021,Abu Dhabi Hospital,Ofloxacin,750,2,7,UTI
+aff2646b-481b-431a-9632-6fd0948e3d43,2023,Sharjah Medical Center,Ciprofloxacin,500,2,5,Skin Infection
+3fd16322-c205-4c36-99f3-cbc145e8a929,2018,Sharjah Medical Center,Norfloxacin,750,2,5,Prostatitis
+556c0f86-bb98-4925-8b65-02f32a8695a1,2020,Dubai Clinic,Levofloxacin,500,1,10,RTI
+611c3542-cc7a-424b-b78d-3d4548affa0a,2023,Abu Dhabi Hospital,Levofloxacin,500,1,5,Sinusitis
+86a09131-329c-405a-a9c4-76a27aebe788,2019,Abu Dhabi Hospital,Norfloxacin,250,1,5,Skin Infection
+b777bbbf-942d-4235-88ad-dcd9c790a977,2019,Abu Dhabi Hospital,Moxifloxacin,250,1,10,Skin Infection
+21e16b08-fd0f-457c-84c2-5d9265d6f4f6,2019,Abu Dhabi Hospital,Levofloxacin,250,1,7,RTI
+7942d395-939b-45b8-a4c3-c7a916bf9141,2022,Sharjah Medical Center,Levofloxacin,250,2,5,RTI
+35e8153a-e53d-4e91-8033-c124e31310dd,2023,Ajman Health Center,Norfloxacin,250,1,7,Prostatitis
+811aa67a-533c-448b-ab74-84c067f9f9b0,2020,Abu Dhabi Hospital,Ofloxacin,750,1,10,UTI
+55cdd7bd-42f1-4b01-b439-4fcc89d014ab,2023,Sharjah Medical Center,Ofloxacin,750,1,5,Prostatitis
+ce84026a-1529-4c11-848f-10bca02a6d59,2021,Ajman Health Center,Levofloxacin,500,2,5,UTI
+a49fa488-85bb-42a3-a807-1b2754e26329,2020,Dubai Clinic,Levofloxacin,250,2,10,Sinusitis
+4370b0e6-905f-4c03-a969-47ebd21955fe,2022,Sharjah Medical Center,Ofloxacin,750,2,7,Sinusitis
+b07f7158-f397-4ccb-bab8-147f9e893084,2022,Ajman Health Center,Levofloxacin,750,1,10,Sinusitis
+ded51722-bc37-4a30-931b-0f6812bf873e,2023,Dubai Clinic,Ofloxacin,500,1,7,Skin Infection
+748a0a94-61cc-4845-b122-e6e7c42e53c1,2021,Ajman Health Center,Ofloxacin,750,1,7,Prostatitis
+aaa497c9-aab6-4e83-99d7-44c07a19f021,2020,Sharjah Medical Center,Moxifloxacin,250,2,5,UTI
+50fd888d-2743-4a0b-bd6e-d1949780fd67,2018,Abu Dhabi Hospital,Ofloxacin,250,2,5,Sinusitis
+a791ef33-338a-4f56-8c20-0a7916e4f660,2018,Sharjah Medical Center,Levofloxacin,500,2,10,Prostatitis
+39191a0e-b23d-4952-83ec-89589c618470,2023,Abu Dhabi Hospital,Moxifloxacin,750,2,7,UTI
+341b59de-e060-48bb-a50c-11aab74429e5,2022,Dubai Clinic,Ciprofloxacin,750,2,5,UTI
+5164e409-5cfa-4e65-920c-3737636f84c8,2020,Sharjah Medical Center,Levofloxacin,500,1,7,Sinusitis
+383e741f-dbcd-4392-aa04-83c7e38cbb30,2022,Abu Dhabi Hospital,Norfloxacin,750,2,5,RTI
+25f3c943-f875-452a-b949-8572eb41743c,2020,Sharjah Medical Center,Moxifloxacin,500,1,5,RTI
+b64298bc-586a-4232-b8b2-de32ef1fe637,2022,Ajman Health Center,Levofloxacin,250,1,5,Sinusitis
+fb2be743-ea80-4bba-b2bc-12fb024c0187,2019,Ajman Health Center,Ofloxacin,500,2,5,Skin Infection
+e3106a40-6e21-4acc-9a84-f73a1d75be37,2020,Sharjah Medical Center,Norfloxacin,750,1,5,RTI
+f2f100f2-3c37-4f85-8306-2c592fbb322f,2019,Abu Dhabi Hospital,Levofloxacin,500,2,10,Prostatitis
+443390a4-9347-4b36-a79d-ff3ee505fe31,2021,Ajman Health Center,Ofloxacin,500,1,10,UTI
+1be87b00-2700-4b72-b4cc-bf93d112a6dd,2020,Ajman Health Center,Levofloxacin,500,2,10,Skin Infection
+9315e8c6-4840-4dd3-91e7-67cecfc212fa,2018,Dubai Clinic,Ofloxacin,750,1,5,RTI
+d351d4cc-6693-4b10-b653-b61b90cc90a4,2020,Dubai Clinic,Ciprofloxacin,500,2,7,UTI
+7167ea5c-809e-400e-b33d-35b546a8d15c,2018,Ajman Health Center,Ofloxacin,250,1,7,Sinusitis
+ae557cef-9dfa-4f98-a722-56946254a64b,2023,Dubai Clinic,Norfloxacin,750,2,5,Prostatitis
+4f3fe391-f975-46c0-9d41-451a938d9c77,2023,Abu Dhabi Hospital,Ofloxacin,250,2,5,Skin Infection
+fefb9e5e-e0e0-43fe-a853-d2271e4d69f8,2022,Ajman Health Center,Norfloxacin,500,2,7,UTI
+929bfa24-22ec-43c4-84c6-3d4a35af78d4,2021,Abu Dhabi Hospital,Moxifloxacin,250,2,10,Skin Infection
+135c8213-fb16-4500-8337-9e511e2bf4ca,2018,Ajman Health Center,Levofloxacin,250,2,10,Prostatitis
+6ab22ea6-7b3a-4d4a-8fb2-c2d8ac7ec0eb,2022,Abu Dhabi Hospital,Ofloxacin,500,2,5,Skin Infection
+e293bb6d-ef79-4fbc-9b51-5e7033529984,2019,Abu Dhabi Hospital,Norfloxacin,750,1,10,Sinusitis
+5dd99f44-648c-4c44-965f-ca7e7d06de35,2019,Sharjah Medical Center,Moxifloxacin,750,1,5,UTI
+039e1543-1a30-46f2-b6cb-b93846aae07e,2019,Sharjah Medical Center,Ciprofloxacin,250,1,10,UTI
+17424fc2-1480-4f18-9459-94fbcf77a287,2019,Ajman Health Center,Ofloxacin,750,2,10,Sinusitis
+3dda43cc-1661-44ef-b97f-1e653abf837b,2023,Sharjah Medical Center,Moxifloxacin,250,2,5,Prostatitis
+724776b2-72fe-467c-8da2-4af4af5c00b6,2021,Sharjah Medical Center,Moxifloxacin,750,1,7,Sinusitis
+99fd94fb-2950-41ee-bb9f-28b6a757ee25,2018,Sharjah Medical Center,Ofloxacin,500,1,5,Skin Infection
+ea71261e-869d-43c4-b5bd-1681a2165305,2020,Abu Dhabi Hospital,Levofloxacin,750,2,7,Sinusitis
+4ee64745-c946-4d88-839f-84560ca3cc06,2022,Abu Dhabi Hospital,Ofloxacin,750,1,7,Sinusitis
+c7c8a3ad-4304-4952-b6e8-be81cfa15c65,2021,Dubai Clinic,Levofloxacin,500,1,7,UTI
+54d83eb1-5262-421f-a51e-66aa7eb464a5,2022,Dubai Clinic,Levofloxacin,250,2,7,Sinusitis
+9ed3e9d2-568e-471c-b928-8b2a1794c061,2022,Dubai Clinic,Moxifloxacin,500,2,7,Prostatitis
+15dcae19-33fd-4c77-8b62-bf1285ce130d,2020,Abu Dhabi Hospital,Moxifloxacin,250,2,5,Sinusitis
+12852189-65e1-44e6-a719-18c026eb5e95,2023,Ajman Health Center,Moxifloxacin,500,1,7,UTI
+c8154fd0-264f-4ec5-803b-d9b9f58a4219,2022,Dubai Clinic,Moxifloxacin,500,2,5,Sinusitis
+8f11b6d5-7cfc-4266-b368-5de79922bd54,2023,Abu Dhabi Hospital,Moxifloxacin,750,2,10,Skin Infection
+994fd2f2-eb21-450f-9f9b-fd9c68562942,2019,Abu Dhabi Hospital,Ofloxacin,750,2,5,Skin Infection
+8208a3e7-ef00-4d03-bfc9-c3e3174d9245,2020,Dubai Clinic,Ciprofloxacin,500,2,5,RTI
+9f39ebc8-0e20-4c33-8eea-0338610a16d4,2019,Dubai Clinic,Levofloxacin,500,1,10,Sinusitis
+a984c84b-4bd0-4bf6-a62f-05c754327b9a,2023,Abu Dhabi Hospital,Moxifloxacin,750,1,10,Prostatitis
+a2ff8f83-d7c8-475d-8615-37d7ec5e4caa,2019,Dubai Clinic,Ciprofloxacin,750,1,10,Prostatitis
+cb2a2bba-3578-4495-a854-8459fb32f8ba,2018,Ajman Health Center,Moxifloxacin,750,1,7,Sinusitis
+7511216f-f397-4d40-acd1-5f04e76dad60,2020,Ajman Health Center,Ciprofloxacin,750,1,7,Prostatitis
+4905fb9d-9f0d-4d61-a848-d11f7538a83c,2019,Sharjah Medical Center,Norfloxacin,500,2,7,Prostatitis
+779430ef-6b0a-43a5-ba4c-fc2bdd51b59c,2022,Ajman Health Center,Ciprofloxacin,250,1,7,UTI
+7ae02419-7dba-4249-a9b0-bad0bcfccdd4,2023,Ajman Health Center,Moxifloxacin,750,1,10,Sinusitis
+df8684b0-43e1-4301-86fc-311aa4b3f959,2018,Sharjah Medical Center,Levofloxacin,250,2,7,Sinusitis
+1b9c2d9d-ba56-40f0-8ac1-aae49c8ce551,2019,Ajman Health Center,Levofloxacin,250,2,7,UTI
+b2bde492-960a-4194-aa96-c89875720288,2021,Abu Dhabi Hospital,Ofloxacin,750,2,5,Prostatitis
+56836914-49bc-4938-90da-a88f1c58cddd,2018,Sharjah Medical Center,Ciprofloxacin,250,2,5,Skin Infection
+ec1469cf-9a57-4502-aa63-fc698b991f35,2019,Dubai Clinic,Levofloxacin,500,2,10,RTI
+b5cb6e21-9e2f-492c-9244-bb64429a45a8,2023,Ajman Health Center,Ofloxacin,750,1,5,UTI
+ac756ff2-3308-4dad-862b-b147c2c3728a,2020,Dubai Clinic,Ciprofloxacin,750,2,5,Skin Infection
+53818112-a1bf-4f15-868f-b26d69c0eac5,2019,Sharjah Medical Center,Levofloxacin,250,1,7,Sinusitis
+b8628a0b-9223-4c63-9884-eba28b6aa8ae,2021,Abu Dhabi Hospital,Levofloxacin,500,1,10,Sinusitis
+2696c086-b73e-44f8-a175-deee9f730fdf,2022,Dubai Clinic,Ciprofloxacin,500,2,5,Sinusitis
+ab6c3cb9-af96-428d-b770-c878fc9508a6,2020,Dubai Clinic,Norfloxacin,500,1,10,UTI
+2211fff0-5686-448e-b606-126b75cac0cf,2022,Sharjah Medical Center,Levofloxacin,750,1,7,Prostatitis
+8eff87df-28f7-47a4-b07e-5ac81a25431a,2018,Ajman Health Center,Moxifloxacin,500,1,7,UTI
+3d2b312b-73db-43db-afad-4e389c43ae72,2020,Dubai Clinic,Levofloxacin,750,2,5,UTI
+c8ca5e2e-3913-4a3e-824a-1f553806bd89,2020,Sharjah Medical Center,Ciprofloxacin,750,2,10,Prostatitis
+5893bc69-faa4-41cf-9fb0-3079ef3b1c91,2023,Dubai Clinic,Ciprofloxacin,250,2,5,Skin Infection
+ae482e18-b911-456e-9173-529b67deacd1,2019,Abu Dhabi Hospital,Ciprofloxacin,250,2,7,Sinusitis
+cdd55ccd-6d09-452f-8813-8476d90eb20c,2021,Ajman Health Center,Moxifloxacin,250,1,7,Skin Infection
+eeeecae0-37f8-48e9-80f0-41270c15aa60,2018,Sharjah Medical Center,Moxifloxacin,250,2,7,Prostatitis
+f8c7cce3-2b96-46c8-a534-9493e5300e08,2023,Ajman Health Center,Ofloxacin,500,1,7,Prostatitis
+be4bb7f7-1a98-4b66-a941-829e851ff913,2020,Sharjah Medical Center,Levofloxacin,750,2,5,Prostatitis
+8fe7fd31-3efc-425f-a133-079b86a49993,2022,Dubai Clinic,Norfloxacin,500,2,5,UTI
+8ecbf8bb-0c36-4f30-8a21-f07ba3a8d26a,2020,Sharjah Medical Center,Moxifloxacin,500,2,5,Prostatitis
+cae203ed-676e-4ec8-b663-c94b0f323ca0,2020,Ajman Health Center,Levofloxacin,750,2,10,Prostatitis
+f60520d4-e876-43cb-815c-43eb652610f4,2020,Abu Dhabi Hospital,Levofloxacin,750,2,7,Sinusitis
+9874e40b-8b7d-4236-963e-869c2875710a,2023,Dubai Clinic,Levofloxacin,250,2,5,RTI
+bbd0d967-b00b-40c2-b15f-0b5674c7860c,2018,Dubai Clinic,Moxifloxacin,500,2,10,UTI
+73344187-8299-4406-befb-ca9b2ce121fe,2022,Dubai Clinic,Ofloxacin,500,2,7,UTI
+0a7ed673-7c48-47cf-bb97-cfa1833a8812,2022,Dubai Clinic,Norfloxacin,500,2,7,Skin Infection
+b9966313-17ad-46e4-b86f-c0142b107b53,2019,Abu Dhabi Hospital,Levofloxacin,750,1,7,Sinusitis
+1c89052e-3361-4298-96fd-1adbf268db43,2021,Abu Dhabi Hospital,Moxifloxacin,500,2,5,Sinusitis
+78c9cad4-676d-4367-949b-a4e02742c0d1,2020,Ajman Health Center,Ciprofloxacin,250,1,5,Prostatitis
+6a55c885-4031-476f-a24a-65efa214ca5b,2019,Ajman Health Center,Levofloxacin,750,2,10,Skin Infection
+3e062286-c8b8-4e15-86b7-f4ac00c55e27,2023,Abu Dhabi Hospital,Norfloxacin,750,2,7,RTI
+a4603746-45ba-4cf1-b48e-3f5b8bad45ce,2023,Dubai Clinic,Moxifloxacin,750,1,5,RTI
+108965ad-d6ad-4f09-a848-15b9a666f989,2019,Dubai Clinic,Ofloxacin,250,2,10,Sinusitis
+d84f8ca2-d00f-4652-8e61-16b48b913007,2020,Ajman Health Center,Norfloxacin,250,1,5,Skin Infection
+cfd90c28-5a30-4d12-b7fa-6eb50b571251,2021,Ajman Health Center,Norfloxacin,500,2,10,UTI
+050af012-7401-4846-bead-5ab8e8417883,2019,Sharjah Medical Center,Levofloxacin,500,2,10,Sinusitis
+373c427b-ce44-47bb-89b4-8b6135de7d50,2020,Dubai Clinic,Norfloxacin,750,1,5,Prostatitis
+9edebde6-1d40-4f69-bed5-e1109adf34f7,2022,Abu Dhabi Hospital,Levofloxacin,750,1,7,RTI
+225eb52d-2a72-4f11-a97e-522998138469,2019,Sharjah Medical Center,Ciprofloxacin,500,2,5,Skin Infection
+828a52a0-1153-4539-9fb8-10e509aaea14,2019,Sharjah Medical Center,Ciprofloxacin,750,2,10,Sinusitis
+a3cb27a4-3d1c-48da-a095-755d92e98901,2018,Dubai Clinic,Norfloxacin,750,1,5,Sinusitis
+9f1af749-f4e0-4314-95d4-e732402101ba,2023,Sharjah Medical Center,Norfloxacin,250,1,5,UTI
+eb13d144-9e40-484a-95d5-16f16990a5a2,2023,Sharjah Medical Center,Ciprofloxacin,750,2,10,UTI
+88541d5c-cf32-4760-b113-ff1b8510ca4f,2021,Sharjah Medical Center,Moxifloxacin,500,1,10,Prostatitis
+7bfcd1f2-ee78-4143-8861-2b2f1f21f5fe,2020,Ajman Health Center,Levofloxacin,750,1,5,Prostatitis
+0717ff6e-0d46-45ca-9793-a0559ef62ba8,2021,Ajman Health Center,Ofloxacin,250,2,10,RTI
+866d3de7-91e1-4404-9461-dcc17a606349,2020,Sharjah Medical Center,Moxifloxacin,500,1,7,Sinusitis
+5ec30a14-4d1a-4e4c-ba70-515a13dfe493,2022,Abu Dhabi Hospital,Moxifloxacin,250,2,5,Skin Infection
+55bbfa5b-72eb-4ab5-8dfc-33f31947efc9,2021,Dubai Clinic,Ciprofloxacin,250,1,7,Prostatitis
+729aab39-83a3-49ad-9729-3eb4d7353850,2022,Ajman Health Center,Ciprofloxacin,250,2,10,Skin Infection
+767de5dc-13f7-4827-8058-2ef4b140f7be,2019,Dubai Clinic,Ofloxacin,750,2,7,Skin Infection
+c8eea52f-3b15-43df-8c14-9336a28b6b32,2021,Abu Dhabi Hospital,Levofloxacin,500,2,5,RTI
+2c9e479b-7a71-4415-a5f0-97c5345d6837,2022,Sharjah Medical Center,Levofloxacin,250,2,7,Sinusitis
+ce4e7c08-6d6c-4919-9833-d73672b788ec,2023,Ajman Health Center,Moxifloxacin,750,1,5,Prostatitis
+71801e73-a65f-421c-a438-0bea0e51c51d,2019,Sharjah Medical Center,Moxifloxacin,500,2,5,Prostatitis
+abb2988f-c704-476e-a061-5af3f094adea,2018,Dubai Clinic,Moxifloxacin,750,2,5,Prostatitis
+88deef9b-f339-4a85-8b59-c35277bb6863,2022,Ajman Health Center,Norfloxacin,500,1,5,UTI
+6af08304-caac-4c46-a80a-54304792a5bb,2021,Sharjah Medical Center,Moxifloxacin,750,2,5,RTI
+051dfdb7-fda5-47a7-b70e-8e9fb1e5cd12,2022,Ajman Health Center,Norfloxacin,250,1,5,RTI
+17c162b7-18db-47cb-871f-835094ff0622,2023,Sharjah Medical Center,Ofloxacin,750,2,5,Sinusitis
+71d9c9de-2dd3-4a93-88b1-fcaaca0803ab,2022,Dubai Clinic,Moxifloxacin,750,2,5,Prostatitis
+a938d76c-887d-49f8-aca7-5cf00c529a3c,2022,Sharjah Medical Center,Norfloxacin,500,2,10,Sinusitis
+90b78fc3-67e5-4c4b-b82b-538837fd69a2,2020,Ajman Health Center,Levofloxacin,500,2,10,UTI
+cf17311b-b583-4b47-b6c5-b2bb450397e5,2021,Sharjah Medical Center,Levofloxacin,750,2,7,Sinusitis
+74369d72-111d-49bb-b118-68b6946d90fe,2022,Dubai Clinic,Levofloxacin,750,2,5,Sinusitis
+9bbdfd7c-6b0e-4cef-b5fa-f662ad21a65f,2023,Ajman Health Center,Ciprofloxacin,750,1,5,Sinusitis
+866ea038-f2e7-4bef-969d-9eaec85e6261,2023,Abu Dhabi Hospital,Ciprofloxacin,250,2,7,Prostatitis
+8e44a167-98c0-4625-bfd2-4e73bb671026,2019,Ajman Health Center,Ciprofloxacin,500,2,10,UTI
+5562011b-3a7d-4fba-b826-ef5879233e3a,2023,Dubai Clinic,Norfloxacin,250,2,10,Prostatitis
+67f773e6-115b-438e-b5dc-3145b0688465,2022,Ajman Health Center,Moxifloxacin,250,2,10,Skin Infection
+16b06651-8474-4a24-9a58-b5f6b251fc8d,2022,Sharjah Medical Center,Moxifloxacin,750,2,5,RTI
+6a968cb2-5256-418c-8942-5af2121e5242,2020,Sharjah Medical Center,Ciprofloxacin,500,2,10,RTI
+3690b016-c0b1-453f-89d5-f0a238d36180,2023,Ajman Health Center,Moxifloxacin,500,2,10,Skin Infection
+476c4999-19bf-41f9-b3e5-ed35a3f9816b,2020,Abu Dhabi Hospital,Norfloxacin,750,2,7,Skin Infection
+cd6abf2e-d431-4743-9140-a211877488e2,2019,Sharjah Medical Center,Levofloxacin,500,1,7,Prostatitis
+63024a5f-e06a-4402-90dc-59df1cd1ee93,2023,Sharjah Medical Center,Ofloxacin,250,1,10,Skin Infection
+97e7431b-3016-4454-b565-6a0cd7654ab7,2022,Sharjah Medical Center,Ciprofloxacin,250,1,5,UTI
+993a80e9-ef00-48de-aa5b-cf3a00f4de5c,2023,Dubai Clinic,Ciprofloxacin,250,1,7,Skin Infection
+66f11ee5-6cf3-491d-8575-5191742b8ab8,2023,Ajman Health Center,Levofloxacin,750,1,5,Sinusitis
+c42fca5b-a5f1-422a-b7da-f08c7ff540f1,2019,Ajman Health Center,Ofloxacin,500,1,7,Skin Infection
+9664bd08-1c66-4214-8bc0-4cb7f2ee33e9,2020,Abu Dhabi Hospital,Levofloxacin,750,1,10,UTI
+ebbf4698-cc58-443f-b64c-7c2342fffe60,2019,Ajman Health Center,Ciprofloxacin,250,2,7,RTI
+433ddcf1-6190-422b-a3f5-0e87000ebe4f,2023,Sharjah Medical Center,Levofloxacin,250,2,10,Sinusitis
+ea1d9941-95db-46c4-8b1a-f0f7637a7dc1,2018,Sharjah Medical Center,Moxifloxacin,500,2,5,Sinusitis
+b5782465-e004-4610-b7d4-1cb1093bb820,2021,Sharjah Medical Center,Ciprofloxacin,250,2,5,Prostatitis
+6935f263-9aa7-4982-a6a6-7938e04d0d64,2023,Sharjah Medical Center,Ciprofloxacin,250,2,7,Sinusitis
+7a9781ca-163e-41fb-8142-d8fbb7aa2d6d,2023,Dubai Clinic,Ciprofloxacin,750,2,7,Sinusitis
+04b0dba9-5a08-498e-9f00-567587ae198d,2020,Abu Dhabi Hospital,Ofloxacin,750,1,5,RTI
+ab18201f-d670-4d60-9a70-75d1eae8bb5c,2021,Sharjah Medical Center,Ciprofloxacin,250,2,7,RTI
+3764c36a-f118-45e7-b529-f4c9e72d43bc,2021,Sharjah Medical Center,Moxifloxacin,500,1,7,Skin Infection
+5bdcb66a-86d2-4cc7-969f-521cf0415da6,2023,Dubai Clinic,Levofloxacin,750,1,7,Skin Infection
+e050e747-1585-46b3-a2ee-9d52776e6439,2019,Ajman Health Center,Norfloxacin,750,2,10,UTI
+7be758df-39ce-49db-907a-4f4754bdbbc5,2023,Sharjah Medical Center,Moxifloxacin,750,1,5,RTI
+71c6288f-b94f-4916-b514-d9b0caa8703e,2021,Dubai Clinic,Ofloxacin,750,2,7,Sinusitis
+a70c3be2-5bec-4b08-b560-c04e7e220221,2021,Dubai Clinic,Ciprofloxacin,750,1,10,Prostatitis
+c7b8ed7e-61a8-49f0-9a26-d0223cd7c7d7,2022,Sharjah Medical Center,Levofloxacin,750,1,5,Sinusitis
+2df37d21-01aa-4c76-a5d4-f13a05a2a964,2022,Dubai Clinic,Norfloxacin,750,1,5,Skin Infection
+9667b70b-1764-4a68-b863-111be07e09cf,2022,Ajman Health Center,Levofloxacin,750,1,10,Sinusitis
+0f65a357-0e38-4b24-9c0a-d143ed7e2417,2021,Abu Dhabi Hospital,Norfloxacin,500,1,7,RTI
+5b001177-f208-4d5c-b90c-a93f021fca10,2022,Ajman Health Center,Ofloxacin,750,1,10,Prostatitis
+b22c1cae-ce1f-451a-8182-adc63c913ee3,2023,Sharjah Medical Center,Levofloxacin,500,2,5,RTI
+e225b114-319f-4940-9b5a-6d9c7484f877,2022,Abu Dhabi Hospital,Levofloxacin,500,2,10,UTI
+6408b07f-998f-480a-8b5f-c6db66ed705d,2022,Abu Dhabi Hospital,Levofloxacin,500,1,7,Prostatitis
+5d1fdcf9-f242-43fe-92ed-1415dab45eaa,2019,Dubai Clinic,Ofloxacin,500,2,7,Prostatitis
+af437a82-d12c-4a16-8090-7eb973b9027b,2021,Abu Dhabi Hospital,Norfloxacin,250,2,5,RTI
+d2ccc1cb-430c-4866-b419-db6dec907d0f,2022,Ajman Health Center,Norfloxacin,250,1,5,UTI
+76cf9aa0-af0f-4af7-865c-214116274e0f,2020,Ajman Health Center,Norfloxacin,500,2,5,RTI
+d6b3ac6f-e7f9-4b99-a4f4-8a49cbec0808,2021,Sharjah Medical Center,Ciprofloxacin,500,1,10,UTI
+2d8351c0-23d8-44c7-afc2-7b32f3276d87,2018,Ajman Health Center,Norfloxacin,250,1,5,UTI
+ba35afe5-bb87-4b3c-805d-f7bae75406ff,2018,Abu Dhabi Hospital,Ofloxacin,750,1,5,UTI
+1f4d8a65-f250-4f4e-ab82-1a5297c524a1,2021,Ajman Health Center,Ciprofloxacin,750,1,5,RTI
+2b9d09d0-269c-466b-88bd-b4b641be9f1b,2022,Sharjah Medical Center,Ciprofloxacin,750,2,10,Sinusitis
+f90fdb0d-33ad-4857-8206-417321cd2717,2023,Sharjah Medical Center,Ciprofloxacin,500,1,10,Sinusitis
+3c423f7a-6f46-4fb0-b72d-f78d2e9f1540,2019,Ajman Health Center,Moxifloxacin,500,1,10,Sinusitis
+2d0df3c1-a7ce-4d40-95bd-0a208d14417a,2023,Dubai Clinic,Ofloxacin,750,2,5,Skin Infection
+1f419b75-ea26-49de-87b1-742fcb3b8bde,2023,Ajman Health Center,Norfloxacin,500,2,7,RTI
+730560e4-3cdf-45ed-aba3-f526d2c5790a,2020,Ajman Health Center,Ciprofloxacin,750,2,5,RTI
+acec375f-b2dc-4e2b-9a90-d7d359c789a7,2020,Dubai Clinic,Ofloxacin,250,2,7,Sinusitis
+8e49cd0d-b0d0-47d7-9b2f-920d093e54c4,2022,Dubai Clinic,Ofloxacin,250,2,5,Skin Infection
+d6853bb6-88bc-4884-b2ae-300a27c9e077,2023,Abu Dhabi Hospital,Ofloxacin,500,1,10,RTI
+9e872de2-3805-469d-97f3-8ec6128ab6dc,2018,Sharjah Medical Center,Ofloxacin,750,1,5,RTI
+baf05ae1-f7d7-4ffe-bcb4-1a6b6489f235,2022,Dubai Clinic,Ofloxacin,250,2,7,UTI
+7ca515e3-6edf-4d8b-86a3-fe8a0495aed5,2019,Dubai Clinic,Levofloxacin,750,2,5,Sinusitis
+0945cbb1-9d8b-4e31-9573-632037c59368,2023,Dubai Clinic,Ofloxacin,250,2,7,Prostatitis
+02868973-46cb-4c85-8476-6c3e72f0828f,2021,Sharjah Medical Center,Moxifloxacin,500,2,10,Prostatitis
+2a477f5d-97dd-43d6-97fa-ed30e42a1215,2021,Abu Dhabi Hospital,Ofloxacin,500,1,7,Skin Infection
+a9c33188-dd6e-47c5-aec0-51e320b83186,2021,Abu Dhabi Hospital,Norfloxacin,250,1,5,Skin Infection
+15206e37-1a71-44c5-9937-428c1a4ccde8,2022,Ajman Health Center,Moxifloxacin,250,1,7,RTI
+479ca6f0-5714-4b4b-b3d6-b7d63fffc8e9,2021,Dubai Clinic,Ofloxacin,750,2,7,Prostatitis
+4639f17f-be79-44b7-94d4-dd99f9683e48,2023,Ajman Health Center,Ofloxacin,250,2,5,RTI
+a2bc327a-0f1b-4a0d-b356-df16245fbc24,2023,Ajman Health Center,Ciprofloxacin,750,1,10,UTI
+45fa4060-3bf6-4d1d-ad74-0c69a7acee7e,2018,Abu Dhabi Hospital,Levofloxacin,500,1,10,RTI
+794afec4-ee74-419a-95df-f4ce16aa018c,2018,Dubai Clinic,Levofloxacin,250,2,7,UTI
+7b559d74-5608-4b22-bc5f-c35271a9011e,2022,Ajman Health Center,Ofloxacin,250,1,10,Sinusitis
+7a1ef26b-55ef-4854-95a1-22ce47fe0024,2021,Abu Dhabi Hospital,Levofloxacin,750,2,10,Skin Infection
+4a816e63-5f27-47ee-b7ce-2c7ef536ab99,2018,Ajman Health Center,Ciprofloxacin,250,1,10,RTI
+8c318493-b8b6-4992-9892-b83251d2fc53,2019,Dubai Clinic,Norfloxacin,750,2,7,Skin Infection
+16a33dfc-536b-4848-8901-e887ca6be722,2021,Abu Dhabi Hospital,Moxifloxacin,500,2,10,RTI
+a8b34596-eb25-480d-b3fa-5f4802f04bbc,2023,Dubai Clinic,Moxifloxacin,750,1,10,UTI
+53c6b3b9-f8b0-4e25-be56-559e3201e1d6,2018,Ajman Health Center,Ofloxacin,500,2,5,UTI
+4338e9dd-cd57-4a07-a9db-37c21edf2485,2023,Dubai Clinic,Levofloxacin,500,2,10,Skin Infection
+72ecf40b-0bd2-452c-b851-f367e8814f36,2022,Abu Dhabi Hospital,Norfloxacin,250,1,5,Sinusitis
+f25c507b-f416-4eaa-af58-4358f01f3148,2021,Sharjah Medical Center,Levofloxacin,250,2,10,Sinusitis
+6f5d8dfa-9337-4cfb-aa5a-958882eed4e4,2023,Abu Dhabi Hospital,Ciprofloxacin,500,1,5,Sinusitis
+0f92a0c9-9712-42fa-b9e8-52d75d5569e1,2019,Ajman Health Center,Levofloxacin,500,1,10,RTI
+42d37808-cd68-4b49-81a9-bec279fd55f3,2022,Ajman Health Center,Norfloxacin,500,2,10,RTI
+c04cf272-7dde-4851-a1ba-25ce1f2a9c26,2023,Abu Dhabi Hospital,Norfloxacin,750,2,5,UTI
+160202d9-ce91-48ee-80d8-389bd8d9de24,2021,Dubai Clinic,Levofloxacin,500,2,7,UTI
+9dd89a48-56d4-4f17-bf43-102705efcab4,2023,Sharjah Medical Center,Ofloxacin,500,1,7,Sinusitis
+505050b9-c93d-42bc-bb84-50db5091342c,2021,Ajman Health Center,Ciprofloxacin,750,2,5,Sinusitis
+5d92fba9-b243-4980-b883-bcb4bb8c0399,2020,Dubai Clinic,Levofloxacin,250,2,5,Prostatitis
+8c6e5705-0b1b-43ab-8792-a1643c42a75a,2023,Dubai Clinic,Ofloxacin,500,2,5,UTI
+f3c194cf-37e2-4478-b4a6-ebe0cd746de1,2018,Sharjah Medical Center,Ofloxacin,500,2,5,RTI
+f14c703a-9913-48b8-a1d9-449fb11c0853,2018,Dubai Clinic,Ofloxacin,500,2,5,UTI
+80e790d2-c270-4e7a-b053-309e4c2cc522,2018,Sharjah Medical Center,Norfloxacin,250,2,7,UTI
+5661aaaa-011c-4997-99c8-e953eb7b4588,2020,Ajman Health Center,Ofloxacin,250,1,10,Sinusitis
+f4a4138e-7fee-4b16-a8b9-b39bf3eff19b,2019,Ajman Health Center,Ciprofloxacin,250,2,7,Skin Infection
+64189757-34d9-41bf-8e76-e4429eb88079,2021,Dubai Clinic,Levofloxacin,250,2,7,Prostatitis
+b8c73f03-5004-48f5-9cf4-b9c0da77576d,2020,Ajman Health Center,Levofloxacin,500,2,5,Prostatitis
+cad6fae1-d6dc-4234-9be5-54aed1cb2958,2022,Dubai Clinic,Ofloxacin,250,1,7,UTI
+eda37dc7-b014-448b-8671-19cfd3e47979,2021,Sharjah Medical Center,Norfloxacin,500,2,7,Skin Infection
+446436ba-ed86-4cfa-a270-f73d701789d0,2021,Dubai Clinic,Moxifloxacin,500,1,7,Skin Infection
+9305b446-f36d-45f2-b044-85efeb68e661,2019,Ajman Health Center,Moxifloxacin,500,2,10,RTI
+059e180a-c2ae-4140-b9c1-e6b963ed03ff,2020,Ajman Health Center,Moxifloxacin,500,2,5,Sinusitis
+dd418017-358e-421a-8ce4-cd40240dc502,2019,Dubai Clinic,Norfloxacin,250,2,10,RTI
+5697b6be-05cb-44ab-8415-2fb8fc9f8c07,2021,Sharjah Medical Center,Levofloxacin,500,2,5,Skin Infection
+cfc9de2f-a732-4fd4-985e-b85576f71c39,2019,Sharjah Medical Center,Ciprofloxacin,750,2,7,UTI
+ad61970a-f3b7-4255-ad1d-0e20294c5cc2,2021,Ajman Health Center,Norfloxacin,500,2,10,UTI
+d754dceb-0367-4788-9f22-337e1540d543,2020,Abu Dhabi Hospital,Levofloxacin,250,2,5,Sinusitis
+3276b4d4-c953-455f-a9c0-2e900cd9352e,2018,Ajman Health Center,Moxifloxacin,500,1,5,UTI
+6d25d484-1911-48bb-9bf1-44eb7bc83b0d,2020,Dubai Clinic,Norfloxacin,750,1,7,Skin Infection
+dbaac558-3896-4aca-884f-71ebba8155a2,2021,Ajman Health Center,Norfloxacin,750,1,7,UTI
+70627dc0-b6e6-4cf5-b85e-3216c27c5633,2021,Abu Dhabi Hospital,Moxifloxacin,500,1,5,RTI
+2f6411db-4d04-4f5f-82a9-7c9067c7de91,2020,Sharjah Medical Center,Moxifloxacin,500,1,10,Prostatitis
+d1e03fb3-8a02-44c9-b107-fd644f79c5cb,2020,Ajman Health Center,Levofloxacin,500,2,7,UTI
+fa4c44e9-1719-43d4-bb54-0e68be6b56e5,2020,Abu Dhabi Hospital,Levofloxacin,250,2,10,UTI
+ab290463-0369-4327-84df-f4d50ddc1c36,2023,Dubai Clinic,Ciprofloxacin,750,1,10,RTI
+266bef8f-0d92-42cd-8266-24270378ff3a,2020,Ajman Health Center,Ofloxacin,250,2,10,RTI
+f3dee690-8b28-4755-9ac6-f1c760c0dd76,2019,Ajman Health Center,Ofloxacin,250,1,7,Sinusitis
+5e59f8a5-e786-496b-a540-c90ce19c1485,2021,Ajman Health Center,Levofloxacin,750,1,5,Skin Infection
+a7fad6a3-f112-4ec8-bc48-0158e2aff505,2023,Abu Dhabi Hospital,Norfloxacin,250,1,7,Skin Infection
+d9df6063-5d30-4de8-b4e0-2121e00ce482,2019,Ajman Health Center,Levofloxacin,500,2,10,Skin Infection
+d607fecc-74cc-468d-86e5-0a9658b9e56e,2022,Ajman Health Center,Norfloxacin,500,1,7,Skin Infection
+92d03e46-2486-42df-9ddc-d0c9dfb5bb0c,2021,Dubai Clinic,Moxifloxacin,750,1,10,RTI
+d6276339-7705-454d-8e77-84d3f93c16a4,2020,Abu Dhabi Hospital,Ciprofloxacin,500,1,5,Skin Infection
+bd5585cc-4d15-4c13-b7fb-0d485ce30aac,2023,Dubai Clinic,Norfloxacin,500,2,10,RTI
+261fb32f-35e9-4ac8-8c43-52e4b8b8910b,2022,Ajman Health Center,Ofloxacin,250,2,10,Sinusitis
+0fb47d39-e8cb-4a48-b5ae-dae64b95ec1a,2023,Dubai Clinic,Norfloxacin,250,2,7,RTI
+cf02a657-e2cf-48aa-92ea-a28b753a756f,2019,Sharjah Medical Center,Ofloxacin,750,1,7,UTI
+b7b399da-99e3-47f6-ab68-78fcbb79e1b8,2021,Dubai Clinic,Ciprofloxacin,500,2,7,Prostatitis
+9f3d46d4-4459-4d91-8967-ecb6ee629eb8,2021,Ajman Health Center,Ofloxacin,250,1,10,UTI
+e418be01-ca27-42cd-959e-636b4b241e6f,2019,Sharjah Medical Center,Levofloxacin,500,1,10,Skin Infection
+bfa28ba6-b738-4bd7-86ca-c64928a8fb68,2019,Ajman Health Center,Norfloxacin,750,2,10,Sinusitis
+3f4ce754-277f-4261-848f-4b897feb77fe,2018,Abu Dhabi Hospital,Moxifloxacin,750,2,10,UTI
+ae4ddc65-50cd-4b73-9b44-348cff69dca6,2023,Ajman Health Center,Norfloxacin,250,2,5,RTI
+11337307-b526-4b72-8e2d-30b9a7e9c440,2020,Abu Dhabi Hospital,Ofloxacin,500,2,5,Prostatitis
+b2243eab-7fec-4a98-943b-eb89c19d6599,2018,Dubai Clinic,Ciprofloxacin,750,2,10,Sinusitis
+eb1a61b3-896c-42cf-b73c-628bae5856c1,2023,Ajman Health Center,Ciprofloxacin,750,1,5,RTI
+8afd3ab5-2ae7-47c9-981b-b7fab7823051,2018,Sharjah Medical Center,Norfloxacin,500,1,7,Skin Infection
+d3033404-bbfb-48bf-b0a1-799856ab3c02,2020,Sharjah Medical Center,Norfloxacin,750,1,5,Prostatitis
+fe2eb73c-4f17-4667-a00c-d01b2da2b864,2018,Sharjah Medical Center,Ciprofloxacin,750,1,5,RTI
+75f33c58-7b5c-4f26-b3f2-8106e0adf21e,2023,Sharjah Medical Center,Ciprofloxacin,750,2,7,RTI
+69e3bdef-98ea-4db8-a222-18ec15871b65,2022,Sharjah Medical Center,Ofloxacin,500,2,5,UTI
+916389cf-7001-4cfa-911e-382d3576abd7,2021,Sharjah Medical Center,Moxifloxacin,500,2,7,Sinusitis
+67cdc4fb-c778-4c5d-ac1d-328aca17336e,2018,Abu Dhabi Hospital,Ofloxacin,750,2,5,Sinusitis
+4eedf28d-df58-44e7-b8be-c96fcc0f2182,2021,Dubai Clinic,Ofloxacin,250,2,7,Skin Infection
+70f221c7-1593-4861-b5a7-ba3e844db591,2020,Sharjah Medical Center,Norfloxacin,750,1,10,Prostatitis
+31eb8be9-34d7-4a3b-ba30-fcd8a56a325e,2020,Abu Dhabi Hospital,Levofloxacin,250,2,5,UTI
+c10841d7-1d86-4821-ae19-1fef3564d6c5,2019,Ajman Health Center,Ofloxacin,250,2,5,RTI
+5dbb0537-6118-4374-b4b3-50440f4b7106,2023,Sharjah Medical Center,Ciprofloxacin,500,1,10,Skin Infection
+ce27fc87-354f-41ba-abfe-39063363b50a,2020,Abu Dhabi Hospital,Moxifloxacin,750,1,5,Prostatitis
+b91faa97-6f51-4f87-a7a3-7d9943847897,2023,Sharjah Medical Center,Ciprofloxacin,500,1,10,UTI
+6f4c6c15-1d12-42e9-8b6f-75a76a6d7478,2018,Dubai Clinic,Ofloxacin,250,1,10,RTI
+e42a16a8-dd55-4c67-a73c-2e5dd3f56b98,2022,Ajman Health Center,Levofloxacin,250,2,5,Prostatitis
+ac9dbe19-a298-448f-8b60-4bb6795ccd26,2023,Dubai Clinic,Ofloxacin,250,1,7,UTI
+a14890e5-1766-4688-9943-425342be4ad9,2023,Abu Dhabi Hospital,Levofloxacin,500,2,7,RTI
+6567504d-053a-4bce-8e53-f06d76f68929,2021,Dubai Clinic,Ciprofloxacin,250,1,10,RTI
+afec3940-b8d2-4bc3-8271-1c21d696fa5a,2021,Sharjah Medical Center,Ciprofloxacin,750,1,7,Sinusitis
+5f680173-3fec-442f-bd08-fe80358f2483,2023,Ajman Health Center,Ciprofloxacin,250,1,5,UTI
+f44d70ec-90ec-451a-9be2-a84bb644136a,2022,Ajman Health Center,Moxifloxacin,500,2,5,RTI
+51ea7b30-89ef-43a0-b937-c45815f62685,2020,Abu Dhabi Hospital,Ciprofloxacin,750,2,10,UTI
+2ffa582c-cc5e-4810-8a88-3fcdb0a6eade,2023,Sharjah Medical Center,Ciprofloxacin,750,1,10,Prostatitis
+2cab8811-caff-4cfc-a7da-174dea61a9e1,2020,Abu Dhabi Hospital,Ciprofloxacin,500,2,5,RTI
+9111fe6c-c1b6-414b-ab77-618f01d90a7e,2021,Abu Dhabi Hospital,Norfloxacin,250,2,7,RTI
+659c75c2-9d00-41f3-9998-790c9235c84b,2021,Ajman Health Center,Moxifloxacin,750,1,7,UTI
+d4d5cf61-51f6-49c7-a856-52a8d18a124d,2018,Abu Dhabi Hospital,Levofloxacin,500,1,5,UTI
+7f7e0002-1c13-43f3-90f8-1fa0a45bf90f,2021,Sharjah Medical Center,Norfloxacin,500,2,10,Prostatitis
+e1d84ce7-e70c-4d8c-8aa6-7a9a7c2d8c84,2018,Dubai Clinic,Moxifloxacin,250,2,5,Sinusitis
+ba8fd985-ffbc-4e04-862d-8e64636f42c1,2019,Dubai Clinic,Norfloxacin,500,2,10,UTI
+e7951293-9b86-4b98-a74b-739cd5ada88c,2020,Ajman Health Center,Ciprofloxacin,250,1,5,Prostatitis
+be4a4494-9676-44a5-96f2-740cf0393b54,2018,Ajman Health Center,Norfloxacin,750,1,7,RTI
+748a826a-6194-4f21-aa91-7ee15adc6c2f,2018,Abu Dhabi Hospital,Ciprofloxacin,750,1,5,Prostatitis
+3f1392bc-6657-481e-919c-821d06e3c7ef,2020,Sharjah Medical Center,Ciprofloxacin,500,1,10,Skin Infection
+f32eb13f-3f75-4be7-9da4-389b0a7364a8,2023,Abu Dhabi Hospital,Levofloxacin,500,2,7,Sinusitis
+bc2904ca-2a0f-4b7a-af7b-7b271afd9b67,2018,Sharjah Medical Center,Norfloxacin,750,1,7,Prostatitis
+642566c2-99e8-40fc-aa9f-0f1329d5ef3e,2022,Sharjah Medical Center,Levofloxacin,500,1,7,RTI
+d6071a80-d165-4362-8b34-b981797415ab,2020,Abu Dhabi Hospital,Norfloxacin,750,1,5,Sinusitis
+df377023-c2e2-4c1e-b436-2c5596426f02,2018,Abu Dhabi Hospital,Levofloxacin,250,1,7,Skin Infection
+00c9a43d-91a1-4caa-b59b-a32507c9571f,2021,Dubai Clinic,Ciprofloxacin,250,2,5,Skin Infection
+675c84c8-2acf-44d4-92dd-1a50c353a3ea,2019,Ajman Health Center,Moxifloxacin,500,1,10,Skin Infection
+b84fe183-40ad-47cd-9eba-cf1865a87a3f,2018,Abu Dhabi Hospital,Ciprofloxacin,250,1,7,UTI
+91df3860-c759-4fb8-8fb4-1c349898bd60,2021,Sharjah Medical Center,Moxifloxacin,500,1,10,Prostatitis
+c3335f13-eded-4795-89af-c207c1884c41,2018,Sharjah Medical Center,Ciprofloxacin,500,2,10,Sinusitis
+52b0d320-59c3-4593-9061-20654bf62e93,2019,Ajman Health Center,Moxifloxacin,750,2,5,Sinusitis
+52e3fc62-7881-4491-a143-c41d799f990c,2019,Dubai Clinic,Levofloxacin,500,1,5,Sinusitis
+7b3c0cf2-c0e6-4e37-8fe6-123935bbea17,2020,Abu Dhabi Hospital,Moxifloxacin,250,2,10,Skin Infection
+1da83372-6cc7-4f40-89fb-ccc048d3a70f,2018,Dubai Clinic,Norfloxacin,250,2,7,UTI
+b420ce5b-bcec-4000-9360-887f2e0f3a91,2019,Sharjah Medical Center,Levofloxacin,250,1,10,Prostatitis
+b34e0c92-20ad-40f6-ac40-e8804bb2f045,2023,Sharjah Medical Center,Ofloxacin,750,1,10,UTI
+4acfe96a-05b4-42dc-8e1e-ff7cdb5db616,2022,Dubai Clinic,Ofloxacin,250,1,7,RTI
+855fcb93-154d-49cd-acc7-1ab6754064f1,2019,Sharjah Medical Center,Moxifloxacin,500,2,10,Skin Infection
+570c7836-ca9f-4f19-a7d2-07b01e876669,2020,Ajman Health Center,Moxifloxacin,250,1,5,RTI
+16163c93-8647-48b4-85e3-a9048733a250,2022,Abu Dhabi Hospital,Ciprofloxacin,250,1,7,Prostatitis
+a1650aaa-f8c3-41db-8640-576b0147f4de,2020,Ajman Health Center,Levofloxacin,750,2,5,Prostatitis
+ccc51b42-a0f9-428c-9c2a-e34b130ec5ae,2020,Ajman Health Center,Moxifloxacin,250,1,5,Skin Infection
+fe82df2b-1710-43d5-9e29-b2dceab8a5ec,2023,Abu Dhabi Hospital,Ciprofloxacin,500,1,5,RTI
+20959c02-7f93-4b3b-8271-38d3a5b37b8f,2020,Ajman Health Center,Norfloxacin,250,2,7,RTI
+1d2fd544-46a4-4dd9-98a6-1d91ed7bae63,2018,Ajman Health Center,Ofloxacin,750,1,5,Prostatitis
+649e12e0-a1c8-40a8-b429-6b8fca7b992b,2018,Dubai Clinic,Levofloxacin,250,1,5,RTI
+6512e08d-24a3-46e0-9328-c17fc325b97a,2019,Ajman Health Center,Moxifloxacin,750,1,10,Sinusitis
+9588fa15-1081-40d7-81b0-b2f805feea52,2020,Abu Dhabi Hospital,Levofloxacin,250,1,10,Prostatitis
+63f7ce3f-9008-4aff-9a72-3b44b9e62948,2019,Abu Dhabi Hospital,Moxifloxacin,250,1,7,UTI
+65d58c4e-c47e-4760-bb42-407bb2e5fe12,2019,Ajman Health Center,Ofloxacin,500,1,7,Prostatitis
+2628eba9-9efe-432c-a226-dd7f8e67653d,2019,Sharjah Medical Center,Ciprofloxacin,250,2,7,Prostatitis
+3f8c836a-a680-4b63-9e8a-87bd5531f7f9,2019,Abu Dhabi Hospital,Norfloxacin,750,1,10,Skin Infection
+05327279-763a-44af-a0d8-d8d80cb94898,2021,Ajman Health Center,Norfloxacin,500,1,5,Skin Infection
+078477c0-4ed5-4ffe-bb6c-d0844d198fbe,2021,Dubai Clinic,Ofloxacin,250,1,10,Sinusitis
+2769af1e-422b-4696-890a-984d39acc29e,2018,Ajman Health Center,Moxifloxacin,500,2,7,Sinusitis
+995e0b4e-3761-4a2f-843d-474b93dbc1b7,2022,Sharjah Medical Center,Ofloxacin,500,1,5,Skin Infection
+f3adaa18-1e3a-45b4-bf09-281f7e156113,2022,Dubai Clinic,Levofloxacin,500,1,7,Sinusitis
+c9f8acce-feee-4cd8-a7d1-19164ab1d359,2020,Dubai Clinic,Ciprofloxacin,250,1,10,RTI
+5aa2a6c3-6236-4aa1-9cd9-f23d84c0aa7f,2020,Abu Dhabi Hospital,Ciprofloxacin,750,2,7,RTI
+0c55f8a3-04c1-4ed5-bc68-a0efaa51d0f0,2019,Dubai Clinic,Norfloxacin,500,2,10,UTI
+d6f1d1c6-291a-4460-8c71-5dd283e91331,2023,Sharjah Medical Center,Norfloxacin,750,1,10,RTI
+59788a3c-7097-4c11-85d0-c1b2aca8093d,2021,Sharjah Medical Center,Ciprofloxacin,500,1,5,UTI
+3ee475fd-b67d-49fd-946f-3613c4623383,2019,Dubai Clinic,Levofloxacin,750,2,5,Skin Infection
+dad58506-b3dc-44e9-89e1-3a17cef53c13,2022,Dubai Clinic,Ciprofloxacin,500,1,7,UTI
+46f27cb3-8997-4241-aef4-7ba3e22c91bd,2018,Dubai Clinic,Norfloxacin,750,1,5,Sinusitis
+b48d7556-48da-4401-992b-9e1a42bc4f98,2020,Abu Dhabi Hospital,Moxifloxacin,750,2,10,UTI
+d54889ca-a89c-40a5-a5e4-9753f86963d6,2020,Sharjah Medical Center,Moxifloxacin,250,1,10,Prostatitis
+ccf7afb4-ea84-40e0-bb83-81d4b911ce0e,2023,Ajman Health Center,Moxifloxacin,250,2,5,Sinusitis
+bbe47c02-061e-46c4-9fee-3a18d831f1c8,2019,Ajman Health Center,Moxifloxacin,750,2,5,RTI
+b88c320e-d41d-4be6-a1a4-b81c0cef8726,2023,Abu Dhabi Hospital,Norfloxacin,500,1,5,Sinusitis
+bcb0cfe1-c5a9-46c8-940f-3c9837d3ac4a,2020,Dubai Clinic,Norfloxacin,250,2,5,Skin Infection
+f500b69a-d7fc-4a6c-8bed-68737f20afe3,2023,Abu Dhabi Hospital,Ciprofloxacin,500,2,5,UTI
+fe761423-1f8f-4cfd-ae0d-c2f54ddb1486,2023,Sharjah Medical Center,Ofloxacin,250,2,5,RTI
+06f2206c-527b-428b-866e-658e33afbacd,2023,Abu Dhabi Hospital,Moxifloxacin,500,1,10,UTI
+1140755b-01f5-433d-b225-3c41e1d2ca17,2018,Ajman Health Center,Ofloxacin,750,2,5,Prostatitis
+eda7fbcd-10e2-4ebb-be62-f156aa7d0f0f,2021,Ajman Health Center,Moxifloxacin,750,2,5,Prostatitis
+b9f7c12d-5b2e-476a-9e49-8149d5878930,2022,Dubai Clinic,Ciprofloxacin,500,1,5,Skin Infection
+436c2620-cbaa-4068-88fe-341b9b9a260e,2018,Sharjah Medical Center,Moxifloxacin,250,1,7,RTI
+b04041c1-208c-480b-bad2-7bd7a0a2fc1e,2021,Dubai Clinic,Levofloxacin,750,1,7,Sinusitis
+adcda659-1970-4f98-b176-a4c41dae9d1d,2022,Ajman Health Center,Levofloxacin,500,1,10,Prostatitis
+76283298-a24e-4bf1-9781-955b387084ba,2019,Abu Dhabi Hospital,Levofloxacin,500,1,5,Prostatitis
+13212447-e388-4451-94fe-4cb2dd26524a,2023,Sharjah Medical Center,Moxifloxacin,500,1,5,UTI
+0d679837-2715-4b27-824e-fd5c79e550b6,2021,Ajman Health Center,Ciprofloxacin,250,2,5,Prostatitis
+69b58633-f9a6-4b3f-acba-6d60b3102cb0,2018,Sharjah Medical Center,Norfloxacin,500,1,5,UTI
+4b447ef0-a5a8-4beb-a4f8-e134db6b895c,2019,Dubai Clinic,Moxifloxacin,250,2,5,Skin Infection
+c61a024a-c34d-46fb-8d9b-5d1f78ece16c,2021,Ajman Health Center,Ofloxacin,750,2,5,Sinusitis
+c5e44a04-66a4-4420-940e-3d3f2e65d1fa,2021,Dubai Clinic,Moxifloxacin,500,2,5,Prostatitis
+48d584d1-405f-4a04-b98f-4b9f38a60542,2018,Sharjah Medical Center,Ofloxacin,500,2,5,Skin Infection
+c0b5e3a2-55ba-41a3-bff4-68ccd9850578,2022,Abu Dhabi Hospital,Ciprofloxacin,750,1,5,Skin Infection
+2dc14ec2-563a-4ec3-bf77-168940816730,2022,Ajman Health Center,Norfloxacin,250,1,7,Sinusitis
+532391fd-07a2-4755-8562-454543b4fb45,2021,Ajman Health Center,Norfloxacin,250,2,7,UTI
+6af26811-c6a3-41e4-bd73-50ff812656d5,2021,Abu Dhabi Hospital,Norfloxacin,750,1,5,Prostatitis
+5b4a0967-32c0-42ae-816f-1c3f724b21d6,2019,Dubai Clinic,Ciprofloxacin,250,1,5,Prostatitis
+bb8b13e6-5a0a-4f34-9ea6-cfd99655f86d,2018,Ajman Health Center,Ciprofloxacin,750,1,10,Skin Infection
+958593be-f32a-4cc8-85ee-695ae309844c,2020,Abu Dhabi Hospital,Levofloxacin,500,2,10,Skin Infection
+92b8b038-cc04-4262-9a73-7aabd31971a6,2020,Ajman Health Center,Levofloxacin,750,2,5,Prostatitis
+4bee7069-5d25-4562-9659-16cd6f353585,2019,Dubai Clinic,Norfloxacin,750,1,5,Sinusitis
+01642b1f-db49-41dd-a81f-2e56c00c1574,2018,Sharjah Medical Center,Norfloxacin,500,2,7,Prostatitis
+3ffd2e0d-dc93-4c4e-8451-cb4e03733e04,2023,Ajman Health Center,Norfloxacin,750,2,5,RTI
+5aa24260-642c-425a-9cf9-e750ebedf37e,2020,Ajman Health Center,Ciprofloxacin,750,2,5,Prostatitis
+f5ec64be-dbaf-41a4-b9ed-34a04500fa69,2020,Dubai Clinic,Levofloxacin,750,2,7,Skin Infection
+d05459b5-481f-4158-a081-c72a7bdb5f70,2018,Sharjah Medical Center,Moxifloxacin,500,2,7,UTI
+606a0220-cf4a-493f-8761-ef4a529ee6c9,2019,Dubai Clinic,Moxifloxacin,750,2,7,Skin Infection
+c0784499-9432-4652-a5f2-7373ddd9b763,2023,Ajman Health Center,Norfloxacin,750,1,5,Prostatitis
+dc0c52af-e24d-49bc-98a6-c5d32d929e60,2019,Ajman Health Center,Ofloxacin,750,2,5,Sinusitis
+f31022ed-7d3c-400e-bc0b-40621998d788,2019,Abu Dhabi Hospital,Moxifloxacin,750,2,5,Sinusitis
+0e438374-4c81-43ed-89d9-0c3c77b8b761,2022,Abu Dhabi Hospital,Ciprofloxacin,250,1,5,RTI
+c0de4312-3af1-46fc-a5af-3e041be54d3a,2018,Ajman Health Center,Levofloxacin,500,1,7,Skin Infection
+96738fe8-c0ac-4ca6-a346-39f71930e104,2021,Ajman Health Center,Levofloxacin,750,1,5,Skin Infection
+341c6bbe-d2c9-4429-ae2f-c5a65a1581ca,2021,Ajman Health Center,Ciprofloxacin,500,2,7,RTI
+73689ce6-805a-4c9e-ac98-b431762ccdee,2020,Abu Dhabi Hospital,Moxifloxacin,250,2,5,RTI
+f424920d-25b4-46b6-a43c-48fb44f151a1,2022,Dubai Clinic,Ciprofloxacin,750,1,10,RTI
+5e03f360-2d48-4f66-a630-9d3ebced5b0f,2020,Ajman Health Center,Norfloxacin,250,1,7,RTI
+5634fc30-52bb-41b2-ba4a-db5ed2b4bfbb,2023,Dubai Clinic,Norfloxacin,250,1,7,Sinusitis
+3ddf9e6e-3676-433d-a274-9849755af048,2020,Sharjah Medical Center,Ofloxacin,500,2,7,Skin Infection
+cc9da7ba-913f-40c8-a94b-f4912afb24bc,2019,Ajman Health Center,Moxifloxacin,750,2,10,UTI
+6670e41d-89a5-445e-898b-f341dbfdeede,2018,Sharjah Medical Center,Norfloxacin,750,2,7,UTI
+edcd0d52-9663-44c7-9d14-a74ed7cc3fa6,2021,Abu Dhabi Hospital,Moxifloxacin,500,2,7,Skin Infection
+84098930-a508-449d-b57f-32e262c82023,2023,Sharjah Medical Center,Ciprofloxacin,250,1,5,Sinusitis
+82ddfca2-89cd-426a-be63-820de1c8a90b,2021,Sharjah Medical Center,Ciprofloxacin,750,1,10,Prostatitis
+00a24f74-814d-45aa-9c85-dfab4c2704b9,2020,Sharjah Medical Center,Ofloxacin,500,2,10,UTI
+a2005946-4f69-4f6f-a95e-4d7c76fdbed3,2022,Dubai Clinic,Moxifloxacin,750,1,10,Sinusitis
+acfdf9a4-4e50-45f1-894e-41e81c29273d,2023,Ajman Health Center,Moxifloxacin,750,2,5,Sinusitis
+b79276e7-5a8d-459c-a72b-0647a58aa0ed,2019,Sharjah Medical Center,Levofloxacin,500,1,10,Skin Infection
+84554f71-9912-418e-811f-ae542f727bed,2023,Dubai Clinic,Moxifloxacin,750,1,5,Skin Infection
+c3a0bf8c-6d4c-4d4e-b3a0-7ebd33502029,2019,Sharjah Medical Center,Ofloxacin,500,2,7,Sinusitis
+e0b0406e-840d-499e-bd81-d1fe750fb369,2020,Ajman Health Center,Levofloxacin,500,1,10,Sinusitis
+4a799c36-ea98-487a-a530-93a83b424825,2022,Abu Dhabi Hospital,Ofloxacin,250,1,10,Prostatitis
+7ab42f8f-a0a4-42ff-a586-c190f0ede368,2022,Sharjah Medical Center,Ofloxacin,250,1,5,RTI
+6ba59b39-f2e3-4252-a12f-940cf48919ae,2020,Ajman Health Center,Norfloxacin,500,1,7,RTI
+02cdee80-c107-4bfb-8345-bf309e286119,2018,Ajman Health Center,Moxifloxacin,750,1,7,UTI
+5eba8c0d-420c-4e83-a82e-2d070bec756b,2018,Ajman Health Center,Moxifloxacin,250,1,10,RTI
+e6814a28-f893-491b-b3e2-2f3c35182e52,2021,Abu Dhabi Hospital,Ciprofloxacin,750,2,10,Prostatitis
+6c733427-b4ba-437a-b441-0332ab295aa6,2021,Ajman Health Center,Ofloxacin,500,1,5,Sinusitis
+c086cc36-a98e-4b92-b708-3e62d8a82208,2019,Sharjah Medical Center,Levofloxacin,500,1,5,UTI
+e9c01504-ea70-44ea-8e9b-998b34f4922a,2023,Dubai Clinic,Ciprofloxacin,750,2,7,RTI
+9a66d5c8-ec38-43a7-93af-c039f2db19fa,2018,Ajman Health Center,Norfloxacin,750,2,5,UTI
+4a033897-9443-4c79-a21a-d444c63ebd5a,2018,Sharjah Medical Center,Moxifloxacin,500,2,7,RTI
+cbd97e0f-96e7-4b1a-9540-5b77f6aca13f,2020,Ajman Health Center,Moxifloxacin,250,1,7,UTI
+f9e4a02f-d53d-4fb0-bfab-2f79311fc242,2019,Dubai Clinic,Ciprofloxacin,250,1,10,Sinusitis
+c99b1a31-a1bf-44cb-ba0d-f69f91a0d9cd,2019,Abu Dhabi Hospital,Moxifloxacin,750,1,7,Skin Infection
+2f030843-9f78-477a-9645-b5a84dffb3c2,2022,Abu Dhabi Hospital,Norfloxacin,250,1,10,UTI
+5715d720-89bd-4588-9610-08cc81785db6,2018,Abu Dhabi Hospital,Ofloxacin,500,2,5,Sinusitis
+9adfe586-d2a3-4307-9858-948765a9ac13,2020,Ajman Health Center,Ciprofloxacin,250,1,7,Prostatitis
+eb5a5284-b63a-47b1-a86a-e9f81037b6c5,2023,Abu Dhabi Hospital,Norfloxacin,500,1,7,UTI
+12e2006d-a01e-48ca-9e92-7b612a6c5c98,2022,Abu Dhabi Hospital,Moxifloxacin,250,1,7,RTI
+585f258a-8ebf-4516-97e1-7f0124adfb83,2022,Dubai Clinic,Moxifloxacin,750,1,7,Prostatitis
+7681e23c-01f7-4bcc-8154-88e95cd84be4,2020,Dubai Clinic,Levofloxacin,750,2,5,Prostatitis
+b13dfbca-9866-4ce6-9733-c858969c79a4,2020,Dubai Clinic,Levofloxacin,250,1,5,Sinusitis
+f563ac22-41d5-4dfd-8b8a-233e0cde7471,2023,Ajman Health Center,Ciprofloxacin,250,1,10,UTI
+b2234d81-3d2d-400f-843f-57f7578bb1b8,2020,Dubai Clinic,Ofloxacin,500,2,7,UTI
+4611d88e-5f3c-4c9a-b5ec-b7908d652445,2018,Dubai Clinic,Levofloxacin,500,2,10,Skin Infection
+edc56819-8966-4eea-b161-a16ba8277dc3,2021,Abu Dhabi Hospital,Levofloxacin,250,1,5,RTI
+4f0eca46-a399-493a-8400-351ff79db649,2020,Sharjah Medical Center,Ofloxacin,750,2,10,UTI
+623f89e6-bae8-46dd-b2bd-bd49f5dd7217,2020,Sharjah Medical Center,Ciprofloxacin,250,2,7,Prostatitis
+9083ee1e-f932-45dd-b9ab-de9631e4cdd4,2020,Ajman Health Center,Ofloxacin,500,1,5,RTI
+1082faf1-5145-4fc8-acf0-81744c84614f,2023,Abu Dhabi Hospital,Ciprofloxacin,250,2,10,Prostatitis
+78c4ba45-c7c7-4f2b-9ee1-cea3bc0e50ef,2022,Ajman Health Center,Ciprofloxacin,750,2,7,Sinusitis
+2c78963a-0dbf-4f54-ae00-c53702e05573,2018,Dubai Clinic,Ofloxacin,500,1,7,Prostatitis
+25d26617-7446-46a1-8e75-7c30cd4bbd35,2018,Abu Dhabi Hospital,Moxifloxacin,750,2,5,Sinusitis
+83ef590f-ed7d-4f0c-9609-bcae40edc12a,2023,Dubai Clinic,Moxifloxacin,750,1,7,RTI
+05d4d326-4e07-4070-af33-bf40f6fd2b6d,2021,Sharjah Medical Center,Ofloxacin,250,1,5,RTI
+99ffe10c-f641-4886-9e6a-180b163c2976,2022,Ajman Health Center,Ofloxacin,250,1,7,Skin Infection
+ca6b07e2-0064-47d8-942d-aca2cbe5dcf9,2019,Sharjah Medical Center,Moxifloxacin,250,1,10,Prostatitis
+93347679-e9cf-443f-84a2-b86220b87036,2021,Dubai Clinic,Levofloxacin,500,2,10,Prostatitis
+48fb0075-9d4d-4533-9b8e-80c6b84d1ca8,2018,Ajman Health Center,Ofloxacin,500,1,7,UTI
+bb75395b-9631-4368-97f3-e474dd422854,2018,Ajman Health Center,Ofloxacin,250,1,5,Sinusitis
+1b72a9df-f702-47a7-9a9e-e5b6a091154f,2022,Sharjah Medical Center,Norfloxacin,750,1,10,Prostatitis
+696ca223-1e71-40b2-9e06-474e81a87880,2020,Sharjah Medical Center,Levofloxacin,250,2,7,Sinusitis
+18eb052b-0e13-4dca-a99c-59e876a4241d,2022,Ajman Health Center,Moxifloxacin,750,2,5,UTI
+073b455d-467b-4362-8beb-2948cfd7cee0,2023,Dubai Clinic,Levofloxacin,500,2,10,Skin Infection
+c4f15d44-5b69-45d0-a1f0-5ee926bed205,2022,Sharjah Medical Center,Levofloxacin,250,1,7,RTI
+4aa51da5-258f-408c-a772-afa7d03d7e6b,2023,Ajman Health Center,Levofloxacin,500,1,5,UTI
+9b13e094-d28e-4d21-9c95-48c7fc5ebaec,2021,Dubai Clinic,Ofloxacin,250,2,5,Prostatitis
+2b5ce4ad-45b5-4da1-87a0-c2152ccaf512,2018,Abu Dhabi Hospital,Ofloxacin,500,1,7,UTI
+12f3fe96-8fb9-4c29-9664-c50abfd55ff5,2022,Abu Dhabi Hospital,Norfloxacin,500,2,10,RTI
+d0d04c21-85dd-4698-a6bc-5a6286cfcf5f,2023,Dubai Clinic,Ciprofloxacin,250,2,10,Sinusitis
+c6771094-6984-40dd-a8ee-8b7eac1382fb,2022,Sharjah Medical Center,Norfloxacin,500,2,10,RTI
+767b909b-8dff-48d5-8dcc-9d05b13b51f6,2020,Ajman Health Center,Moxifloxacin,500,2,5,RTI
+47d24cfb-6f64-4e82-9e96-9e9d3368be8e,2021,Sharjah Medical Center,Norfloxacin,500,1,5,RTI
+0d301402-4c77-4720-9880-9785dfbc7cce,2022,Sharjah Medical Center,Moxifloxacin,750,1,10,RTI
+1b8b7b49-9b40-4b73-90a8-470154284cf8,2022,Sharjah Medical Center,Levofloxacin,500,2,10,Sinusitis
+0d493cdb-bdee-4e19-9047-c1b6dea5cb4f,2023,Ajman Health Center,Norfloxacin,500,2,5,Sinusitis
+64f296a3-368e-4360-af95-9c423d13b801,2018,Abu Dhabi Hospital,Ofloxacin,250,1,10,UTI
+0b6bcb58-2ed6-4b9f-8f6f-07b06d532f55,2019,Sharjah Medical Center,Ciprofloxacin,500,2,5,UTI
+c0b11317-c745-4795-a7b6-31851fe02e3f,2023,Sharjah Medical Center,Ciprofloxacin,750,1,7,Prostatitis
+3080248f-1d6b-4105-8e75-e10fb80a3d3b,2018,Dubai Clinic,Norfloxacin,500,1,10,Skin Infection
+980a0b27-87e5-4a6e-9cde-38dc65d0b4ba,2023,Abu Dhabi Hospital,Ofloxacin,500,2,10,Skin Infection
+2a859fe8-9dae-4ddf-a984-3ae6266d5e77,2022,Abu Dhabi Hospital,Levofloxacin,750,2,5,Sinusitis
+93ea889f-6751-4450-996c-971c75472903,2021,Dubai Clinic,Moxifloxacin,750,1,10,RTI
+f6e1508e-ba98-41bd-af2d-2b8bf6b27c1d,2020,Ajman Health Center,Ciprofloxacin,750,1,5,RTI
+6ccd814d-ceb1-4fdb-8450-dc8275242321,2023,Abu Dhabi Hospital,Ofloxacin,250,2,7,Sinusitis
+b5417c8c-bb31-4814-99a6-0587b2dd216e,2020,Dubai Clinic,Ciprofloxacin,750,2,5,Skin Infection
+57428ca8-70dd-4e4d-9b7e-80f0babaee36,2021,Dubai Clinic,Levofloxacin,250,2,10,UTI
+f837d31e-392d-4aaf-88db-38004670d37c,2023,Sharjah Medical Center,Ofloxacin,750,2,5,Skin Infection
+15f2e5b7-968a-4519-83f0-4ec42d1e945e,2022,Dubai Clinic,Ciprofloxacin,750,1,10,RTI
+de19069c-52ad-420d-998e-0ba99960f43f,2021,Ajman Health Center,Levofloxacin,500,1,5,Skin Infection
+af564100-0138-45a9-800a-f036fa2749bc,2020,Sharjah Medical Center,Moxifloxacin,250,2,10,UTI
+5b59da8f-199a-4560-be6b-353f953c125d,2018,Sharjah Medical Center,Ofloxacin,250,1,5,Skin Infection
+a2a93a0d-fcb9-4b51-b1a1-9c2091ec599d,2021,Abu Dhabi Hospital,Ofloxacin,500,2,5,Sinusitis
+9a850cf3-3e36-4132-9150-448ae7b5caa0,2020,Ajman Health Center,Ofloxacin,250,2,10,RTI
+412f1b18-1969-4f62-9437-7a9638475ff1,2020,Abu Dhabi Hospital,Levofloxacin,250,1,10,UTI
+f56e066c-386e-4323-82f5-57949b1b7d99,2019,Dubai Clinic,Ofloxacin,250,1,10,Prostatitis
+75bf2e65-6ffc-4a19-9eb2-2eaed7bbce14,2023,Abu Dhabi Hospital,Ciprofloxacin,250,2,10,Skin Infection
+a1214097-d8b2-4251-a14b-dc94344c220a,2018,Abu Dhabi Hospital,Levofloxacin,250,1,7,Sinusitis
+5844eb05-75a3-4cb0-b094-1825dc60d519,2018,Dubai Clinic,Moxifloxacin,500,2,7,Prostatitis
+f5066501-8080-4dc2-abc1-bcb84fc3c01e,2021,Sharjah Medical Center,Levofloxacin,500,1,10,UTI
+2c5ec450-4478-435a-b205-42643818e878,2023,Abu Dhabi Hospital,Norfloxacin,250,1,7,Sinusitis
+52bdb119-c09a-48bf-998b-d1e7fac1d5ac,2018,Sharjah Medical Center,Moxifloxacin,750,1,7,Prostatitis
+1bcb232f-4990-4715-95d9-aa69332f265e,2021,Ajman Health Center,Levofloxacin,500,1,10,RTI
+1e98ca26-9ea3-4c4f-9d39-c89c2e764b45,2019,Ajman Health Center,Norfloxacin,500,1,7,Skin Infection
+86817ac6-ad91-4d88-bfaa-2cffafba182a,2018,Dubai Clinic,Levofloxacin,250,1,10,Sinusitis
+05c9cea6-f411-4083-bdcb-197edf0a2190,2021,Abu Dhabi Hospital,Moxifloxacin,250,2,5,Prostatitis
+b88ab0e0-0fff-4b3f-89da-289edd6815e3,2023,Dubai Clinic,Ciprofloxacin,250,1,10,Skin Infection
+16fbb447-eefa-4a76-a645-e75d35e56e27,2019,Abu Dhabi Hospital,Ciprofloxacin,750,1,10,Prostatitis
+9748b7d9-6a8a-4294-acfc-e9b6753bc143,2023,Abu Dhabi Hospital,Moxifloxacin,750,1,7,UTI
+247b398d-b541-49c7-8d87-1b0b8ab11eaf,2019,Ajman Health Center,Moxifloxacin,500,1,10,RTI
+e9bffc79-7031-4349-888b-6b6b04a8c9e5,2018,Sharjah Medical Center,Norfloxacin,250,1,7,Prostatitis
+28a21dcf-18bd-485e-bcc6-9b386f1bb387,2021,Sharjah Medical Center,Norfloxacin,750,2,10,Sinusitis
+6e0339d2-e54e-4e70-a4d0-b5ad745e6238,2019,Sharjah Medical Center,Moxifloxacin,500,1,5,Skin Infection
+b5a1172b-7b46-49a7-9f3e-491c9f956e8a,2019,Dubai Clinic,Ofloxacin,500,2,5,Skin Infection
+42cd28a7-1575-4693-834f-70449b0ebae8,2021,Ajman Health Center,Ofloxacin,500,2,7,Sinusitis
+94bada8f-16d6-48fb-8b41-b5711816f7b5,2018,Dubai Clinic,Norfloxacin,250,2,5,Sinusitis
+5e176d45-da84-4f23-b751-0e5011028a1b,2019,Sharjah Medical Center,Levofloxacin,750,1,5,Sinusitis
+176aba7e-626b-476d-ad6a-a715ff839ac0,2023,Abu Dhabi Hospital,Norfloxacin,750,2,10,RTI
+8090a4cf-3631-42a2-80f2-656bf376fc21,2018,Sharjah Medical Center,Norfloxacin,750,2,10,RTI
+87a07961-87aa-43dd-b038-b458eae24473,2020,Ajman Health Center,Ciprofloxacin,750,2,5,Prostatitis
+2aef2ee9-47ed-4405-8fc3-0a0549a071d7,2022,Abu Dhabi Hospital,Ofloxacin,500,1,10,RTI
+820bb875-ecaa-4a44-89fe-3c33581604e2,2022,Dubai Clinic,Norfloxacin,250,2,5,RTI
+0c57c71f-6f68-403e-841f-4ea269c0ab41,2022,Dubai Clinic,Ofloxacin,500,1,5,Prostatitis
+14c00dd8-f8fb-402b-83db-f59d21202a87,2019,Abu Dhabi Hospital,Moxifloxacin,500,1,5,RTI
+91a0be00-a091-4a45-9c16-ae483cc57762,2022,Sharjah Medical Center,Ofloxacin,500,2,5,UTI
+282509d8-68be-43ad-87be-e6b8cc93e953,2023,Sharjah Medical Center,Levofloxacin,750,2,10,Skin Infection
+2ebfc5cb-0b9d-4806-9857-757221dd94e1,2022,Dubai Clinic,Ofloxacin,750,2,7,Sinusitis
+0994fa2f-6961-49f9-abda-805e334ff7e7,2023,Abu Dhabi Hospital,Norfloxacin,500,2,5,Sinusitis
+129c0f69-91f7-476d-8edb-a8b79ef9e9c4,2021,Sharjah Medical Center,Moxifloxacin,500,2,10,UTI
+7670d1b5-eb1f-4188-a70c-a8e00e127e21,2022,Dubai Clinic,Ofloxacin,250,1,5,Sinusitis
+75a1f23d-59c1-40b9-9662-e6758744edf2,2023,Sharjah Medical Center,Ciprofloxacin,250,1,5,Skin Infection
+8b28c316-20db-41aa-b73d-e4d4a0546419,2022,Abu Dhabi Hospital,Ciprofloxacin,500,2,10,UTI
+c3e2ecb7-8a6b-43f5-aad8-6cff3bc3c1f0,2021,Ajman Health Center,Ofloxacin,250,1,10,Prostatitis
+c9d5d956-f1cd-48f5-a66a-16597b93fdc6,2018,Dubai Clinic,Levofloxacin,250,1,5,Sinusitis
+3a2727f6-6748-4dff-b1df-f2001924915e,2018,Dubai Clinic,Levofloxacin,250,2,5,Sinusitis
+0b8b6cae-bbdb-487a-bf8a-ca6bd2a9d895,2021,Abu Dhabi Hospital,Moxifloxacin,250,1,7,Sinusitis
+9b91a3af-19fb-4ca3-9f05-351ee080e805,2021,Ajman Health Center,Ciprofloxacin,250,2,10,RTI
+fe3197e8-1e09-42a0-beb1-a71d40287839,2022,Dubai Clinic,Norfloxacin,750,2,5,Skin Infection
+fb971763-8c09-4812-8c30-2d5e02b8c983,2021,Abu Dhabi Hospital,Ciprofloxacin,500,2,5,UTI
+8413abb2-2059-4ee0-b70d-26591c50b11d,2018,Dubai Clinic,Norfloxacin,750,2,5,Sinusitis
+7d8aeea8-a4be-4146-8e78-15a38c6ed44a,2018,Dubai Clinic,Ofloxacin,750,1,10,Sinusitis
+38664475-64cf-41d7-97a6-a3111e6c6d3f,2018,Abu Dhabi Hospital,Ofloxacin,750,1,10,Sinusitis
+176d3a84-3b90-45f3-b5db-d2f570dc92a8,2018,Ajman Health Center,Norfloxacin,500,2,5,Sinusitis
+53ec2cab-4dcd-44a4-8f80-f11b49945553,2021,Dubai Clinic,Ofloxacin,500,2,10,Sinusitis
+a111e530-d9a1-41f9-9ef8-3e6256ba410a,2018,Ajman Health Center,Ciprofloxacin,500,2,5,UTI
+24a4617c-69e9-4f78-9eef-c39c55809e35,2020,Ajman Health Center,Moxifloxacin,250,1,10,UTI
+81bf297f-2ee0-4e81-8650-0d755c8a41c9,2022,Abu Dhabi Hospital,Norfloxacin,250,2,10,RTI
+d2d9a626-57d4-4359-b104-19da0454008c,2023,Sharjah Medical Center,Ofloxacin,500,1,5,Prostatitis
+c94e5261-433f-43bb-8b92-000a25f91725,2023,Sharjah Medical Center,Moxifloxacin,750,2,10,Skin Infection
+6cb12922-2464-461c-9d10-b415e6311069,2022,Sharjah Medical Center,Ofloxacin,250,2,10,Sinusitis
+c7f100ab-f61a-4c4d-9c4b-b88b0ff5316f,2021,Dubai Clinic,Moxifloxacin,750,2,7,Skin Infection
+65c2a765-a1d4-42bb-a877-f713d05e450c,2022,Sharjah Medical Center,Ofloxacin,750,1,10,UTI
+67dbe98e-33bc-4912-8faa-92fd6850b4b3,2023,Dubai Clinic,Ofloxacin,750,1,5,RTI
+6956f172-cd0f-4ed6-bc93-ef95a6bae098,2022,Ajman Health Center,Moxifloxacin,750,1,5,Prostatitis
+43607317-98b3-49a7-8e3e-48123443c32f,2023,Abu Dhabi Hospital,Levofloxacin,250,2,10,Prostatitis
+fa43185f-95fc-4119-92fa-b440c03abbab,2018,Abu Dhabi Hospital,Moxifloxacin,250,2,5,Sinusitis
+85b8e4b4-bee8-4728-90e2-bdfa6d588a20,2018,Ajman Health Center,Ofloxacin,750,2,10,Sinusitis
+832da4f9-f6c0-4acd-95aa-656186f0d303,2018,Dubai Clinic,Ofloxacin,500,1,5,Sinusitis
+a98f84cd-c287-4a0b-8035-515031370d9e,2020,Dubai Clinic,Levofloxacin,750,1,10,RTI
+21ac38f4-cbcd-4f79-bbb8-009260e29d6c,2023,Abu Dhabi Hospital,Moxifloxacin,250,1,5,UTI
+42464106-f63e-43c4-8ba8-c769f49d4246,2020,Ajman Health Center,Moxifloxacin,750,2,7,Sinusitis
+2ea8c8ba-919f-4038-9187-b0de6279b01b,2019,Abu Dhabi Hospital,Levofloxacin,250,2,10,Sinusitis
+0f3a1278-bd5b-4c55-a6f1-9bb5d16709b3,2022,Sharjah Medical Center,Moxifloxacin,500,1,10,RTI
+bb52da0b-50d9-4638-baf9-946751f543ff,2021,Ajman Health Center,Norfloxacin,250,2,5,Prostatitis
+2070c508-22b0-465b-abb4-e0a6673208a1,2022,Abu Dhabi Hospital,Norfloxacin,250,2,7,UTI
+47d7c8d5-db62-4a53-8baa-e94e2446ae80,2022,Sharjah Medical Center,Norfloxacin,750,2,10,Prostatitis
+bee2ff7f-cd85-40a2-8b85-fb1993ea811c,2021,Ajman Health Center,Ciprofloxacin,500,2,10,Prostatitis
+62cb840f-1e4a-4c54-ae6d-cab83b938533,2022,Abu Dhabi Hospital,Ofloxacin,250,2,5,Prostatitis
+9b6e6b65-557c-4cbb-8647-43ac8478069d,2023,Dubai Clinic,Ciprofloxacin,500,2,7,Sinusitis
+6e550f05-6a52-4f21-ad43-97868bd07aa8,2022,Abu Dhabi Hospital,Moxifloxacin,250,2,5,Prostatitis
+a5d0ddcd-3c57-497c-83ed-7c972f511e52,2023,Sharjah Medical Center,Levofloxacin,750,1,7,Skin Infection
+828f015d-fc78-4fce-ae4c-da2f4783c923,2020,Dubai Clinic,Norfloxacin,500,1,10,RTI
+0837980e-f8b9-4cce-bb4a-8a8a10e88054,2021,Dubai Clinic,Ciprofloxacin,750,1,7,RTI
+6204b69f-1a26-427b-8952-0dfa3f20ef85,2019,Dubai Clinic,Ciprofloxacin,750,2,5,UTI
+7a8cd483-2306-4c9e-94e8-0c831e2842e6,2018,Abu Dhabi Hospital,Ofloxacin,750,1,10,UTI
+516981e2-1d05-4a42-81bf-a3067075ab85,2021,Sharjah Medical Center,Norfloxacin,500,2,10,Skin Infection
+612f35d4-5c11-4590-9b64-cdc9d5bbf14a,2021,Dubai Clinic,Norfloxacin,500,2,5,Sinusitis
+c3f44415-fef5-4bfe-9bd0-5be10909aec6,2019,Abu Dhabi Hospital,Norfloxacin,500,2,10,UTI
+66a08f10-b25a-45c0-b386-ef339992f7cb,2022,Sharjah Medical Center,Ofloxacin,750,1,7,UTI
+1ffa7af9-f9c0-44ea-b215-ae3c07bfd1fa,2023,Ajman Health Center,Moxifloxacin,750,1,5,RTI
+8a4c0e4a-b6c0-4500-bf70-6b80f94d89be,2021,Abu Dhabi Hospital,Moxifloxacin,500,2,5,Sinusitis
+ca1649c4-f75f-4b32-8192-e1130356f17a,2020,Dubai Clinic,Moxifloxacin,500,2,7,RTI
+cbc9acf5-985d-4bd2-9dcb-e99368dc5af1,2021,Ajman Health Center,Ciprofloxacin,500,2,7,Prostatitis
+a3dd2cc1-d613-402b-b4c6-bb680774d623,2020,Ajman Health Center,Ciprofloxacin,750,1,10,RTI
+2a8ad237-4c73-41ec-8916-6b5fe6244777,2018,Sharjah Medical Center,Ciprofloxacin,750,2,7,RTI
+8b1dd901-7e03-49a6-9766-a794d657a534,2019,Dubai Clinic,Ofloxacin,250,1,7,Prostatitis
+2e05ace8-dca6-4bcb-a913-88b61dc3c0b2,2019,Sharjah Medical Center,Ofloxacin,500,2,10,Sinusitis
+2a7880d0-0a73-47f5-9a50-27cc411e0830,2018,Ajman Health Center,Levofloxacin,750,1,5,RTI
+e49714fe-ebb5-419a-a995-f60f92047113,2020,Ajman Health Center,Levofloxacin,500,2,7,Skin Infection
+a97ec12a-e6f0-4418-9a3f-e8b2f47e7f11,2020,Sharjah Medical Center,Moxifloxacin,250,2,5,Skin Infection
+512510e3-eabc-408d-a278-354a957cd6c0,2023,Dubai Clinic,Norfloxacin,750,1,7,Skin Infection
+fbd6a17f-1ab4-47e0-88ef-84250e42460a,2020,Ajman Health Center,Ofloxacin,250,2,10,Skin Infection
+c09cdc2f-2548-4ac6-bd53-23cf8b3d6f07,2021,Dubai Clinic,Ciprofloxacin,750,2,7,Sinusitis
+145e66e5-abea-4f18-8611-9b86fbf00552,2022,Ajman Health Center,Levofloxacin,250,1,7,RTI
+a071e52c-477a-4bd9-928f-d8a7eadc706d,2020,Sharjah Medical Center,Moxifloxacin,750,2,10,Prostatitis
+57cd6c5a-4382-40a1-8fc2-affc99f6a913,2020,Ajman Health Center,Moxifloxacin,750,2,7,RTI
+d762cc48-5354-44ad-8c0c-3c6d6e278404,2019,Abu Dhabi Hospital,Ciprofloxacin,750,1,10,Skin Infection
+074dd41d-000d-4b4b-a76a-b10c226e9d6c,2023,Abu Dhabi Hospital,Ciprofloxacin,250,2,5,UTI
+9efd6f8d-03a4-4bf1-8990-d10d7349028d,2018,Ajman Health Center,Norfloxacin,250,1,7,Sinusitis
+83b4741c-8d6b-4988-ad82-539ca7f7ac4b,2018,Abu Dhabi Hospital,Moxifloxacin,750,1,5,Prostatitis
+92d67e3d-3e01-469c-9e7c-50a21634a2c3,2020,Dubai Clinic,Ciprofloxacin,750,2,7,RTI
+1f1520c7-417c-49d6-87c4-14f9a7a15724,2019,Dubai Clinic,Levofloxacin,250,2,7,Prostatitis
+ce7e9ac4-592f-46d5-b98f-f3c6ab250468,2021,Sharjah Medical Center,Norfloxacin,500,1,10,Sinusitis
+5420e84e-2087-448c-9458-b89578c04eeb,2019,Ajman Health Center,Norfloxacin,500,2,7,Prostatitis
+d3ea0a16-74f0-427a-be64-2df4fcc3329c,2022,Dubai Clinic,Levofloxacin,500,2,7,Prostatitis
+5f9d78f4-7a0e-40d0-80b3-c2d441c057ba,2020,Dubai Clinic,Moxifloxacin,250,1,10,RTI
+8f6abe24-fb69-46a7-a4de-68964699f7f3,2020,Sharjah Medical Center,Ofloxacin,750,1,10,Prostatitis
+91977ec4-a6ee-4f7e-b913-3d52d28b1ce9,2021,Sharjah Medical Center,Levofloxacin,500,2,10,RTI
+6b0238af-aa7e-4eb2-9fe6-e9a6167e3e07,2018,Sharjah Medical Center,Ciprofloxacin,500,2,7,RTI
+96b05373-2c14-4fce-947e-160bbe1af64e,2019,Ajman Health Center,Ofloxacin,250,2,5,Prostatitis
+d6e424f3-26d0-4f7a-9988-1e4fca0cfc3d,2023,Dubai Clinic,Norfloxacin,750,2,7,Sinusitis
+e9fa46db-607b-44a8-b371-0115c0ad283e,2020,Ajman Health Center,Ciprofloxacin,250,1,5,Skin Infection
+dd854b52-946d-4021-9a41-d41f3d79de7d,2018,Ajman Health Center,Norfloxacin,500,2,10,Sinusitis
+2c25b962-7590-49ad-9984-98d506c6611f,2021,Dubai Clinic,Moxifloxacin,250,1,5,Sinusitis
+ec157454-7a88-4375-8dc9-20764943e540,2018,Dubai Clinic,Levofloxacin,500,2,5,Prostatitis
+d0f8571f-534c-403e-bb29-e35b9c44de88,2023,Abu Dhabi Hospital,Ciprofloxacin,250,1,5,Prostatitis
+be23441c-2b78-4849-a38f-a99a13ccf20e,2019,Sharjah Medical Center,Ofloxacin,500,2,7,Prostatitis
+2714d09a-23de-495c-a0c0-1925625ac4b2,2023,Abu Dhabi Hospital,Moxifloxacin,250,1,5,Skin Infection
+20b47b44-d641-4348-aaea-550b8b38f676,2021,Abu Dhabi Hospital,Norfloxacin,500,1,5,Skin Infection
+21605a8f-c85b-4529-91d3-8b0936658380,2021,Abu Dhabi Hospital,Levofloxacin,750,1,7,Prostatitis
+6da8637c-193c-48ac-bcba-296ceeab4230,2019,Abu Dhabi Hospital,Ciprofloxacin,500,1,10,RTI
+8e324f69-1ebe-4974-b72b-0b43a9f9afc8,2021,Ajman Health Center,Moxifloxacin,500,1,10,UTI
+ce3de179-94e2-4b30-80f7-b8f72b820e35,2023,Abu Dhabi Hospital,Moxifloxacin,500,2,5,Skin Infection
+15fee3e1-e83a-4174-a85c-66b20f48de94,2018,Dubai Clinic,Levofloxacin,250,2,7,UTI
+6c0327bc-6748-40fa-8052-b8b8ee947346,2019,Sharjah Medical Center,Norfloxacin,250,2,5,UTI
+178101ca-8096-4198-9954-40cf792024d3,2018,Ajman Health Center,Norfloxacin,250,2,5,RTI
+1f6ac080-75f6-4929-838f-dd08ac85be15,2019,Ajman Health Center,Levofloxacin,750,2,10,UTI
+f28d7d03-53c9-42c0-b1dd-a202dd64298e,2018,Sharjah Medical Center,Ciprofloxacin,750,1,5,Prostatitis
+cb34fb73-3d32-44bc-bd9e-59da163639e4,2019,Sharjah Medical Center,Norfloxacin,750,2,7,RTI
+7c5aaf22-65ee-495f-9c0f-32bd2d0ba688,2018,Ajman Health Center,Moxifloxacin,750,1,7,UTI
+b531afd3-7ba4-43ab-b2c4-de52c2d9b304,2021,Ajman Health Center,Norfloxacin,500,2,5,Sinusitis
+32d2c487-d402-40a4-a0b6-d90a7b8d7100,2019,Sharjah Medical Center,Moxifloxacin,750,2,7,Sinusitis
+f98a4006-c5df-46c0-aa3f-b564c53c0835,2022,Dubai Clinic,Levofloxacin,750,1,7,Skin Infection
+639af141-a9cf-46e4-b915-f90de2035165,2020,Sharjah Medical Center,Ofloxacin,250,2,10,RTI
+9e94469f-3067-40e5-bec9-0c9a3316b0ad,2018,Sharjah Medical Center,Norfloxacin,250,2,10,UTI
+af9309df-5e1c-49e1-b72a-6a7305f80f65,2023,Ajman Health Center,Ciprofloxacin,750,2,10,RTI
+545a700d-fe64-4d4c-8665-5308f990e3e8,2022,Sharjah Medical Center,Moxifloxacin,500,2,5,UTI
+d6ae9fe4-4ba9-419e-b6b8-fd449ad3536b,2022,Abu Dhabi Hospital,Levofloxacin,250,1,5,RTI
+77313192-6cc7-4a4b-834b-b4bc7c5df703,2018,Ajman Health Center,Ciprofloxacin,250,1,10,Prostatitis
+0273051f-19ee-4367-bb77-0855c5554f94,2023,Ajman Health Center,Norfloxacin,750,2,5,Skin Infection
+d26498cb-08dc-46be-aa24-4cdd71364416,2019,Abu Dhabi Hospital,Levofloxacin,250,2,5,Prostatitis
+34190ca2-c90f-4738-b060-bccd49a3e64c,2023,Abu Dhabi Hospital,Moxifloxacin,750,2,7,UTI
+a4f3b78e-9e1a-4cfc-be86-01730e28cb10,2022,Sharjah Medical Center,Norfloxacin,250,1,7,UTI
+34273eb2-28f0-4f1c-a1b6-52b4b8b90c47,2019,Abu Dhabi Hospital,Levofloxacin,750,1,10,Prostatitis
+12d501d4-4fce-4c51-82ea-294eb5b60f29,2019,Dubai Clinic,Norfloxacin,750,1,10,RTI
+4c7f5282-64df-48e1-b935-8aa070a09e27,2022,Ajman Health Center,Levofloxacin,750,2,10,Prostatitis
+74aeb1bd-2862-4147-881d-3c90208f8b04,2023,Ajman Health Center,Levofloxacin,250,1,10,Prostatitis
+ca40e530-ca38-4101-9ea8-658b36ee847d,2022,Sharjah Medical Center,Ciprofloxacin,750,2,7,Skin Infection
+30511c73-f8eb-4123-8f12-f03f13174aff,2022,Sharjah Medical Center,Moxifloxacin,500,2,10,Skin Infection
+5e7bfcc0-b107-44a9-871b-65846a9603d1,2022,Dubai Clinic,Norfloxacin,750,1,7,Sinusitis
+1d9695d0-dc1f-459c-8d68-3e241f6b939c,2023,Sharjah Medical Center,Moxifloxacin,500,2,7,UTI
+96e52baa-188e-4e01-b6f3-55277bf5112d,2023,Abu Dhabi Hospital,Moxifloxacin,750,1,10,RTI
+378034e8-85da-41da-9105-5d73dbc61bb5,2020,Abu Dhabi Hospital,Moxifloxacin,250,1,7,UTI
+0476c5aa-bf12-42b2-8407-fb4e4c60d795,2023,Sharjah Medical Center,Norfloxacin,750,1,5,UTI
+e969b472-4350-4e90-a1ef-4a961e209d5e,2021,Sharjah Medical Center,Ciprofloxacin,250,2,7,Sinusitis
+e88ed12a-807b-4145-be96-42ccb1cff177,2019,Dubai Clinic,Moxifloxacin,500,1,10,Prostatitis
+05631698-c5e7-46a2-91f9-b3c7ee2c200c,2022,Dubai Clinic,Levofloxacin,750,2,7,RTI
+9c061c8e-ba42-4e0a-a465-b540b620c037,2021,Abu Dhabi Hospital,Norfloxacin,750,2,5,Sinusitis
+a2b21261-c9c2-4795-b11f-067f0fc841fc,2021,Abu Dhabi Hospital,Levofloxacin,500,2,7,Prostatitis
+253be43e-a638-4615-990a-97a612555a59,2018,Dubai Clinic,Norfloxacin,250,2,5,Skin Infection
+59820465-90ac-4817-9de1-2ceab78f09e3,2022,Abu Dhabi Hospital,Moxifloxacin,750,1,7,Sinusitis
+9ac7a92e-1296-4dea-8704-84cd079f6cc5,2023,Dubai Clinic,Ciprofloxacin,250,2,7,Sinusitis
+04a9d619-1a0a-4670-99c4-b90b7e733559,2022,Abu Dhabi Hospital,Ciprofloxacin,500,2,7,RTI
+38b5e920-1f0c-4bc8-a1ac-f8f23e687514,2019,Sharjah Medical Center,Levofloxacin,500,1,10,Prostatitis
+1c748244-0f4b-40b6-bcc3-ad276deaa421,2020,Abu Dhabi Hospital,Ofloxacin,750,2,10,RTI
+cc824a06-4d44-48fe-9a34-48628c78a4bd,2019,Ajman Health Center,Norfloxacin,250,2,7,Sinusitis
+ba330452-3792-4db0-b517-0f6c08b9edde,2019,Dubai Clinic,Ciprofloxacin,250,2,7,Skin Infection
+ebdea1fc-7a5c-4dee-bea0-4a1efb5b74bf,2023,Abu Dhabi Hospital,Levofloxacin,750,2,7,Skin Infection
+09f80e2a-983f-4f03-a324-df2e611f7f82,2020,Dubai Clinic,Moxifloxacin,500,1,7,RTI
+88bb2455-840f-40d1-a4bc-ef67c5b72d02,2020,Ajman Health Center,Norfloxacin,250,2,5,RTI
+105b3297-574c-4eb2-876b-a5743941e826,2019,Sharjah Medical Center,Ciprofloxacin,750,1,5,UTI
+de33bdf8-334d-415b-8208-2272d6f64060,2019,Dubai Clinic,Moxifloxacin,250,2,10,UTI
+86ad4dc6-fd59-4117-9844-7ebde6b80cfd,2020,Ajman Health Center,Ofloxacin,250,2,5,Sinusitis
+c764b083-649a-4129-a5ba-31c2335e1700,2019,Dubai Clinic,Norfloxacin,750,2,10,Prostatitis
+6cb3e031-f81c-4ded-a63a-4b7b027476e3,2022,Dubai Clinic,Levofloxacin,500,1,7,RTI
+bbc0dcf6-1bc9-4cd6-b5ce-d2392d0ec010,2018,Sharjah Medical Center,Ciprofloxacin,750,2,5,Prostatitis
+db495ffb-5f44-46e6-9bc8-76b2ff9d7920,2023,Abu Dhabi Hospital,Levofloxacin,500,2,10,Skin Infection
+a72d98a5-0bf5-4e19-9690-6270adc61315,2018,Abu Dhabi Hospital,Moxifloxacin,750,2,5,Prostatitis
+ae732fee-7276-47b4-a6be-7ecf89082710,2022,Abu Dhabi Hospital,Moxifloxacin,500,1,5,RTI
+abfbaa18-70f0-47f7-85bf-206444f21383,2022,Ajman Health Center,Norfloxacin,750,1,5,RTI
+d73aadd6-af9b-4d05-92cd-abf0ede44a3a,2022,Sharjah Medical Center,Moxifloxacin,500,2,10,RTI
+d1063058-473d-48db-b3f5-099484ff5ab1,2018,Sharjah Medical Center,Moxifloxacin,500,2,5,Sinusitis
+5d9532cb-e6f2-46ed-abcd-b337f4be8bc6,2020,Abu Dhabi Hospital,Moxifloxacin,500,1,10,Skin Infection
+dc6ed271-b64d-4325-89e1-faf52c674eef,2019,Dubai Clinic,Moxifloxacin,500,1,5,Prostatitis
+c213ae36-84b8-44e9-9229-82799d9de19b,2022,Dubai Clinic,Ofloxacin,250,1,7,Skin Infection
+d65c03c5-08b9-408d-b15e-1bc097ffb65a,2022,Sharjah Medical Center,Ofloxacin,750,1,5,RTI
+d3e0904c-71ad-4eb5-ba91-d8ed5638cdcf,2022,Dubai Clinic,Ciprofloxacin,500,1,7,RTI
+c3d6f896-2f3f-49f7-add1-e2b1dc3465a3,2023,Dubai Clinic,Moxifloxacin,250,1,5,Skin Infection
+860da1e8-e757-4b48-a2e6-ec6a72dadef5,2019,Abu Dhabi Hospital,Moxifloxacin,500,2,7,Prostatitis
+357b9fb9-4d9d-451b-ae58-3fe2f2e8c470,2023,Sharjah Medical Center,Ciprofloxacin,250,1,5,RTI
+842d46bc-9f5e-470f-9562-6a99b582e59a,2018,Sharjah Medical Center,Norfloxacin,750,1,10,RTI
+1b069cc1-3355-4e80-a413-bfbe24941089,2019,Abu Dhabi Hospital,Moxifloxacin,250,2,5,Sinusitis
+82c2e5e5-75bc-4878-8c7e-a55768c5f127,2022,Ajman Health Center,Moxifloxacin,250,2,7,Prostatitis
+efac43e2-92fe-49df-9500-bd849cac50eb,2019,Dubai Clinic,Ciprofloxacin,250,1,7,UTI
+a94db903-539e-4beb-802c-5fbeef7925d4,2020,Ajman Health Center,Ciprofloxacin,750,1,5,UTI
+a0ce591a-60ef-4cbe-a0ae-0faa21b36d4f,2019,Ajman Health Center,Norfloxacin,500,2,7,RTI
+9cbcb66f-63e9-4055-8603-38e82d561b83,2021,Ajman Health Center,Levofloxacin,750,2,10,Skin Infection
+3482bb8b-81c4-4015-9aaf-e2196df4ef1c,2021,Abu Dhabi Hospital,Norfloxacin,250,2,7,UTI
+1bbfa06e-766f-4319-a188-7552f95f0983,2019,Ajman Health Center,Levofloxacin,750,2,10,UTI
+2fdaff84-1b03-405a-bd1e-cf5f1812556b,2019,Sharjah Medical Center,Ofloxacin,500,2,7,Prostatitis
+30491ebc-a70f-448b-a414-e3adfa6ac8e4,2019,Ajman Health Center,Moxifloxacin,750,1,10,Sinusitis
+151db4fd-9680-41ab-a9dd-5a9d487ce038,2019,Ajman Health Center,Ofloxacin,250,1,5,Sinusitis
+fe162d67-52b1-40f0-98ab-a1209b3f8412,2023,Dubai Clinic,Ofloxacin,500,2,7,UTI
+40d3f756-dfd6-462b-8599-906f46f35926,2019,Ajman Health Center,Norfloxacin,750,1,7,UTI
+e9b36cad-dfac-499b-802a-df3fdc0f809c,2020,Sharjah Medical Center,Ciprofloxacin,750,1,5,UTI
+e4109db9-c948-4ab2-bc45-938379392d14,2023,Ajman Health Center,Moxifloxacin,250,2,10,Sinusitis
+9d88ef69-0dde-4542-b9c2-96bdefb0e422,2022,Dubai Clinic,Ofloxacin,750,2,5,RTI
+40964166-485f-4fa1-bb11-5df158a0ac51,2020,Dubai Clinic,Ciprofloxacin,250,1,10,UTI
+c1fbe168-1a2b-49ec-a94d-65cf4b4cba4a,2021,Sharjah Medical Center,Moxifloxacin,750,2,7,RTI
+6c31c017-975f-45c5-a34d-c6bcc7d884dc,2018,Dubai Clinic,Ciprofloxacin,250,2,5,Prostatitis
+b1216f45-ee20-4a51-a926-a5733a305904,2021,Ajman Health Center,Norfloxacin,250,2,5,RTI
+81993d10-2b36-430b-aa78-1a20a14f1f41,2022,Ajman Health Center,Ofloxacin,500,2,5,Sinusitis
+0896b874-f989-464f-a0ee-7ce08da2af29,2022,Abu Dhabi Hospital,Ciprofloxacin,750,2,10,Sinusitis
+155f3cc1-0391-49bd-8392-e9c1d47b6f2b,2019,Abu Dhabi Hospital,Ciprofloxacin,250,1,10,Skin Infection
+7b8b9e0f-551a-401e-8adb-f7f96ae5be47,2018,Dubai Clinic,Levofloxacin,750,2,7,UTI
+da19afba-6c01-4c42-bfe1-4111765bc0d9,2018,Abu Dhabi Hospital,Ofloxacin,250,1,10,Skin Infection
+cdb8c26c-0f72-46ee-92fd-9cc1108ebfc6,2022,Dubai Clinic,Ofloxacin,750,2,5,UTI
+f049620c-bee2-4835-ba39-b01429efce76,2020,Sharjah Medical Center,Moxifloxacin,500,1,7,Sinusitis
+e5e9d8fe-9738-4a43-b6e3-a5b6294c4e1b,2018,Sharjah Medical Center,Ofloxacin,250,1,10,Skin Infection
+5affc88e-b242-4145-91b0-59500ab644fb,2020,Ajman Health Center,Norfloxacin,250,1,10,UTI
+eeda462c-0fb2-476b-b7bc-261661148d39,2018,Abu Dhabi Hospital,Ofloxacin,750,2,7,Sinusitis
+e55c9587-1b2d-4702-aa30-5f6d3a9d8862,2020,Sharjah Medical Center,Norfloxacin,750,2,5,Sinusitis
+5020be9a-b3bd-4923-92c6-fe3fb8f8f02d,2022,Ajman Health Center,Norfloxacin,750,2,7,RTI
+e990f645-8fd1-4a34-b9eb-4f04a941b828,2022,Dubai Clinic,Moxifloxacin,250,1,5,UTI
+68e844d1-2f19-4edb-8246-eb533906f7a9,2021,Abu Dhabi Hospital,Ciprofloxacin,750,2,7,UTI
+706eeb37-7bee-4ce7-b30c-2f1c4acdfbf6,2020,Sharjah Medical Center,Norfloxacin,750,1,5,RTI
+abcde56d-bfd0-4ada-8894-08838c517a6a,2023,Sharjah Medical Center,Moxifloxacin,250,2,7,Sinusitis
+397cf57c-5d7e-49e8-a54c-065ae848ab62,2022,Sharjah Medical Center,Levofloxacin,250,2,7,Prostatitis
+529eb5db-58da-4183-a79e-a0565296bd30,2023,Abu Dhabi Hospital,Ciprofloxacin,250,2,7,Prostatitis
+85534135-865f-4a3c-8511-4cb58489d290,2021,Abu Dhabi Hospital,Ciprofloxacin,500,1,10,Prostatitis
+965aec24-d087-4d22-9f4b-757b0de06348,2022,Sharjah Medical Center,Ofloxacin,500,1,10,Skin Infection
+d76a159b-a113-4585-8cd4-5e9e1eca31fa,2022,Sharjah Medical Center,Norfloxacin,750,1,5,Sinusitis
+a40a9887-c827-4649-8573-ca7b3c42c9d2,2023,Sharjah Medical Center,Moxifloxacin,250,1,7,UTI
+84de3844-ee9b-40fb-a77e-920923b8fe2d,2020,Ajman Health Center,Norfloxacin,250,2,5,Sinusitis
+e3ed25aa-3dfe-4c04-b52f-7884da009174,2018,Sharjah Medical Center,Moxifloxacin,750,1,7,Prostatitis
+a0ca7d72-36d2-43cc-a247-f73c0db88112,2018,Ajman Health Center,Ciprofloxacin,500,2,7,RTI
+ee01ae9d-eff3-4936-8609-af58c185db0d,2022,Sharjah Medical Center,Ciprofloxacin,250,2,5,RTI
+6bf07091-c4b3-44d4-a522-68d0947e426e,2018,Ajman Health Center,Norfloxacin,250,2,10,RTI
+0941a2c6-9b06-4952-ad30-25faac82e179,2019,Sharjah Medical Center,Ofloxacin,750,2,7,RTI
+9c12600d-65a9-4616-bc32-934ae91adcee,2018,Dubai Clinic,Ciprofloxacin,750,1,7,Prostatitis
+09a9d1cf-f023-4521-96e8-9e74802b4dc3,2023,Abu Dhabi Hospital,Levofloxacin,500,1,10,Sinusitis
+a5d629b1-a3de-4a26-bd78-800a8d2bd5df,2018,Sharjah Medical Center,Ofloxacin,250,1,10,Skin Infection
+7e68f620-59f1-4e93-a608-4dd0cb942dc2,2018,Sharjah Medical Center,Ciprofloxacin,500,1,5,Skin Infection
+0ecdca1d-dcbf-473c-9d1c-d76d502a5ba6,2020,Sharjah Medical Center,Ofloxacin,750,1,7,RTI
+f0ab0ba7-3ce4-403e-b892-ec67f4fecf06,2019,Sharjah Medical Center,Levofloxacin,250,1,5,Sinusitis
+f8942fa9-4e82-4e78-9793-e5e212562218,2020,Sharjah Medical Center,Moxifloxacin,250,2,10,RTI
+054f8fe4-350e-4038-8a1e-fc23eac48066,2019,Abu Dhabi Hospital,Moxifloxacin,750,2,10,Prostatitis
+4e20dcc0-a08b-4599-92ba-d8d97b6f62dc,2018,Dubai Clinic,Levofloxacin,500,1,5,Prostatitis
+c3d97afe-1ee5-4ef4-9df4-21e27c543b22,2018,Abu Dhabi Hospital,Ofloxacin,500,1,10,Sinusitis
+ce3380e8-7b09-46ee-8491-4e423e83a120,2022,Ajman Health Center,Norfloxacin,500,2,7,RTI
+58691627-1aa2-4439-8017-9cef766baf15,2023,Abu Dhabi Hospital,Ofloxacin,750,1,5,Prostatitis
+9bb41801-7d91-48a0-8858-9833fd661fea,2018,Ajman Health Center,Moxifloxacin,750,2,7,RTI
+ab3bf86a-0c66-4fb1-a9d6-1f859174b8a2,2019,Dubai Clinic,Norfloxacin,500,2,7,RTI
+349896e1-6353-42f3-a46a-c958e0f68df7,2023,Sharjah Medical Center,Moxifloxacin,500,2,5,UTI
+8b79ba51-fdaa-4158-9d87-33c03fd017fb,2021,Abu Dhabi Hospital,Moxifloxacin,500,2,5,Skin Infection
+b3617d90-5159-44ef-89bb-504c97ee61b5,2020,Dubai Clinic,Norfloxacin,250,2,10,UTI
+6b9162fc-cf8c-4f9c-8883-807db425a3cf,2020,Abu Dhabi Hospital,Moxifloxacin,750,2,7,Sinusitis
+b95b9628-168b-440d-b8a3-47e445614c3d,2021,Dubai Clinic,Norfloxacin,250,1,7,Prostatitis
+40bc5b16-fd4b-4bcc-925d-281a29162874,2018,Sharjah Medical Center,Ciprofloxacin,750,2,7,Sinusitis
+24be7b2a-59ea-4ef2-b3de-32f4b7cd84f8,2020,Dubai Clinic,Ciprofloxacin,750,1,10,Sinusitis
+0187e49b-9502-411d-94c5-72ccccb2ba53,2021,Abu Dhabi Hospital,Norfloxacin,750,2,7,Sinusitis
+34cf2d4a-ba3b-4b06-bc45-6a881568da5a,2018,Ajman Health Center,Ciprofloxacin,500,2,5,Sinusitis
+80275b22-31e5-4ef2-985c-b2c02d053a0a,2018,Ajman Health Center,Moxifloxacin,500,1,5,RTI
+c2be2653-ab6e-4289-a197-e13b818654a7,2019,Abu Dhabi Hospital,Ciprofloxacin,750,1,7,Sinusitis
+7cc3ab4d-4851-4ee9-81f9-069e459ae5f5,2020,Ajman Health Center,Norfloxacin,750,2,5,RTI
+2599f693-4fd6-4c4c-8c79-7edd2668dfc5,2023,Sharjah Medical Center,Moxifloxacin,750,2,7,Skin Infection
+9871d8de-079c-4790-8366-8a2c6192c35d,2018,Abu Dhabi Hospital,Norfloxacin,750,2,5,Skin Infection
+d9938127-5e6f-4384-bd45-581a50b46db3,2018,Sharjah Medical Center,Norfloxacin,250,1,10,Sinusitis
+5420809e-751d-42e8-a3db-d26442961dd5,2020,Abu Dhabi Hospital,Moxifloxacin,250,1,7,Sinusitis
+66f12948-e063-46f5-9861-34119c33198d,2021,Sharjah Medical Center,Ofloxacin,500,2,7,Sinusitis
+1dd99b04-9953-4c2a-b725-5af201e8ec94,2019,Dubai Clinic,Ofloxacin,250,1,10,Prostatitis
+113f6a77-7fff-46c2-9a12-3da36aceb03d,2020,Ajman Health Center,Ciprofloxacin,500,1,5,UTI
+6218c471-6ea7-425f-957f-abdf940d0a5f,2018,Abu Dhabi Hospital,Ciprofloxacin,750,2,10,Prostatitis
+d7e062e0-e755-41b8-86ea-f1d4ba80cb14,2019,Abu Dhabi Hospital,Ciprofloxacin,750,2,7,Sinusitis
+dbd744b8-6a8c-4000-92f6-a45c1afafbbc,2021,Dubai Clinic,Ofloxacin,750,2,10,Prostatitis
+170d9bd8-d3bb-4c88-8ee8-8a689a22c931,2021,Sharjah Medical Center,Ciprofloxacin,250,2,10,UTI
+13bd3ec8-09e3-408b-8e39-bca36b2d4c56,2022,Ajman Health Center,Ciprofloxacin,750,2,7,Sinusitis
+75f98c91-14e7-42d8-b1a4-660a9189849f,2022,Sharjah Medical Center,Levofloxacin,250,2,10,Skin Infection
+162fe4bb-3598-4004-89d6-24b8bd0e6b0e,2018,Ajman Health Center,Levofloxacin,250,2,7,Sinusitis
+eae64139-861a-4ddb-99d1-37cc12dbd12a,2018,Abu Dhabi Hospital,Ciprofloxacin,500,1,10,Sinusitis
+a7671cf5-412e-4f34-9467-904dcfc6c290,2022,Sharjah Medical Center,Norfloxacin,250,2,10,UTI
+3fa26137-6060-4c66-9bd7-1e76b288d8ad,2021,Ajman Health Center,Norfloxacin,500,2,7,Skin Infection
+ee8c7876-68b8-4f66-b837-1e726f8e4b40,2020,Sharjah Medical Center,Ciprofloxacin,250,2,10,Sinusitis
+62c1afb4-cd34-414a-bacf-b14d5ad21b21,2020,Abu Dhabi Hospital,Ofloxacin,750,1,10,UTI
+76c91242-79a1-4c14-b479-0251953e0458,2023,Sharjah Medical Center,Norfloxacin,250,2,7,UTI
+47b94f05-ca81-438f-910b-efacabf3915b,2019,Abu Dhabi Hospital,Moxifloxacin,500,1,10,Skin Infection
+eacb60fa-0c8e-47cd-ad78-239dbfb4e6e4,2020,Sharjah Medical Center,Levofloxacin,750,1,10,RTI
+a3858bdd-3442-4932-b4a8-a2b2226e8628,2022,Dubai Clinic,Ofloxacin,500,1,7,RTI
+5067ea20-86ab-4290-9ca6-39ba369e0a70,2021,Dubai Clinic,Norfloxacin,250,2,5,RTI
+050664ff-868b-487d-8237-4f46c1c948f1,2022,Dubai Clinic,Ofloxacin,500,2,5,Prostatitis
+f2356dfd-77c8-489c-9798-088c5d8d9868,2023,Dubai Clinic,Ciprofloxacin,750,2,5,Skin Infection
+53739966-4367-451c-b63c-ed0e050e2b10,2018,Abu Dhabi Hospital,Ciprofloxacin,500,2,7,Skin Infection
+078ed0e9-e32b-4bc7-bc52-600f86de865b,2021,Dubai Clinic,Ofloxacin,750,2,7,Skin Infection
+626f8ee0-46ad-4051-b03a-427e4a8a31c4,2019,Ajman Health Center,Levofloxacin,500,2,7,Skin Infection
+181a637f-68b8-46a5-a4bb-95a281f94718,2022,Abu Dhabi Hospital,Levofloxacin,750,2,7,Sinusitis
+4847ec54-5207-435f-81fb-bd2ade3ba27c,2023,Sharjah Medical Center,Moxifloxacin,500,2,5,Skin Infection
+3c4b91c9-a346-4d71-8f40-c3e1723586e1,2023,Ajman Health Center,Ofloxacin,750,1,10,Sinusitis
+0a79b4c6-1903-497e-84e7-6324784a0dbf,2019,Sharjah Medical Center,Ciprofloxacin,500,1,10,UTI
+684f7909-4ae6-44ed-a4ba-e78b56cd810e,2018,Abu Dhabi Hospital,Ofloxacin,250,1,10,Prostatitis
+0b784d50-9e9f-4b00-8b1e-ddf141f2a84b,2020,Dubai Clinic,Moxifloxacin,500,1,5,UTI
+f7407a67-38b7-4d73-af3d-79c4e3496c4b,2022,Abu Dhabi Hospital,Levofloxacin,750,1,10,UTI
+dd7f6cc8-18b6-4167-b94e-4c3f320135f5,2023,Abu Dhabi Hospital,Levofloxacin,750,1,7,Sinusitis
+a5f77380-1e14-45c2-8acb-ba4c1d6d909f,2019,Abu Dhabi Hospital,Ciprofloxacin,500,2,7,UTI
+59a514ba-5067-497e-a77b-a4a24ddd39ca,2023,Ajman Health Center,Moxifloxacin,500,2,7,RTI
+190fa687-8a59-4c2d-90ff-a70158e7e773,2018,Sharjah Medical Center,Levofloxacin,500,2,7,UTI
+974085ba-0c1b-4921-93fc-e9c666a9a594,2020,Sharjah Medical Center,Ciprofloxacin,500,1,7,RTI
+db38a2e0-d77d-42a1-83ca-7553ba6a12c3,2022,Ajman Health Center,Ciprofloxacin,750,2,5,RTI
+a4064e10-bfda-494b-b0a0-27618f903783,2022,Ajman Health Center,Ciprofloxacin,750,1,7,Skin Infection
+18c22c80-d0e1-4319-b2e5-022b6a1b8df3,2018,Abu Dhabi Hospital,Levofloxacin,250,2,7,UTI
+f6b1f08d-c242-48e6-809f-42fd5e36d69a,2021,Dubai Clinic,Levofloxacin,250,2,7,RTI
+c38c876e-9006-40d2-83c0-4cf552b38991,2023,Sharjah Medical Center,Ofloxacin,750,1,10,Prostatitis
+2e0cd687-4494-4c6e-8863-b847134e4686,2021,Ajman Health Center,Ofloxacin,750,1,10,RTI
+fdfd5fef-9f68-4d72-a1f1-e2a13cdc17c0,2018,Ajman Health Center,Ofloxacin,250,2,7,Skin Infection
+bb4b8679-a0ee-496d-9f59-3764b110b13c,2021,Abu Dhabi Hospital,Levofloxacin,500,2,5,Prostatitis
+0180697e-c43e-401e-a854-4d41dd3502d4,2020,Dubai Clinic,Ciprofloxacin,750,1,7,RTI
+238a33e9-df00-4308-ac86-99fbfcdeef01,2020,Ajman Health Center,Levofloxacin,750,2,7,UTI
+c9389069-f479-4210-ba1c-705882cf22b0,2023,Ajman Health Center,Ciprofloxacin,250,1,5,UTI
+aff270de-6b2b-4c3f-ab8a-43d81d6e5b20,2023,Dubai Clinic,Ofloxacin,500,1,10,Skin Infection
+d4cdcdf6-7860-4c71-955d-616f8bc95456,2021,Ajman Health Center,Levofloxacin,250,2,5,Skin Infection
+3b1a8424-5ac3-4a14-a909-0e0c0a9eda7c,2023,Abu Dhabi Hospital,Ofloxacin,250,1,10,Sinusitis
+19712c97-32b8-4cbe-a4d5-949ced0306d5,2021,Dubai Clinic,Norfloxacin,250,1,5,RTI
+81327deb-d9ce-4254-9580-e58a5f07f2df,2021,Abu Dhabi Hospital,Ofloxacin,750,1,5,RTI
+ae2ab88e-aa7f-4585-98b2-94bfaef50a63,2018,Dubai Clinic,Levofloxacin,500,1,7,Sinusitis
+878abade-26f3-4f72-90be-2fa468c402d6,2019,Abu Dhabi Hospital,Levofloxacin,250,2,10,Sinusitis
+a99690e2-c468-4573-9154-388541865519,2019,Abu Dhabi Hospital,Ciprofloxacin,500,2,10,Prostatitis
+3a790bed-a536-466f-a249-ce1de3bd8159,2020,Abu Dhabi Hospital,Norfloxacin,750,1,7,RTI
+a4b97f27-dceb-4987-8540-07045a0dcf5d,2018,Dubai Clinic,Moxifloxacin,250,1,7,RTI
+c55920f8-05f8-407f-9170-9daf7c8aa828,2021,Dubai Clinic,Moxifloxacin,750,1,7,RTI
+634d6fa4-c36a-4194-bcee-d42f5b8ce5db,2022,Abu Dhabi Hospital,Ciprofloxacin,250,2,5,UTI
+c370269e-0559-4cc5-9a11-2ab5ff119c12,2021,Abu Dhabi Hospital,Levofloxacin,250,1,5,Sinusitis
+b093c04f-9916-4993-9d94-13345f4aeb86,2020,Ajman Health Center,Ofloxacin,750,1,5,RTI
+6a9547bf-32d9-4331-b24b-0a238fe3943c,2023,Sharjah Medical Center,Norfloxacin,500,2,5,RTI
+2d4d58fc-2c3c-4c89-8d44-466c3d837bdb,2022,Abu Dhabi Hospital,Norfloxacin,250,2,10,UTI
+3d49f986-224a-4382-a2ad-686399cb3afc,2023,Sharjah Medical Center,Moxifloxacin,500,1,10,RTI
