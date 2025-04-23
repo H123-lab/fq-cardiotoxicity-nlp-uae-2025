@@ -1,0 +1,18 @@
+﻿"Provider,Total Notes,Fluoroquinolone Mentions,Cardio Risk Mentions,% Risk-Aware Notes,Risk Awareness Score"
+"NMC Royal Hospital Ltd,128,93,68,53.1,84"
+"Burjeel Medical City,112,76,59,52.7,82"
+"Mediclinic Al Noor,104,69,42,40.4,75"
+"Tawam Hospital,98,71,37,37.8,70"
+"Kanad Hospital,85,61,30,35.2,68"
+"Al Ahli Hospital,72,44,19,26.4,59"
+"Burjeel Hospital Branch 1,67,40,12,17.9,48"
+"Medeor 24x7 Hospital,64,37,9,14.1,43"
+"LLH Hospital LLC,58,32,5,8.6,36"
+"Phoenix Hospital LLC,41,20,2,4.9,29"
+
+
+Notes:
+
+% Risk-Aware Notes = (Risk Mentions ÷ Total Notes) × 100
+
+Risk Awareness Score = Normalized scale (0–100) based on documentation + sentiment (high scores mean higher awareness)

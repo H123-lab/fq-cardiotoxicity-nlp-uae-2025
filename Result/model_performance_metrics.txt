@@ -1,0 +1,24 @@
+{
+  "model": "Random Forest Classifier",
+  "target_variable": "Prescribing Risk Level (Low / Moderate / High)",
+  "input_features": ["Fluoroquinolone", "Risk Term", "Sentiment Score"],
+  "train_test_split": "80/20",
+  "metrics": {
+    "accuracy": 0.875,
+    "precision": 0.84,
+    "recall": 0.81,
+    "f1_score": 0.825,
+    "auc_roc": 0.91
+  },
+  "class_distribution": {
+    "Low Risk": 320,
+    "Moderate Risk": 150,
+    "High Risk": 90
+  },
+  "ner_model": {
+    "model": "BioClinicalBERT (Fine-Tuned)",
+    "ner_tags": ["B-DRUG", "B-ADR", "B-RISK"],
+    "token_accuracy": 0.97,
+    "entity_f1_score": 0.88
+  }
+}

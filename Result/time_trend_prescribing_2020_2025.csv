@@ -1,0 +1,19 @@
+﻿Year,Ciprofloxacin,Levofloxacin,Moxifloxacin,ECG-Monitored Prescriptions,Total Prescriptions
+,,,,,
+2020,620,480,430,110,1530
+2021,580,510,395,140,1485
+2022,555,550,355,180,1445
+2023,510,590,310,230,1410
+2024,465,630,260,280,1375
+2025,420,670,215,340,1345
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Risk Awareness Score = Normalized scale (0–100) based on documentation + sentiment (high scores mean higher awareness),,,,,
