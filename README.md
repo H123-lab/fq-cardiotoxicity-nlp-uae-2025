@@ -1,5 +1,3 @@
-# 📘 README.md for Fluoroquinolone Cardiac Risk Study (UAE, 2018–2025)
-
 # 🧬 Fluoroquinolone-Associated Cardiotoxicity in the UAE: NLP-Based Real-World Risk Analysis (2018–2025)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15271591.svg)](https://doi.org/10.5281/zenodo.15271591)
