@@ -83,17 +83,12 @@ This bar chart compares the predicted probabilities of arrhythmia for each fluor
 | `co_medication_interactions.csv`     | Mapped co-prescription data with QT-prolonging drugs                       |
 | `literature_guidelines_extracted.csv`| Benchmark guideline mentions from EMA, WHO, MSD                            |
 
-## 📊 Interactive Dashboard
 
-This interactive Power BI dashboard provides a real-time summary of fluoroquinolone prescribing patterns, risk signals, and ADRs across the UAE (2018–2023). It includes:
-- Drug-specific arrhythmia risks
-- High-risk co-prescription alerts
-- Timeline-based prescribing trends
+## 📊 Interactive Dashboard (Static Summary View)
 
-🔗 [Open Dashboard in Power BI](https://yourpowerbi-public-url.com)
-
-### 📷 Static Preview
+Although no live Power BI dashboard is hosted, this static visualization summarizes key dashboard elements based on study data.
 
 ![Dashboard Overview](figures/dashboard_overview.png)
+
 
 
