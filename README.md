@@ -73,6 +73,16 @@ This bar chart compares the predicted probabilities of arrhythmia for each fluor
     ├── 04_kaplan_meier_and_logistic_regression.ipynb
     └── 05_dashboard_visualization_powerbi.ipynb
 
+## 📂 Key Datasets
+
+| File Name                            | Description                                                                |
+|--------------------------------------|----------------------------------------------------------------------------|
+| `prescriptions_mohap_2018_2023.csv`  | Anonymized prescription-level data from UAE MOHAP records                  |
+| `faers_cardio_adrs_cleaned.csv`      | FAERS-reported cardiac ADRs linked to fluoroquinolones                     |
+| `ehr_physician_notes_sample.csv`     | De-identified physician notes annotated for QT risk                        |
+| `co_medication_interactions.csv`     | Mapped co-prescription data with QT-prolonging drugs                       |
+| `literature_guidelines_extracted.csv`| Benchmark guideline mentions from EMA, WHO, MSD                            |
+
 ## 📊 Interactive Dashboard
 
 This interactive Power BI dashboard provides a real-time summary of fluoroquinolone prescribing patterns, risk signals, and ADRs across the UAE (2018–2023). It includes:
