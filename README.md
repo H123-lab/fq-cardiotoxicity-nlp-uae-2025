@@ -39,7 +39,7 @@ This bar chart compares the predicted probabilities of arrhythmia for each fluor
 
 ![Arrhythmia Probability](figures/arrhythmia_probability_by_drug.png)
 
----
+--- Environmental exposure modeling data is available in /data/environmental_risk_public_health_UAE.txt
 
 ## 📂 Project Structure
 
