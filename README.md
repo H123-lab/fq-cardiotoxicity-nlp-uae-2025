@@ -13,6 +13,15 @@ This repository contains a reproducible analysis pipeline that investigates the 
 
 This work helps bridge the regional data gap and supports policy recommendations for safer prescribing practices.
 
+## 🔍 Objective
+This study aims to assess the cardiovascular risks associated with fluoroquinolone use in the UAE using pharmacovigilance reports, unstructured clinical narratives, and real-world ECG and contamination data, combined with NLP and machine learning.
+
+---
+## 🧠 Methods
+- NLP Pipeline: Tokenization, NER (BioBERT), Sentiment Analysis, and Relationship Extraction using spaCy & transformers.
+- Risk Modeling: Random Forest, SVM, and Ensemble learning for ADR risk classification.
+- Survival Analysis: Kaplan–Meier with log-rank tests for time-to-event modeling.
+
 ---
 
 ## 📊 Results / Figures
@@ -75,6 +84,19 @@ This bar chart compares the predicted probabilities of arrhythmia for each fluor
 
 ## 📂 Key Datasets
 
+The datasets and resources used in this repository are all publicly available:
+
+| Dataset | Access Link |
+|--------|-------------|
+| MOHAP Adverse Drug Reaction Reports (UAE) | [https://mohap.gov.ae/en/statistics-and-reports](https://mohap.gov.ae/en/statistics-and-reports) |
+| WHO VigiAccess | [https://www.vigiaccess.org](https://www.vigiaccess.org) |
+| FDA FAERS (Adverse Event Reporting System) | [https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html) |
+| EMA EudraVigilance Reports | [https://www.adrreports.eu/en/search_subst.html](https://www.adrreports.eu/en/search_subst.html) |
+| MIMIC-IV ECG Demo Dataset | [https://physionet.org/content/mimic-iv-ecg-demo/0.1/](https://physionet.org/content/mimic-iv-ecg-demo/0.1/) |
+| UAE MOCCAE Open Water & Environmental Data | [https://www.moccae.gov.ae/en/open-data.aspx](https://www.moccae.gov.ae/en/open-data.aspx) |
+| Drug-Induced TdP Case Database | [https://figshare.com/articles/dataset/15102690](https://figshare.com/articles/dataset/15102690) |
+| FDA Drug-Induced Cardiotoxicity Rank (DICTrank) | [https://www.fda.gov/science-research/bioinformatics-tools/drug-induced-cardiotoxicity-rank-dictrank-dataset](https://www.fda.gov/science-research/bioinformatics-tools/drug-induced-cardiotoxicity-rank-dictrank-dataset) |
+
 | File Name                            | Description                                                                |
 |--------------------------------------|----------------------------------------------------------------------------|
 | `prescriptions_mohap_2018_2023.csv`  | Anonymized prescription-level data from UAE MOHAP records                  |
@@ -90,5 +112,15 @@ Although no live Power BI dashboard is hosted, this static visualization summari
 
 ![Dashboard Overview](figures/dashboard_overview.png)
 
+## 📜 Citation
+If using this repository, please cite:
 
+> Author, Hassa Iftikhar et al. (2025). AI-NLP-Based Risk Prediction of Fluoroquinolone-Induced Cardiotoxicity in the UAE: A Real-World Pharmacovigilance and Molecular Insight Study. _Submitted to Frontiers in Pharmacology_.
 
+## 🛡️ Ethics
+All datasets were anonymized and collected from open-access sources. Ethical approval was not required in accordance with MOHAP UAE’s policy on retrospective secondary data analyses.
+
+---
+
+## 🔗 Project Archive
+- Zenodo DOI: [https://doi.org/10.5281/zenodo.15271591](https://doi.org/10.5281/zenodo.15271591)
