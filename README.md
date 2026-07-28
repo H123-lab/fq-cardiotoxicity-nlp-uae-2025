@@ -1,126 +1,288 @@
-# 🧬 Fluoroquinolone-Associated Cardiotoxicity in the UAE: NLP-Based Real-World Risk Analysis (2018–2025)
+# Fluoroquinolone-Associated Cardiotoxicity in the UAE: Integrated Pharmacovigilance, Explainable AI, Geospatial Analysis, and Molecular Characterization
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15271591.svg)](https://doi.org/10.5281/zenodo.15271591)
+This repository contains the computational analysis framework associated with the manuscript:
 
-## 🧠 Introduction
+**Fluoroquinolone-Associated Cardiotoxicity in the UAE: An Integrated Pharmacovigilance, Explainable AI, Geospatial, and Molecular Analysis (2018–2023)**
 
-This repository contains a reproducible analysis pipeline that investigates the cardiovascular risks associated with fluoroquinolone antibiotics in the UAE using a multi-modal AI framework. By combining natural language processing (NLP), pharmacovigilance reports, physician notes, and machine learning (ML), the study aims to:
-
-- Assess adverse cardiac outcomes (QT prolongation, arrhythmias, sudden cardiac death)
-- Analyze prescribing trends (2018–2025) using real-world and simulated UAE data
-- Measure risk awareness among healthcare providers
-- Predict high-risk cases using AI-based models
-
-This work helps bridge the regional data gap and supports policy recommendations for safer prescribing practices.
-
-## 🔍 Objective
-This study aims to assess the cardiovascular risks associated with fluoroquinolone use in the UAE using pharmacovigilance reports, unstructured clinical narratives, and real-world ECG and contamination data, combined with NLP and machine learning.
-
----
-## 🧠 Methods
-- NLP Pipeline: Tokenization, NER (BioBERT), Sentiment Analysis, and Relationship Extraction using spaCy & transformers.
-- Risk Modeling: Random Forest, SVM, and Ensemble learning for ADR risk classification.
-- Survival Analysis: Kaplan–Meier with log-rank tests for time-to-event modeling.
+The repository is being structured to provide a transparent and reproducible computational record of the analyses reported in the manuscript.
 
 ---
 
-## 📊 Results / Figures
+## Study Scope
 
-### 1. Kaplan–Meier Survival Analysis
+This study investigates fluoroquinolone-associated cardiovascular adverse drug reactions (ADRs) in the United Arab Emirates (UAE) during **January 1, 2018 through December 31, 2023**.
 
-This figure illustrates the time-to-onset of arrhythmia events stratified by fluoroquinolone type. Moxifloxacin demonstrates a steeper early drop, indicating faster onset in some patients.
+The analytical framework integrates:
 
-![KM Curve](figures/km_arrhythmia_by_drug.png)
+1. Pharmacovigilance signal detection
+2. Clinical and pharmacological feature harmonization
+3. Natural language processing (NLP)
+4. Machine-learning prediction
+5. Explainable artificial intelligence (XAI)
+6. Drug-drug interaction (DDI) network analysis
+7. Descriptive geospatial analysis
+8. Molecular docking and structure-activity relationship (SAR) analysis
+9. In silico ADMET and toxicity prediction
 
----
-
-### 2. Logistic Regression (Odds Ratios)
-
-Forest plot displaying adjusted odds ratios (OR) for arrhythmia risk by drug type and predisposing conditions. Moxifloxacin shows significantly increased adjusted risk.
-
-![Logistic Regression](figures/logistic_odds_ratios_arrhythmia.png)
-
----
-
-### 3. Arrhythmia Incidence by Fluoroquinolone Type
-
-This bar chart compares the predicted probabilities of arrhythmia for each fluoroquinolone. Moxifloxacin ranked highest, followed by levofloxacin and ciprofloxacin.
-
-![Arrhythmia Probability](figures/arrhythmia_probability_by_drug.png)
-
---- Environmental exposure modeling data is available in /data/environmental_risk_public_health_UAE.txt
-
-## 📂 Project Structure
-
-```plaintext
-📁 data/
-    ├── prescriptions_mohap_2018_2023.csv
-    ├── faers_cardio_adrs_cleaned.csv
-    ├── ehr_physician_notes_sample.csv
-    ├── co_medication_interactions.csv
-    └── literature_guidelines_extracted.csv
-
-📁 models/
-    ├── fq_cardiac_risk_classifier.pkl
-    └── transformers_fine_tuned_ner_model/ (includes config.json, tokenizer.json, model.safetensors, etc.)
-
-📁 results/
-    ├── descriptive_statistics_summary.csv
-    ├── risk_awareness_scores_by_provider.csv
-    ├── time_trend_prescribing_2020_2025.csv
-    └── model_performance_metrics.json
-
-📁 figures/
-    ├── km_arrhythmia_by_drug.png
-    ├── logistic_odds_ratios_arrhythmia.png
-    └── arrhythmia_probability_by_drug.png
-
-📁 notebooks/
-    ├── 01_data_cleaning_preprocessing.ipynb
-    ├── 02_ner_and_sentiment_analysis.ipynb
-    ├── 03_risk_prediction_model_training.ipynb
-    ├── 04_kaplan_meier_and_logistic_regression.ipynb
-    └── 05_dashboard_visualization_powerbi.ipynb
-
-## 📂 Key Datasets
-
-The datasets and resources used in this repository are all publicly available:
-
-| Dataset | Access Link |
-|--------|-------------|
-| MOHAP Adverse Drug Reaction Reports (UAE) | [https://mohap.gov.ae/en/statistics-and-reports](https://mohap.gov.ae/en/statistics-and-reports) |
-| WHO VigiAccess | [https://www.vigiaccess.org](https://www.vigiaccess.org) |
-| FDA FAERS (Adverse Event Reporting System) | [https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html) |
-| EMA EudraVigilance Reports | [https://www.adrreports.eu/en/search_subst.html](https://www.adrreports.eu/en/search_subst.html) |
-| MIMIC-IV ECG Demo Dataset | [https://physionet.org/content/mimic-iv-ecg-demo/0.1/](https://physionet.org/content/mimic-iv-ecg-demo/0.1/) |
-| UAE MOCCAE Open Water & Environmental Data | [https://www.moccae.gov.ae/en/open-data.aspx](https://www.moccae.gov.ae/en/open-data.aspx) |
-| Drug-Induced TdP Case Database | [https://figshare.com/articles/dataset/15102690](https://figshare.com/articles/dataset/15102690) |
-| FDA Drug-Induced Cardiotoxicity Rank (DICTrank) | [https://www.fda.gov/science-research/bioinformatics-tools/drug-induced-cardiotoxicity-rank-dictrank-dataset](https://www.fda.gov/science-research/bioinformatics-tools/drug-induced-cardiotoxicity-rank-dictrank-dataset) |
-
-| File Name                            | Description                                                                |
-|--------------------------------------|----------------------------------------------------------------------------|
-| `prescriptions_mohap_2018_2023.csv`  | Anonymized prescription-level data from UAE MOHAP records                  |
-| `faers_cardio_adrs_cleaned.csv`      | FAERS-reported cardiac ADRs linked to fluoroquinolones                     |
-| `ehr_physician_notes_sample.csv`     | De-identified physician notes annotated for QT risk                        |
-| `co_medication_interactions.csv`     | Mapped co-prescription data with QT-prolonging drugs                       |
-| `literature_guidelines_extracted.csv`| Benchmark guideline mentions from EMA, WHO, MSD                            |
-
-
-## 📊 Interactive Dashboard (Static Summary View)
-
-Although no live Power BI dashboard is hosted, this static visualization summarizes key dashboard elements based on study data.
-
-![Dashboard Overview](figures/dashboard_overview.png)
-
-## 📜 Citation
-If using this repository, please cite:
-
-> Author, Hassa Iftikhar et al. (2025). AI-NLP-Based Risk Prediction of Fluoroquinolone-Induced Cardiotoxicity in the UAE: A Real-World Pharmacovigilance and Molecular Insight Study. _Submitted to Frontiers in Pharmacology_.
-
-## 🛡️ Ethics
-All datasets were anonymized and collected from open-access sources. Ethical approval was not required in accordance with MOHAP UAE’s policy on retrospective secondary data analyses.
+The objective is to connect population-level safety signals with interpretable clinical risk factors and hypothesis-generating molecular evidence.
 
 ---
 
-## 🔗 Project Archive
-- Zenodo DOI: [https://doi.org/10.5281/zenodo.15271591](https://doi.org/10.5281/zenodo.15271591)
+## Analytical Framework
+
+The analytical workflow follows the sequence:
+
+**Data acquisition → harmonization and quality control → NLP-based concept extraction → pharmacovigilance signal detection → statistical modeling → machine-learning prediction → internal validation → SHAP-based explainability → DDI network analysis → geospatial reporting analysis → molecular docking/SAR/ADMET characterization**
+
+The analytical components are complementary rather than a single causal model.
+
+In particular:
+
+- Pharmacovigilance analyses characterize reported safety signals.
+- Machine-learning models estimate predictive associations within the analytical dataset.
+- SHAP provides model-level feature attribution.
+- Geospatial analyses characterize regional reporting patterns.
+- Molecular analyses provide hypothesis-generating mechanistic information.
+- Molecular structural modifications are computational candidates and are not experimentally validated in this study.
+
+---
+
+## Machine-Learning Models
+
+The predictive modeling framework consists of:
+
+- Random Forest
+- XGBoost
+- Logistic Regression
+
+The final ensemble combines predictions from these three models using a weighted averaging strategy, with ensemble weights determined during internal validation.
+
+### Important model-definition statement
+
+**BioBERT is not part of the predictive ensemble.**
+
+BioBERT is used exclusively for biomedical named-entity recognition and clinical concept extraction from relevant text sources. Extracted concepts are normalized and incorporated into the structured analytical dataset.
+
+The final predictive ensemble is therefore:
+
+**Random Forest + XGBoost + Logistic Regression**
+
+and **not** Random Forest + XGBoost + BioBERT.
+
+---
+
+## Explainable AI
+
+Model interpretability is assessed using SHapley Additive exPlanations (SHAP).
+
+SHAP analyses are used to:
+
+- rank influential predictors;
+- quantify feature contributions to model predictions;
+- examine predictor-response relationships; and
+- compare machine-learning feature attribution with independent predictors identified through multivariable logistic regression.
+
+The final SHAP feature list and ranking will be generated directly from the finalized analytical model implementation to maintain exact correspondence between code, figures, tables, and manuscript text.
+
+---
+
+## Pharmacovigilance Analyses
+
+Signal detection uses complementary disproportionality methods:
+
+- Proportional Reporting Ratio (PRR)
+- Reporting Odds Ratio (ROR)
+- Information Component (IC)
+- Empirical Bayes Geometric Mean (EBGM)
+
+Multivariable logistic regression is used to evaluate adjusted associations between predefined clinical/drug-related predictors and the study outcome.
+
+---
+
+## Natural Language Processing
+
+Biomedical text processing uses BioBERT-based NLP methods for:
+
+- biomedical named-entity recognition;
+- clinical concept extraction;
+- terminology normalization; and
+- mapping of extracted concepts to standardized clinical/pharmacological terminology.
+
+BioBERT is an NLP component only and is not used as a predictive ensemble classifier.
+
+---
+
+## Geospatial Analysis
+
+Geospatial analysis evaluates the regional distribution of reported fluoroquinolone-associated cardiovascular ADRs within the UAE.
+
+These analyses describe **reporting patterns and geographic heterogeneity**.
+
+They do **not** estimate:
+
+- true population incidence;
+- causal geographic risk;
+- environmental causation; or
+- individual-level exposure-response relationships.
+
+Potential differences in healthcare access, reporting intensity, surveillance practices, and regional population structure are therefore considered important contextual factors.
+
+---
+
+## Molecular Analysis
+
+Molecular analyses include:
+
+- molecular docking;
+- protein-ligand interaction characterization;
+- structure-activity relationship (SAR) analysis;
+- physicochemical and drug-likeness assessment;
+- ADMET prediction; and
+- computational toxicity prediction.
+
+These analyses are intended to provide **hypothesis-generating mechanistic evidence** concerning differential fluoroquinolone cardiotoxicity and predicted hERG liability.
+
+Computational structural modifications represent candidate redesign strategies and require experimental validation before any translational or clinical interpretation.
+
+---
+
+## Validation and Generalizability
+
+Machine-learning development uses stratified internal cross-validation and internal evaluation procedures.
+
+Model performance is assessed using metrics including:
+
+- accuracy;
+- sensitivity;
+- specificity;
+- precision;
+- recall;
+- F1-score;
+- ROC-AUC; and
+- calibration measures.
+
+The study does **not** claim external validation against an independent clinical cohort.
+
+Accordingly, model performance should be interpreted as **internally validated predictive performance**, rather than externally validated clinical prediction performance.
+
+---
+
+## Data Sources and Data Availability
+
+The study integrates information derived from publicly accessible, regulatory, pharmacovigilance, biomedical, and computational resources, subject to the access conditions and terms governing each source.
+
+The repository will distinguish clearly between:
+
+1. publicly downloadable source datasets;
+2. derived analytical datasets;
+3. code-generated intermediate files;
+4. summary results; and
+5. restricted, aggregated, or otherwise non-redistributable source information.
+
+No identifiable patient-level information will be included in this repository.
+
+Where source data cannot legally or technically be redistributed, the repository will provide the corresponding source citation, access instructions, data-processing code, and documentation required to reproduce the analytical workflow as far as permitted.
+
+**The finalized data-access links, processed datasets where permissible, and reproducibility materials will be made available in the repository following manuscript acceptance and in accordance with applicable data-use restrictions.**
+
+---
+
+## Reproducibility
+
+The repository is being reconstructed to maintain one-to-one consistency between:
+
+**Manuscript Methods ↔ source code ↔ analytical parameters ↔ model definitions ↔ results ↔ figures ↔ supplementary tables**
+
+Particular attention is being given to:
+
+- exact model composition;
+- feature definitions;
+- SHAP feature rankings;
+- ensemble weights;
+- preprocessing rules;
+- data harmonization;
+- statistical thresholds;
+- validation procedures;
+- software versions;
+- molecular docking parameters; and
+- provenance of derived results.
+
+The finalized computational environment and software specifications are documented in the supplementary analytical pipeline.
+
+---
+
+## Software Environment
+
+The principal computational environment includes:
+
+- Python 3.11
+- R 4.3.3
+- scikit-learn
+- XGBoost
+- SHAP
+- BioBERT
+- Hugging Face Transformers
+- PyTorch
+- GeoPandas
+- ArcGIS Pro
+- Cytoscape
+- Schrödinger Maestro/Glide
+- PyMOL
+- PLIP
+- SwissADME
+- pkCSM
+- ProTox-II
+
+Exact versions and analysis-specific parameters will be documented in the repository and supplementary analytical pipeline.
+
+---
+
+## Repository Structure
+
+The finalized repository will be organized approximately as follows:
+
+```text
+fq-cardiotoxicity-nlp-uae-2025/
+│
+├── README.md
+├── LICENSE
+├── CITATION.cff
+│
+├── environment/
+│   ├── requirements.txt
+│   └── environment.yml
+│
+├── config/
+│   └── analysis_config.yaml
+│
+├── data/
+│   ├── raw/
+│   ├── external/
+│   ├── processed/
+│   └── README.md
+│
+├── src/
+│   ├── data/
+│   ├── pharmacovigilance/
+│   ├── nlp/
+│   ├── statistics/
+│   ├── machine_learning/
+│   ├── explainability/
+│   ├── ddi/
+│   ├── geospatial/
+│   └── molecular/
+│
+├── scripts/
+│   └── run_pipeline.py
+│
+├── results/
+│   ├── tables/
+│   ├── figures/
+│   └── supplementary/
+│
+├── notebooks/
+│
+└── docs/
+    ├── data_dictionary.md
+    ├── analytical_pipeline.md
+    └── reproducibility.md
