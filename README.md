@@ -184,6 +184,11 @@ Where legally and technically appropriate, the repository provides:
 - non-identifiable synthetic or demonstration data where applicable; and
 - derived results that do not disclose restricted source records.
 
+Restricted source datasets are not included in this repository.
+
+The analysis requires authorized access to the underlying data.
+Users must place locally authorized datasets in their own environment
+and configure the corresponding input path before running the analysis.
 Researchers seeking access to restricted source data should contact the relevant data custodian directly and obtain any required authorization before attempting to reproduce analyses involving those data.
 
 Publicly accessible external datasets are identified separately, together with their original source and applicable access conditions.
