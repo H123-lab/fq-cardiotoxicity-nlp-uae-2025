@@ -22,3 +22,18 @@ data users.
 > **Access restriction:** The underlying MOHAP-derived records are not included
 > in the public repository. This schema does not constitute redistribution of
 > the source dataset.
+>
+> PUBLIC
+> FAERS
+EudraVigilance publicly accessible outputs
+VigiAccess, subject to its access/usage terms
+Public molecular databases
+Public benchmark datasets
+>
+> RESTRICTED
+> MOHAP-derived data
+Any third-party UAE records supplied under restricted access
+Any institutional/private clinical records
+>
+> SYNTHETIC / DEMONSTRATION
+> Synthetic data created solely for demonstrating the pipeline
