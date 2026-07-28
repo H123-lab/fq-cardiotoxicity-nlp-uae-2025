@@ -169,21 +169,24 @@ Accordingly, model performance should be interpreted as **internally validated p
 
 ## Data Sources and Data Availability
 
-The study integrates information derived from publicly accessible, regulatory, pharmacovigilance, biomedical, and computational resources, subject to the access conditions and terms governing each source.
+The repository contains analysis code, documentation, and reproducibility materials.
 
-The repository will distinguish clearly between:
+Certain UAE pharmacovigilance and prescription-level datasets used in the study were obtained from third-party sources under access conditions that do not permit public redistribution. These restricted source datasets are therefore NOT included in this repository.
 
-1. publicly downloadable source datasets;
-2. derived analytical datasets;
-3. code-generated intermediate files;
-4. summary results; and
-5. restricted, aggregated, or otherwise non-redistributable source information.
+In particular, the original MOHAP-derived dataset used for the primary analysis is not publicly redistributed here.
 
-No identifiable patient-level information will be included in this repository.
+Where legally and technically appropriate, the repository provides:
+- analysis scripts and notebooks;
+- data dictionaries and variable specifications;
+- preprocessing and harmonization procedures;
+- model-development code;
+- configuration files and software requirements;
+- non-identifiable synthetic or demonstration data where applicable; and
+- derived results that do not disclose restricted source records.
 
-Where source data cannot legally or technically be redistributed, the repository will provide the corresponding source citation, access instructions, data-processing code, and documentation required to reproduce the analytical workflow as far as permitted.
+Researchers seeking access to restricted source data should contact the relevant data custodian directly and obtain any required authorization before attempting to reproduce analyses involving those data.
 
-**The finalized data-access links, processed datasets where permissible, and reproducibility materials will be made available in the repository following manuscript acceptance and in accordance with applicable data-use restrictions.**
+Publicly accessible external datasets are identified separately, together with their original source and applicable access conditions.
 
 ---
 
