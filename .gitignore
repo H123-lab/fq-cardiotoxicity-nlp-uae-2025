@@ -1,48 +1,131 @@
-# Python
+# ============================================================
+# Python Environment
+# ============================================================
+
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 
-# Virtual environments
+
+# ============================================================
+# Virtual Environments
+# ============================================================
+
 venv/
 env/
 .venv/
 
-# Jupyter
+
+# ============================================================
+# Jupyter Notebook
+# ============================================================
+
 .ipynb_checkpoints/
 
-# OS files
+
+# ============================================================
+# Operating System Files
+# ============================================================
+
 .DS_Store
 Thumbs.db
 
-# Restricted raw datasets
-data/raw/
-data/private/
 
-# Patient-level datasets
-data/*patient*
-data/*ehr*
-data/*mohap*
-data/*faers_raw*
+# ============================================================
+# IDE Settings
+# ============================================================
 
-# Keep reproducible results and supplementary tables
+.vscode/
+.idea/
+
+
+# ============================================================
+# Restricted and Sensitive Data
+# ============================================================
+
+data/raw/*
+!data/raw/README.md
+
+data/private/*
+
+*patient*
+*Patient*
+*ehr*
+*EHR*
+*mohap*
+*MOHAP*
+*clinical_notes*
+*clinical_records*
+
+
+# ============================================================
+# External Downloads
+# ============================================================
+
+data/external/downloads/*
+
+
+# ============================================================
+# Large Data Files
+# ============================================================
+
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+
+# ============================================================
+# Allowed Reproducible Documentation Outputs
+# ============================================================
+
 !results/*.csv
 !results/*.json
+
 !supplementary/*.xlsx
+!supplementary/*.csv
+
 !data/example_data/*
 
-# Temporary files
-*.tmp
-*.log
 
-# Model files
+# ============================================================
+# Machine Learning Models
+# ============================================================
+
 *.pkl
+*.pickle
 *.joblib
+
 *.pt
 *.pth
 
-# Large molecular files
+
+# ============================================================
+# Molecular Simulation Files
+# ============================================================
+
 *.mae
 *.maegz
 *.dcd
 *.xtc
+*.trr
+*.gro
+*.top
+
+
+# ============================================================
+# Temporary Files
+# ============================================================
+
+*.tmp
+*.log
+*.cache
+
+
+# ============================================================
+# Generated Intermediate Outputs
+# ============================================================
+
+results/raw/
+results/intermediate/
