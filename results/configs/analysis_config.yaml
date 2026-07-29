@@ -1,0 +1,176 @@
+# ============================================================
+# Study Configuration
+# AI-Driven Pharmacovigilance and Molecular Profiling
+# of Fluoroquinolone-Associated Cardiotoxicity in the UAE
+# ============================================================
+
+study:
+
+  title: >
+    AI-Driven Pharmacovigilance and Molecular Profiling of
+    Fluoroquinolone-Associated Cardiotoxicity in the UAE
+
+  country: UAE
+
+  study_design: >
+    Retrospective observational pharmacovigilance study
+
+  study_period:
+
+    start: "2018-01-01"
+
+    end: "2023-12-31"
+
+
+
+# ============================================================
+# Reporting Standards
+# ============================================================
+
+reporting:
+
+  strobe: true
+
+  tripod: true
+
+  explainable_ai: true
+
+
+
+# ============================================================
+# Pharmacovigilance
+# ============================================================
+
+pharmacovigilance:
+
+  terminology:
+
+    meddra: true
+
+    who_umc: true
+
+    atc: true
+
+  signal_detection:
+
+    prr: true
+
+    ror: true
+
+    ic: true
+
+    ebgm: true
+
+
+
+# ============================================================
+# Machine Learning
+# ============================================================
+
+machine_learning:
+
+  random_seed: 42
+
+  validation:
+
+    method: Stratified Cross Validation
+
+  models:
+
+    - Random Forest
+
+    - XGBoost
+
+    - Logistic Regression
+
+  ensemble:
+
+    enabled: true
+
+    method: Weighted Average
+
+  explainability:
+
+    shap: true
+
+
+
+# ============================================================
+# NLP
+# ============================================================
+
+nlp:
+
+  model:
+
+    BioBERT
+
+  purpose:
+
+    Biomedical Named Entity Recognition
+
+  included_in_prediction: false
+
+
+
+# ============================================================
+# Statistical Analysis
+# ============================================================
+
+statistics:
+
+  significance_level: 0.05
+
+  confidence_interval: 95
+
+
+
+# ============================================================
+# Geospatial Analysis
+# ============================================================
+
+geospatial:
+
+  software: ArcGIS Pro
+
+  country: UAE
+
+
+
+# ============================================================
+# Molecular Analysis
+# ============================================================
+
+molecular:
+
+  docking:
+
+    software: Glide XP
+
+  admet:
+
+    swissadme: true
+
+    pkcsm: true
+
+    protox: true
+
+
+
+# ============================================================
+# Outputs
+# ============================================================
+
+outputs:
+
+  figures:
+
+    dpi: 600
+
+  tables:
+
+    format: csv
+
+  model_metrics:
+
+    format: json
