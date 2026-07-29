@@ -1,0 +1,35 @@
+{
+  "study": "AI-Driven Pharmacovigilance and Molecular Profiling of Fluoroquinolone-Associated Cardiotoxicity in the UAE",
+
+  "prediction_task": "Binary classification of clinically significant fluoroquinolone-associated cardiotoxicity",
+
+  "training_strategy": {
+    "validation": "Stratified cross-validation",
+    "ensemble": "Weighted average",
+    "models": [
+      "Random Forest",
+      "XGBoost",
+      "Logistic Regression"
+    ],
+    "note": "BioBERT was used only for NLP-based clinical concept extraction and was not included in the predictive ensemble."
+  },
+
+  "performance_metrics": {
+    "accuracy": null,
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "roc_auc": null,
+    "specificity": null,
+    "sensitivity": null,
+    "brier_score": null,
+    "calibration_slope": null
+  },
+
+  "software": {
+    "python": "3.11",
+    "scikit_learn": "1.4",
+    "xgboost": "2.0",
+    "shap": "0.45"
+  }
+}
