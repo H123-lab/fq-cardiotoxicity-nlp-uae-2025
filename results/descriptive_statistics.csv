@@ -1,0 +1,16 @@
+Variable,Statistic,Value,Unit,Notes
+Total analytical records,N,,records,Generated from processed dataset
+Study period,Range,2018–2023,,Study inclusion period
+Age,Mean,,years,Calculated automatically
+Age,Median,,years,
+Age,Standard deviation,,years,
+Male participants,N,,records,
+Female participants,N,,records,
+Systemic fluoroquinolone exposure,N,,records,
+QT prolongation,N,,events,
+Torsades de pointes,N,,events,
+Ventricular arrhythmia,N,,events,
+Sudden cardiac death,N,,events,
+Hospitalization,N,,events,
+Serious ADR,N,,events,
+Fatal outcome,N,,events,
