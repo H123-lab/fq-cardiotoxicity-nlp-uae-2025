@@ -15,14 +15,21 @@ env/
 .DS_Store
 Thumbs.db
 
-# Raw restricted datasets
+# Restricted raw datasets
 data/raw/
 data/private/
 
-# Patient-level data
-*.csv
-*.xlsx
-*.xls
+# Patient-level datasets
+data/*patient*
+data/*ehr*
+data/*mohap*
+data/*faers_raw*
+
+# Keep reproducible results and supplementary tables
+!results/*.csv
+!results/*.json
+!supplementary/*.xlsx
+!data/example_data/*
 
 # Temporary files
 *.tmp
