@@ -1,0 +1,10 @@
+Predictor,Adjusted_OR,Lower_95CI,Upper_95CI,P_Value,Interpretation
+Age,,,,,
+Sex,,,,,
+Fluoroquinolone type,,,,,
+Baseline cardiovascular disease,,,,,
+Electrolyte disturbance,,,,,
+Renal impairment,,,,,
+Concomitant QT-prolonging medication,,,,,
+Polypharmacy,,,,,
+Other predictor,,,,,
