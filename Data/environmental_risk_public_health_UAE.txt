@@ -1,32 +1,36 @@
+Environmental Context for Precision Pharmacovigilance
 
-Title: Environmental Exposure to Fluoroquinolones and Public Health Impact in the UAE (2018–2023)
+Purpose
 
-Objective:
-Quantify the link between antibiotic (fluoroquinolone) pollution in the environment, UAE pharmacovigilance signals, and population-level arrhythmia risk.
+This document summarizes the role of environmental information within the analytical framework of this study.
 
-Data Sources:
-- Ciprofloxacin wastewater concentrations: UAE Ministry of Climate Change Reports (2018–2023)
-- Fluoroquinolone prescription volumes: UAE MOHAP open datasets
-- Cardiac arrhythmia odds ratios: TdP Database, PhysioNet, MIMIC-IV critical care datasets
+Role in the Study
 
-Environmental Findings:
-- Average ciprofloxacin concentration in wastewater: 480–530 ng/L across UAE regions.
-- WHO recommended safe limit exceeded in >90% samples.
+Environmental information was incorporated exclusively to provide contextual support for geospatial pharmacovigilance interpretation within a broader One Health framework.
 
-Public Health Correlation:
-- Higher environmental ciprofloxacin concentrations correlated with increased regional cardiac arrhythmias.
-- Estimated preventable arrhythmias annually:
-    - Ciprofloxacin: ~864 cases
-    - Levofloxacin: ~882 cases
-    - Moxifloxacin: ~960 cases
+Environmental information was not used:
 
-Quantitative Impact Modeling:
-- Odds ratio of TdP for Moxifloxacin exposure: 3.2
-- Projected cardiac burden extrapolated using UAE annual prescription volumes (~1.2M FQ courses).
+to estimate causal associations;
+to calculate environmental exposure risk;
+to model population incidence;
+to predict individual cardiotoxicity.
 
-Conclusion:
-- This modeling suggests that low-dose environmental exposure to fluoroquinolones may contribute meaningfully to public health burden.
-- Reinforces the need for integrated pharmacovigilance and environmental monitoring frameworks in UAE.
+Accordingly, environmental information should be interpreted as hypothesis-generating rather than inferential.
 
-Keywords:
-Fluoroquinolone, Ciprofloxacin, Environmental Pollution, Cardiac Arrhythmias, Pharmacovigilance, UAE, Public Health Risk, Machine Learning, TdP Risk Modeling
+Analytical Scope
+
+The primary analytical framework comprised:
+
+pharmacovigilance signal detection;
+clinical risk prediction using explainable machine learning;
+natural language processing;
+regional pharmacovigilance visualization;
+molecular docking and computational pharmacology.
+
+Environmental context was considered only during interpretation of regional reporting patterns.
+
+Interpretation
+
+Because environmental monitoring data, spontaneous adverse-event reporting systems, and healthcare utilization represent distinct surveillance systems, no direct causal relationships between environmental fluoroquinolone concentrations and cardiovascular adverse drug reactions were inferred.
+
+Future studies incorporating prospective environmental sampling together with individual-level clinical exposure data may further clarify potential relationships.
