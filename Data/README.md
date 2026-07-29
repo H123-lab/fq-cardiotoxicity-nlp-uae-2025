@@ -2,37 +2,101 @@
 
 ## Overview
 
-This directory contains documentation related to datasets used in the study:
+This directory documents the datasets, data structures, and data-handling procedures used in the study:
 
-"AI-Driven Pharmacovigilance and Molecular Profiling of Fluoroquinolone-Associated Cardiotoxicity in the UAE"
+**"AI-Driven Pharmacovigilance and Molecular Profiling of Fluoroquinolone-Associated Cardiotoxicity in the UAE"**
 
-## Restricted Datasets
+The analytical framework integrates pharmacovigilance surveillance, clinical text processing, machine learning, explainable artificial intelligence, geospatial analysis, and molecular computational approaches.
 
-The UAE pharmacovigilance datasets obtained from governmental and regulatory sources are subject to third-party data access restrictions.
+---
 
-Raw patient-level or institution-level datasets are not publicly distributed in this repository.
+# Data Availability Summary
 
-## Public Data Sources
+The study utilized a combination of restricted-access pharmacovigilance datasets and publicly accessible biomedical resources.
 
-The study additionally used publicly accessible resources including:
+Due to data governance policies and third-party restrictions, individual-level healthcare records and institution-level pharmacovigilance datasets cannot be publicly released.
+
+---
+
+# Restricted Datasets
+
+## UAE Pharmacovigilance Data
+
+The UAE-specific pharmacovigilance datasets used for this study were obtained from authorized healthcare and regulatory sources.
+
+These datasets contain potentially sensitive information and are subject to:
+
+- Third-party data access agreements
+- Institutional data governance requirements
+- Privacy and confidentiality regulations
+
+Therefore:
+
+- Raw patient-level records are not included in this repository.
+- Institution-level identifiable information is not publicly distributed.
+- Data cannot be redistributed without appropriate authorization from the original data providers.
+
+Researchers interested in accessing comparable datasets should apply directly to the respective data custodians.
+
+---
+
+# Publicly Available Data Sources
+
+The analytical framework incorporated publicly accessible resources, including:
 
 - FDA Adverse Event Reporting System (FAERS)
 - WHO VigiAccess
 - European EudraVigilance
 - Public biomedical databases
+- Public molecular structure repositories
 
-## Reproducibility
+Access procedures and database availability are determined by the respective data providers.
 
-Because some datasets are restricted, the repository provides:
+---
 
-- Data processing workflows
+# Repository Data Content
+
+To support reproducibility, this repository provides:
+
+## Documentation
+
+- Data dictionary
 - Variable definitions
-- Analytical scripts
-- Model development framework
-- Statistical analysis pipelines
+- Analytical workflow descriptions
+- Metadata documentation
 
-Researchers requiring access to restricted datasets should obtain appropriate permissions from the respective data providers.
+## Computational Resources
 
-## Data Security
+- Data preprocessing workflows
+- Statistical analysis scripts
+- Machine-learning pipelines
+- Explainable AI workflows
+- Molecular analysis workflows
 
-No identifiable patient information is included in this repository.
+## Reproducibility Materials
+
+The repository includes analytical code and configuration files required to reproduce the computational workflow using equivalent datasets or approved-access data sources.
+
+---
+
+# Data Processing and Security
+
+All data processing procedures were performed according to applicable data governance principles.
+
+No identifiable patient information, confidential clinical records, or restricted healthcare datasets are included in this repository.
+
+All publicly available materials included in this repository are intended solely for scientific reproducibility and methodological transparency.
+
+---
+
+# Data Access Requests
+
+Requests for restricted datasets should be directed to the original data providers.
+
+The authors cannot provide unauthorized access to restricted healthcare datasets.
+
+---
+
+# Contact
+
+For questions regarding analytical methods, code availability, or repository structure, please contact the corresponding author.
