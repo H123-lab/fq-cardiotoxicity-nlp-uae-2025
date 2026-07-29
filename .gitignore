@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw restricted datasets
+data/raw/
+data/private/
+
+# Patient-level data
+*.csv
+*.xlsx
+*.xls
+
+# Temporary files
+*.tmp
+*.log
+
+# Model files
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Large molecular files
+*.mae
+*.maegz
+*.dcd
+*.xtc
