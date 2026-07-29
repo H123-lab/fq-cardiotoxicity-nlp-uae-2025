@@ -55,6 +55,7 @@ Raw datasets should remain unchanged after acquisition.
 All preprocessing steps should be performed through reproducible scripts located in:
 
 src/data_processing.py
+
 The raw data layer should never contain:
 
 - Personally identifiable information
@@ -67,7 +68,11 @@ The raw data layer should never contain:
 # Local Usage
 
 Researchers reproducing the analysis should place authorized raw datasets locally within this directory structure:
-
+data/
+└── raw/
+├── pharmacovigilance/
+├── clinical_text/
+└── molecular_inputs/
 
 Local raw data files should not be committed to version control.
 
@@ -78,6 +83,7 @@ Local raw data files should not be committed to version control.
 Large or restricted datasets are excluded from GitHub using `.gitignore`.
 
 Only metadata, documentation, and reproducible processing scripts are maintained in this repository.
+
 Raw data → Processing scripts → Processed datasets → Analysis outputs
 
 
